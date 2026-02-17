@@ -1,0 +1,1501 @@
+Order ID,Order Date,CustomerName,State,City,Year,Month,Month Name,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode,Profit Margin %,Revenue Category
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,5729,64,14,Furniture,Chairs,EMI,1.117123407226392,High Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,671,114,9,Electronics,Phones,Credit Card,16.98956780923994,High Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,443,11,1,Clothing,Saree,COD,2.4830699774266365,High Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,57,7,2,Clothing,Shirt,UPI,12.280701754385964,Low Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,227,48,5,Clothing,Stole,COD,21.145374449339208,High Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,213,4,14,Clothing,Shirt,COD,1.8779342723004695,High Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,94,27,2,Clothing,T-shirt,COD,28.723404255319153,Low Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,1250,-12,2,Electronics,Printers,EMI,-0.96,High Revenue
+B-26055,2018-10-03,Harivansh,Uttar Pradesh,Mathura,2018.0,10.0,October,1218,-420,8,Furniture,Bookcases,COD,-34.48275862068966,High Revenue
+B-25993,2018-03-02,Madhav,Delhi,Delhi,2018.0,3.0,March,610,208,3,Electronics,Printers,COD,34.0983606557377,High Revenue
+B-25993,2018-03-02,Madhav,Delhi,Delhi,2018.0,3.0,March,414,199,3,Electronics,Phones,COD,48.06763285024155,High Revenue
+B-25993,2018-03-02,Madhav,Delhi,Delhi,2018.0,3.0,March,44,8,2,Clothing,Stole,COD,18.181818181818183,Low Revenue
+B-25993,2018-03-02,Madhav,Delhi,Delhi,2018.0,3.0,March,173,86,1,Electronics,Printers,Debit Card,49.71098265895954,High Revenue
+B-25993,2018-03-02,Madhav,Delhi,Delhi,2018.0,3.0,March,221,26,7,Furniture,Furnishings,COD,11.76470588235294,High Revenue
+B-25993,2018-03-02,Madhav,Delhi,Delhi,2018.0,3.0,March,201,32,4,Furniture,Furnishings,UPI,15.92039800995025,High Revenue
+B-25993,2018-03-02,Madhav,Delhi,Delhi,2018.0,3.0,March,4363,305,5,Furniture,Tables,EMI,6.990602796241118,High Revenue
+B-25973,,Madan Mohan,Uttar Pradesh,Mathura,,,,398,111,8,Clothing,Hankerchief,COD,27.889447236180903,High Revenue
+B-25973,,Madan Mohan,Uttar Pradesh,Mathura,,,,79,39,2,Clothing,Shirt,Debit Card,49.36708860759494,Low Revenue
+B-25973,,Madan Mohan,Uttar Pradesh,Mathura,,,,39,14,5,Clothing,Leggings,COD,35.8974358974359,Low Revenue
+B-25973,,Madan Mohan,Uttar Pradesh,Mathura,,,,571,108,12,Clothing,Stole,Debit Card,18.914185639229423,High Revenue
+B-25973,,Madan Mohan,Uttar Pradesh,Mathura,,,,4141,1698,13,Electronics,Printers,COD,41.00458826370442,High Revenue
+B-25923,,Gopal,Maharashtra,Mumbai,,,,3873,-891,6,Electronics,Phones,Credit Card,-23.00542215336948,High Revenue
+B-25923,,Gopal,Maharashtra,Mumbai,,,,253,-11,1,Clothing,Trousers,Debit Card,-4.3478260869565215,High Revenue
+B-25923,,Gopal,Maharashtra,Mumbai,,,,226,58,3,Electronics,Accessories,COD,25.663716814159294,High Revenue
+B-25923,,Gopal,Maharashtra,Mumbai,,,,484,28,3,Electronics,Printers,Debit Card,5.785123966942149,High Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,17,-13,4,Clothing,Skirt,Debit Card,-76.47058823529412,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,46,14,5,Clothing,Skirt,Debit Card,30.434782608695656,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,211,19,8,Clothing,Stole,COD,9.004739336492891,High Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,165,30,3,Clothing,Stole,COD,18.181818181818183,High Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,34,-11,5,Clothing,T-shirt,COD,-32.35294117647059,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,98,9,2,Furniture,Furnishings,COD,9.183673469387756,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,106,15,7,Clothing,Hankerchief,Credit Card,14.150943396226415,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,53,15,2,Clothing,Stole,COD,28.30188679245283,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,14,5,1,Clothing,Hankerchief,COD,35.714285714285715,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,17,7,3,Clothing,Hankerchief,UPI,41.17647058823529,Low Revenue
+B-25757,,Vishakha,Madhya Pradesh,Indore,,,,3151,-35,7,Clothing,Trousers,EMI,-1.1107584893684546,High Revenue
+B-25967,,Sudevi,Uttar Pradesh,Prayagraj,,,,17,2,2,Clothing,Skirt,Debit Card,11.76470588235294,Low Revenue
+B-25967,,Sudevi,Uttar Pradesh,Prayagraj,,,,119,-24,4,Furniture,Furnishings,COD,-20.168067226890756,Low Revenue
+B-25967,,Sudevi,Uttar Pradesh,Prayagraj,,,,229,59,9,Clothing,Saree,Debit Card,25.76419213973799,High Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,2927,146,8,Furniture,Bookcases,EMI,4.988042364195422,High Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,39,2,2,Clothing,Saree,Debit Card,5.128205128205128,Low Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,54,14,3,Clothing,T-shirt,UPI,25.925925925925924,Low Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,294,62,9,Clothing,T-shirt,EMI,21.08843537414966,High Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,110,20,5,Clothing,Stole,Debit Card,18.181818181818183,Low Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,200,13,5,Electronics,Phones,COD,6.5,High Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,45,8,4,Clothing,Skirt,EMI,17.77777777777778,Low Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,954,95,3,Electronics,Printers,UPI,9.958071278825996,High Revenue
+B-25955,,Shiva,Maharashtra,Pune,,,,1716,309,7,Electronics,Accessories,COD,18.006993006993007,High Revenue
+B-26093,,Sarita,Maharashtra,Pune,,,,2847,712,8,Electronics,Printers,Credit Card,25.008781173164735,High Revenue
+B-26093,,Sarita,Maharashtra,Pune,,,,852,51,5,Furniture,Bookcases,Credit Card,5.985915492957746,High Revenue
+B-26093,,Sarita,Maharashtra,Pune,,,,148,25,3,Clothing,Saree,Debit Card,16.89189189189189,High Revenue
+B-26093,,Sarita,Maharashtra,Pune,,,,81,-41,5,Clothing,Leggings,EMI,-50.617283950617285,Low Revenue
+B-26093,,Sarita,Maharashtra,Pune,,,,49,5,4,Clothing,Hankerchief,COD,10.204081632653061,Low Revenue
+B-26093,,Sarita,Maharashtra,Pune,,,,33,-1,1,Clothing,Saree,Credit Card,-3.0303030303030303,Low Revenue
+B-26093,,Sarita,Maharashtra,Pune,,,,492,187,2,Electronics,Accessories,UPI,38.00813008130081,High Revenue
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2018.0,1.0,January,448,148,2,Electronics,Printers,COD,33.035714285714285,High Revenue
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2018.0,1.0,January,61,-50,4,Clothing,Hankerchief,COD,-81.9672131147541,Low Revenue
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2018.0,1.0,January,47,-3,2,Clothing,Stole,COD,-6.382978723404255,Low Revenue
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2018.0,1.0,January,379,63,2,Clothing,Saree,COD,16.62269129287599,High Revenue
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2018.0,1.0,January,38,-13,3,Clothing,Stole,Credit Card,-34.21052631578947,Low Revenue
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2018.0,1.0,January,2830,-1981,13,Furniture,Bookcases,EMI,-70.0,High Revenue
+B-25602,2018-01-04,Vrinda,Maharashtra,Pune,2018.0,1.0,January,2617,1151,4,Electronics,Phones,Credit Card,43.98165838746657,High Revenue
+B-25602,2018-01-04,Vrinda,Maharashtra,Pune,2018.0,1.0,January,561,212,3,Clothing,Saree,COD,37.78966131907308,High Revenue
+B-25602,2018-01-04,Vrinda,Maharashtra,Pune,2018.0,1.0,January,424,-272,5,Electronics,Phones,COD,-64.15094339622641,High Revenue
+B-25602,2018-01-04,Vrinda,Maharashtra,Pune,2018.0,1.0,January,168,-111,2,Electronics,Phones,EMI,-66.07142857142857,High Revenue
+B-25602,2018-01-04,Vrinda,Maharashtra,Pune,2018.0,1.0,January,119,-5,8,Clothing,Saree,Credit Card,-4.201680672268908,Low Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,29,11,4,Clothing,Skirt,COD,37.93103448275862,Low Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,245,30,2,Clothing,Saree,COD,12.244897959183673,High Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,223,27,2,Furniture,Bookcases,COD,12.10762331838565,High Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,219,0,1,Clothing,Saree,COD,0.0,High Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,294,109,7,Electronics,Accessories,EMI,37.07482993197279,High Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,82,13,2,Clothing,Shirt,COD,15.853658536585366,Low Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,27,5,2,Clothing,Skirt,COD,18.51851851851852,Low Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,22,8,3,Clothing,Hankerchief,COD,36.36363636363637,Low Revenue
+B-25858,,Uudhav,Maharashtra,Mumbai,,,,2457,665,11,Electronics,Electronic Games,EMI,27.065527065527068,High Revenue
+B-25969,,Shreyshi,Gujarat,Surat,,,,171,17,6,Clothing,T-shirt,UPI,9.941520467836257,High Revenue
+B-25969,,Shreyshi,Gujarat,Surat,,,,720,43,2,Electronics,Printers,UPI,5.972222222222222,High Revenue
+B-25969,,Shreyshi,Gujarat,Surat,,,,2452,191,7,Furniture,Bookcases,UPI,7.789559543230016,High Revenue
+B-26099,,Bhishm,Maharashtra,Mumbai,,,,207,37,4,Clothing,Hankerchief,COD,17.874396135265698,High Revenue
+B-26099,,Bhishm,Maharashtra,Mumbai,,,,835,267,5,Electronics,Phones,Debit Card,31.976047904191617,High Revenue
+B-26099,,Bhishm,Maharashtra,Mumbai,,,,2366,552,5,Clothing,Trousers,UPI,23.330515638207945,High Revenue
+B-26099,,Bhishm,Maharashtra,Mumbai,,,,9,3,1,Clothing,Skirt,COD,33.33333333333333,Low Revenue
+B-25997,2018-04-02,Yogesh,Maharashtra,Pune,2018.0,4.0,April,231,99,2,Electronics,Electronic Games,Credit Card,42.857142857142854,High Revenue
+B-25997,2018-04-02,Yogesh,Maharashtra,Pune,2018.0,4.0,April,48,15,1,Clothing,Hankerchief,COD,31.25,Low Revenue
+B-25997,2018-04-02,Yogesh,Maharashtra,Pune,2018.0,4.0,April,16,6,3,Clothing,Hankerchief,COD,37.5,Low Revenue
+B-25997,2018-04-02,Yogesh,Maharashtra,Pune,2018.0,4.0,April,2292,127,7,Furniture,Bookcases,COD,5.541012216404886,High Revenue
+B-25881,,Lalita,Uttar Pradesh,Mathura,,,,2244,247,4,Clothing,Trousers,Credit Card,11.007130124777184,High Revenue
+B-25881,,Lalita,Uttar Pradesh,Mathura,,,,37,3,3,Clothing,Hankerchief,COD,8.108108108108109,Low Revenue
+B-25881,,Lalita,Uttar Pradesh,Mathura,,,,36,7,3,Clothing,Leggings,Debit Card,19.444444444444446,Low Revenue
+B-25881,,Lalita,Uttar Pradesh,Mathura,,,,26,9,2,Clothing,Leggings,COD,34.61538461538461,Low Revenue
+B-25881,,Lalita,Uttar Pradesh,Mathura,,,,1351,111,6,Electronics,Electronic Games,COD,8.216136195410808,High Revenue
+B-25881,,Lalita,Uttar Pradesh,Mathura,,,,2115,23,5,Furniture,Chairs,COD,1.0874704491725768,High Revenue
+B-25761,,Madhav,Uttar Pradesh,Mathura,,,,2188,1050,5,Furniture,Bookcases,Credit Card,47.98903107861061,High Revenue
+B-25761,,Madhav,Uttar Pradesh,Mathura,,,,418,70,7,Electronics,Phones,COD,16.74641148325359,High Revenue
+B-25761,,Madhav,Uttar Pradesh,Mathura,,,,102,-90,1,Clothing,Saree,COD,-88.23529411764706,Low Revenue
+B-25761,,Madhav,Uttar Pradesh,Mathura,,,,263,-31,9,Electronics,Electronic Games,Debit Card,-11.787072243346007,High Revenue
+B-25761,,Madhav,Uttar Pradesh,Mathura,,,,328,-15,3,Electronics,Electronic Games,Debit Card,-4.573170731707317,High Revenue
+B-25761,,Madhav,Uttar Pradesh,Mathura,,,,40,0,3,Clothing,Saree,Credit Card,0.0,Low Revenue
+B-25887,2018-01-12,Vishakha,Uttar Pradesh,Prayagraj,2018.0,1.0,January,2125,-234,6,Electronics,Printers,EMI,-11.011764705882353,High Revenue
+B-25887,2018-01-12,Vishakha,Uttar Pradesh,Prayagraj,2018.0,1.0,January,83,6,6,Clothing,Shirt,EMI,7.228915662650602,Low Revenue
+B-25823,,Rohan,Maharashtra,Mumbai,,,,59,6,1,Electronics,Accessories,UPI,10.16949152542373,Low Revenue
+B-25823,,Rohan,Maharashtra,Mumbai,,,,103,50,2,Furniture,Furnishings,UPI,48.54368932038835,Low Revenue
+B-25823,,Rohan,Maharashtra,Mumbai,,,,104,2,2,Furniture,Furnishings,COD,1.9230769230769231,Low Revenue
+B-25823,,Rohan,Maharashtra,Mumbai,,,,2103,322,8,Electronics,Electronic Games,UPI,15.311459819305753,High Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,2093,721,5,Furniture,Chairs,Credit Card,34.448160535117054,High Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,39,16,6,Clothing,Skirt,UPI,41.02564102564102,Low Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,199,48,4,Clothing,Stole,UPI,24.120603015075375,High Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,26,11,2,Clothing,Hankerchief,UPI,42.30769230769231,Low Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,30,14,3,Clothing,Hankerchief,UPI,46.666666666666664,Low Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,128,4,3,Clothing,Saree,COD,3.125,High Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,95,11,4,Furniture,Furnishings,COD,11.578947368421053,Low Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,199,6,2,Clothing,Saree,UPI,3.015075376884422,High Revenue
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2018.0,8.0,August,579,139,3,Electronics,Printers,Debit Card,24.006908462867013,High Revenue
+B-25862,,Amol,Bihar,Patna,,,,121,41,4,Clothing,Stole,EMI,33.88429752066116,Low Revenue
+B-25862,,Amol,Bihar,Patna,,,,80,3,3,Clothing,Stole,EMI,3.75,Low Revenue
+B-25862,,Amol,Bihar,Patna,,,,2061,701,5,Furniture,Bookcases,UPI,34.012615235322656,High Revenue
+B-25830,,Aastha,Himachal Pradesh,Simla,,,,1954,782,3,Electronics,Phones,Credit Card,40.02047082906858,High Revenue
+B-25830,,Aastha,Himachal Pradesh,Simla,,,,93,15,2,Electronics,Accessories,COD,16.129032258064516,Low Revenue
+B-25830,,Aastha,Himachal Pradesh,Simla,,,,71,0,8,Clothing,Skirt,COD,0.0,Low Revenue
+B-25830,,Aastha,Himachal Pradesh,Simla,,,,54,1,2,Clothing,Saree,UPI,1.8518518518518516,Low Revenue
+B-25830,,Aastha,Himachal Pradesh,Simla,,,,41,11,6,Clothing,Hankerchief,COD,26.82926829268293,Low Revenue
+B-25830,,Aastha,Himachal Pradesh,Simla,,,,1063,64,7,Electronics,Phones,EMI,6.020696142991533,High Revenue
+B-25786,,Madan Mohan,Uttar Pradesh,Mathura,,,,1854,433,5,Furniture,Bookcases,Credit Card,23.354908306364617,High Revenue
+B-25786,,Madan Mohan,Uttar Pradesh,Mathura,,,,623,-192,3,Furniture,Tables,UPI,-30.818619582664525,High Revenue
+B-25786,,Madan Mohan,Uttar Pradesh,Mathura,,,,44,-34,3,Clothing,Stole,Credit Card,-77.27272727272727,Low Revenue
+B-25786,,Madan Mohan,Uttar Pradesh,Mathura,,,,17,-11,3,Clothing,Skirt,UPI,-64.70588235294117,Low Revenue
+B-25686,2018-11-06,Pooja,Himachal Pradesh,Simla,2018.0,11.0,November,1829,-56,6,Furniture,Tables,Credit Card,-3.06178239475123,High Revenue
+B-25686,2018-11-06,Pooja,Himachal Pradesh,Simla,2018.0,11.0,November,381,-13,2,Clothing,Saree,COD,-3.4120734908136483,High Revenue
+B-25686,2018-11-06,Pooja,Himachal Pradesh,Simla,2018.0,11.0,November,332,503,3,Electronics,Printers,COD,151.50602409638554,High Revenue
+B-26022,,Shrichand,Punjab,Chandigarh,,,,1824,1303,8,Electronics,Phones,Credit Card,71.43640350877193,High Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,1745,122,2,Furniture,Tables,Credit Card,6.991404011461317,High Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,498,-116,4,Clothing,Saree,UPI,-23.293172690763054,High Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,315,-8,3,Furniture,Chairs,Credit Card,-2.5396825396825395,High Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,79,16,3,Clothing,T-shirt,COD,20.253164556962027,Low Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,128,47,4,Clothing,Hankerchief,COD,36.71875,High Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,114,41,6,Furniture,Furnishings,COD,35.96491228070175,Low Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,652,13,6,Furniture,Furnishings,Debit Card,1.9938650306748467,High Revenue
+B-26003,2018-08-02,Hitesh,Madhya Pradesh,Bhopal,2018.0,8.0,August,17,2,2,Clothing,Skirt,UPI,11.76470588235294,Low Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,1709,564,3,Clothing,Trousers,Credit Card,33.001755412521945,High Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,134,-34,2,Furniture,Chairs,COD,-25.37313432835821,High Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,47,-3,2,Clothing,Stole,UPI,-6.382978723404255,Low Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,257,-3,2,Furniture,Bookcases,UPI,-1.1673151750972763,High Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,80,-19,5,Clothing,Stole,UPI,-23.75,Low Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,26,4,2,Clothing,Saree,UPI,15.384615384615385,Low Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,37,-53,3,Clothing,Saree,Credit Card,-143.24324324324326,Low Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,593,213,4,Furniture,Bookcases,Debit Card,35.91905564924115,High Revenue
+B-25755,,Shourya,Kerala ,Thiruvananthapuram,,,,321,315,5,Clothing,Saree,UPI,98.13084112149532,High Revenue
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,2018.0,10.0,October,268,6,2,Furniture,Bookcases,UPI,2.2388059701492535,High Revenue
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,2018.0,10.0,October,79,6,7,Clothing,Saree,COD,7.59493670886076,Low Revenue
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,2018.0,10.0,October,154,26,4,Electronics,Accessories,COD,16.883116883116884,High Revenue
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,2018.0,10.0,October,1700,85,3,Clothing,Trousers,COD,5.0,High Revenue
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,2018.0,10.0,October,802,120,7,Electronics,Accessories,COD,14.962593516209477,High Revenue
+B-25935,2018-04-01,Sudhir,Nagaland,Kohima,2018.0,4.0,April,1657,460,4,Furniture,Chairs,Credit Card,27.76101388050694,High Revenue
+B-25935,2018-04-01,Sudhir,Nagaland,Kohima,2018.0,4.0,April,162,20,3,Furniture,Chairs,EMI,12.345679012345679,High Revenue
+B-25935,2018-04-01,Sudhir,Nagaland,Kohima,2018.0,4.0,April,150,32,3,Clothing,Hankerchief,COD,21.333333333333336,High Revenue
+B-25797,,Sauptik,Madhya Pradesh,Indore,,,,1630,802,5,Furniture,Tables,EMI,49.20245398773006,High Revenue
+B-25797,,Sauptik,Madhya Pradesh,Indore,,,,413,-314,9,Furniture,Chairs,COD,-76.02905569007264,High Revenue
+B-25797,,Sauptik,Madhya Pradesh,Indore,,,,31,1,2,Clothing,Hankerchief,UPI,3.225806451612903,Low Revenue
+B-25797,,Sauptik,Madhya Pradesh,Indore,,,,148,-101,2,Furniture,Bookcases,UPI,-68.24324324324324,High Revenue
+B-25797,,Sauptik,Madhya Pradesh,Indore,,,,89,-4,5,Clothing,Saree,Credit Card,-4.49438202247191,Low Revenue
+B-25797,,Sauptik,Madhya Pradesh,Indore,,,,976,293,4,Electronics,Accessories,COD,30.020491803278688,High Revenue
+B-25639,,Lisha,Madhya Pradesh,Bhopal,,,,1629,-153,3,Electronics,Phones,COD,-9.392265193370166,High Revenue
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,2018.0,4.0,April,1096,658,7,Electronics,Electronic Games,COD,60.03649635036496,High Revenue
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,2018.0,4.0,April,1625,-77,3,Electronics,Phones,EMI,-4.7384615384615385,High Revenue
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,2018.0,4.0,April,523,204,7,Clothing,Trousers,COD,39.0057361376673,High Revenue
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,2018.0,4.0,April,44,-3,1,Clothing,Saree,Debit Card,-6.8181818181818175,Low Revenue
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,2018.0,4.0,April,243,-14,2,Furniture,Chairs,COD,-5.761316872427984,High Revenue
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,2018.0,4.0,April,68,-27,3,Electronics,Accessories,UPI,-39.705882352941174,Low Revenue
+B-25909,,Sujay,Maharashtra,Pune,,,,1622,-448,3,Electronics,Phones,EMI,-27.62022194821208,High Revenue
+B-25909,,Sujay,Maharashtra,Pune,,,,108,22,3,Electronics,Accessories,COD,20.37037037037037,Low Revenue
+B-25909,,Sujay,Maharashtra,Pune,,,,323,122,5,Electronics,Phones,UPI,37.77089783281733,High Revenue
+B-25909,,Sujay,Maharashtra,Pune,,,,168,56,3,Clothing,Saree,COD,33.33333333333333,High Revenue
+B-25909,,Sujay,Maharashtra,Pune,,,,12,2,2,Clothing,Skirt,Credit Card,16.666666666666664,Low Revenue
+B-25910,,Jay,Delhi,Delhi,,,,1622,-624,5,Furniture,Tables,Credit Card,-38.47102342786683,High Revenue
+B-25910,,Jay,Delhi,Delhi,,,,259,47,5,Clothing,Hankerchief,Credit Card,18.146718146718147,High Revenue
+B-25910,,Jay,Delhi,Delhi,,,,685,7,7,Clothing,Trousers,UPI,1.0218978102189782,High Revenue
+B-25910,,Jay,Delhi,Delhi,,,,125,15,5,Clothing,Shirt,EMI,12.0,High Revenue
+B-25910,,Jay,Delhi,Delhi,,,,33,1,2,Clothing,Shirt,COD,3.0303030303030303,Low Revenue
+B-25910,,Jay,Delhi,Delhi,,,,850,-289,5,Electronics,Electronic Games,COD,-34.0,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,1622,95,5,Electronics,Printers,Credit Card,5.856966707768187,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,644,167,2,Electronics,Printers,COD,25.931677018633543,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,136,-33,5,Clothing,Saree,COD,-24.264705882352942,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,261,13,6,Clothing,Shirt,Credit Card,4.980842911877394,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,190,19,9,Furniture,Furnishings,Credit Card,10.0,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,133,5,5,Clothing,Stole,UPI,3.7593984962406015,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,158,-29,10,Clothing,Hankerchief,EMI,-18.354430379746837,High Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,54,27,2,Clothing,Stole,COD,50.0,Low Revenue
+B-25950,,Shruti,Madhya Pradesh,Indore,,,,13,4,1,Clothing,Leggings,UPI,30.76923076923077,Low Revenue
+B-25613,2018-12-04,Mohan,Haryana,Chandigarh,2018.0,12.0,December,1603,0,9,Clothing,Saree,Credit Card,0.0,High Revenue
+B-25919,,Neha,Rajasthan,Udaipur,,,,110,12,7,Clothing,Stole,Debit Card,10.909090909090908,Low Revenue
+B-25919,,Neha,Rajasthan,Udaipur,,,,1599,37,6,Electronics,Electronic Games,UPI,2.313946216385241,High Revenue
+B-25919,,Neha,Rajasthan,Udaipur,,,,28,4,1,Clothing,T-shirt,COD,14.285714285714285,Low Revenue
+B-25919,,Neha,Rajasthan,Udaipur,,,,636,-204,2,Electronics,Printers,Debit Card,-32.075471698113205,High Revenue
+B-25919,,Neha,Rajasthan,Udaipur,,,,977,-244,7,Electronics,Phones,COD,-24.97441146366428,High Revenue
+B-25768,2018-01-09,Shreyoshe,Karnataka,Bangalore,2018.0,1.0,January,1582,-443,6,Clothing,Trousers,EMI,-28.00252844500632,High Revenue
+B-25629,,Hemant,Kerala ,Thiruvananthapuram,,,,1560,421,3,Clothing,Trousers,COD,26.987179487179485,High Revenue
+B-25729,,Madhulika,Madhya Pradesh,Bhopal,,,,1549,-439,4,Electronics,Phones,Credit Card,-28.340865074241446,High Revenue
+B-25943,2018-09-01,Shardul,Gujarat,Ahmedabad,2018.0,9.0,September,1547,340,6,Electronics,Accessories,EMI,21.978021978021978,High Revenue
+B-25943,2018-09-01,Shardul,Gujarat,Ahmedabad,2018.0,9.0,September,48,20,4,Clothing,Stole,UPI,41.66666666666667,Low Revenue
+B-25943,2018-09-01,Shardul,Gujarat,Ahmedabad,2018.0,9.0,September,137,38,5,Clothing,Hankerchief,Debit Card,27.73722627737226,High Revenue
+B-25943,2018-09-01,Shardul,Gujarat,Ahmedabad,2018.0,9.0,September,149,15,3,Clothing,Saree,Debit Card,10.06711409395973,High Revenue
+B-25943,2018-09-01,Shardul,Gujarat,Ahmedabad,2018.0,9.0,September,26,7,4,Clothing,Hankerchief,COD,26.923076923076923,Low Revenue
+B-25842,2018-02-11,Sheetal,Maharashtra,Pune,2018.0,2.0,February,1543,370,8,Electronics,Printers,Credit Card,23.979261179520414,High Revenue
+B-26073,,Pournamasi,Madhya Pradesh,Indore,,,,37,17,3,Clothing,Hankerchief,Debit Card,45.94594594594595,Low Revenue
+B-26073,,Pournamasi,Madhya Pradesh,Indore,,,,122,11,4,Clothing,Hankerchief,COD,9.01639344262295,Low Revenue
+B-26073,,Pournamasi,Madhya Pradesh,Indore,,,,290,110,9,Clothing,Stole,UPI,37.93103448275862,High Revenue
+B-26073,,Pournamasi,Madhya Pradesh,Indore,,,,29,9,3,Clothing,Saree,UPI,31.03448275862069,Low Revenue
+B-26073,,Pournamasi,Madhya Pradesh,Indore,,,,1514,742,4,Electronics,Printers,EMI,49.00924702774108,High Revenue
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,2018.0,11.0,November,1506,-266,6,Electronics,Printers,Credit Card,-17.66268260292165,High Revenue
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,2018.0,11.0,November,933,166,5,Clothing,Saree,Credit Card,17.792068595927116,High Revenue
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,2018.0,11.0,November,109,-6,6,Clothing,Saree,COD,-5.5045871559633035,Low Revenue
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,2018.0,11.0,November,724,-447,4,Electronics,Electronic Games,UPI,-61.74033149171271,High Revenue
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,2018.0,12.0,December,561,212,3,Clothing,Saree,Credit Card,37.78966131907308,High Revenue
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,2018.0,12.0,December,138,-3,5,Clothing,Saree,COD,-2.1739130434782608,High Revenue
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,2018.0,12.0,December,90,17,3,Clothing,Shirt,COD,18.88888888888889,Low Revenue
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,2018.0,12.0,December,55,-33,2,Furniture,Chairs,COD,-60.0,Low Revenue
+B-26085,,Shrichand,Punjab,Chandigarh,,,,1487,624,3,Clothing,Trousers,Credit Card,41.96368527236046,High Revenue
+B-26085,,Shrichand,Punjab,Chandigarh,,,,132,-10,3,Clothing,Saree,COD,-7.575757575757576,High Revenue
+B-26085,,Shrichand,Punjab,Chandigarh,,,,86,22,2,Clothing,Saree,COD,25.581395348837212,Low Revenue
+B-26085,,Shrichand,Punjab,Chandigarh,,,,40,17,2,Clothing,Stole,COD,42.5,Low Revenue
+B-26048,2018-04-03,Parth,Maharashtra,Pune,2018.0,4.0,April,1461,202,5,Furniture,Tables,EMI,13.826146475017111,High Revenue
+B-26048,2018-04-03,Parth,Maharashtra,Pune,2018.0,4.0,April,401,13,6,Furniture,Chairs,Credit Card,3.2418952618453867,High Revenue
+B-26048,2018-04-03,Parth,Maharashtra,Pune,2018.0,4.0,April,163,81,2,Electronics,Accessories,COD,49.693251533742334,High Revenue
+B-26048,2018-04-03,Parth,Maharashtra,Pune,2018.0,4.0,April,1104,209,4,Clothing,Trousers,UPI,18.931159420289855,High Revenue
+B-25793,,Siddharth,Madhya Pradesh,Indore,,,,60,-12,4,Clothing,Hankerchief,Debit Card,-20.0,Low Revenue
+B-25793,,Siddharth,Madhya Pradesh,Indore,,,,257,-252,4,Clothing,Saree,Debit Card,-98.0544747081712,High Revenue
+B-25793,,Siddharth,Madhya Pradesh,Indore,,,,63,-24,6,Clothing,Kurti,COD,-38.095238095238095,Low Revenue
+B-25793,,Siddharth,Madhya Pradesh,Indore,,,,40,-33,5,Clothing,Hankerchief,Credit Card,-82.5,Low Revenue
+B-25793,,Siddharth,Madhya Pradesh,Indore,,,,24,-1,4,Clothing,Skirt,Credit Card,-4.166666666666666,Low Revenue
+B-25793,,Siddharth,Madhya Pradesh,Indore,,,,18,1,3,Clothing,Hankerchief,COD,5.555555555555555,Low Revenue
+B-25793,,Siddharth,Madhya Pradesh,Indore,,,,1402,109,11,Clothing,Saree,EMI,7.774607703281027,High Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,24,-1,2,Clothing,Hankerchief,COD,-4.166666666666666,Low Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,6,3,1,Clothing,Hankerchief,COD,50.0,Low Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,30,-5,5,Clothing,Stole,UPI,-16.666666666666664,Low Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,406,126,2,Clothing,Saree,COD,31.03448275862069,High Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,56,18,2,Clothing,Hankerchief,Debit Card,32.142857142857146,Low Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,101,18,9,Clothing,Skirt,COD,17.82178217821782,Low Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,61,-23,2,Clothing,Saree,COD,-37.704918032786885,Low Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,534,0,3,Clothing,Saree,Debit Card,0.0,High Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,624,37,2,Electronics,Electronic Games,Debit Card,5.929487179487179,High Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,651,169,5,Electronics,Printers,COD,25.960061443932414,High Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,13,-1,3,Clothing,Hankerchief,COD,-7.6923076923076925,Low Revenue
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,2018.0,11.0,November,1389,680,7,Clothing,Saree,COD,48.95608351331893,High Revenue
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,2018.0,8.0,August,1364,1864,5,Furniture,Tables,Credit Card,136.65689149560117,High Revenue
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,2018.0,8.0,August,476,0,3,Furniture,Chairs,COD,0.0,High Revenue
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,2018.0,8.0,August,257,23,5,Clothing,Hankerchief,COD,8.949416342412452,High Revenue
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,2018.0,8.0,August,856,385,6,Electronics,Printers,COD,44.976635514018696,High Revenue
+B-25752,,Vaibhav,Madhya Pradesh,Indore,,,,761,266,9,Electronics,Electronic Games,COD,34.95400788436268,High Revenue
+B-25752,,Vaibhav,Madhya Pradesh,Indore,,,,735,-235,6,Electronics,Printers,COD,-31.97278911564626,High Revenue
+B-25752,,Vaibhav,Madhya Pradesh,Indore,,,,76,27,5,Clothing,Stole,COD,35.526315789473685,Low Revenue
+B-25752,,Vaibhav,Madhya Pradesh,Indore,,,,91,15,6,Clothing,T-shirt,UPI,16.483516483516482,Low Revenue
+B-25752,,Vaibhav,Madhya Pradesh,Indore,,,,33,-27,1,Furniture,Chairs,Credit Card,-81.81818181818183,Low Revenue
+B-25752,,Vaibhav,Madhya Pradesh,Indore,,,,1361,197,9,Furniture,Bookcases,COD,14.474650991917706,High Revenue
+B-25752,,Vaibhav,Madhya Pradesh,Indore,,,,8,-2,2,Clothing,Hankerchief,COD,-25.0,Low Revenue
+B-25779,2018-12-09,Savi,Maharashtra,Pune,2018.0,12.0,December,1361,980,3,Furniture,Tables,COD,72.00587803085966,High Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,12,1,2,Clothing,Hankerchief,COD,8.333333333333332,Low Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,107,36,6,Clothing,Stole,COD,33.64485981308411,Low Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,116,16,4,Clothing,Stole,COD,13.793103448275861,Low Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,180,5,3,Clothing,Trousers,Debit Card,2.7777777777777777,High Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,193,-166,3,Clothing,Saree,EMI,-86.01036269430051,High Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,38,18,1,Clothing,Kurti,COD,47.368421052631575,Low Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,24,-30,1,Furniture,Chairs,COD,-125.0,Low Revenue
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,2018.0,3.0,March,1355,-60,5,Clothing,Trousers,COD,-4.428044280442804,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,1337,147,7,Electronics,Printers,Credit Card,10.99476439790576,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,490,88,2,Electronics,Accessories,EMI,17.959183673469386,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,382,119,2,Clothing,Saree,Credit Card,31.151832460732987,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,216,50,4,Clothing,Stole,COD,23.14814814814815,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,85,24,10,Clothing,Hankerchief,Debit Card,28.235294117647058,Low Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,80,22,3,Clothing,Stole,UPI,27.500000000000004,Low Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,669,74,5,Furniture,Bookcases,COD,11.061285500747383,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,184,85,6,Clothing,T-shirt,UPI,46.19565217391305,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,600,-102,5,Electronics,Electronic Games,Debit Card,-17.0,High Revenue
+B-26051,2018-07-03,Parishi,West Bengal,Kolkata,2018.0,7.0,July,676,195,5,Furniture,Bookcases,Debit Card,28.846153846153843,High Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,1279,-640,8,Electronics,Printers,EMI,-50.03909304143862,High Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,668,-31,3,Electronics,Printers,Credit Card,-4.640718562874251,High Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,427,-50,7,Electronics,Phones,COD,-11.7096018735363,High Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,195,-117,5,Electronics,Phones,COD,-60.0,High Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,115,25,1,Electronics,Accessories,COD,21.73913043478261,Low Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,168,-10,3,Electronics,Accessories,UPI,-5.952380952380952,High Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,227,102,8,Electronics,Accessories,Debit Card,44.93392070484582,High Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,28,-3,2,Clothing,Saree,UPI,-10.714285714285714,Low Revenue
+B-25653,2018-08-05,Farah,Nagaland,Kohima,2018.0,8.0,August,1327,318,8,Furniture,Chairs,EMI,23.9638281838734,High Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,829,19,4,Electronics,Printers,Credit Card,2.2919179734620023,High Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,90,17,3,Clothing,Hankerchief,COD,18.88888888888889,Low Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,98,12,2,Clothing,Hankerchief,Credit Card,12.244897959183673,Low Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,197,73,1,Furniture,Bookcases,COD,37.055837563451774,High Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,61,30,2,Clothing,Hankerchief,UPI,49.18032786885246,Low Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,442,31,2,Electronics,Electronic Games,UPI,7.013574660633484,High Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,550,-242,5,Furniture,Furnishings,UPI,-44.0,High Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,1319,567,5,Electronics,Printers,COD,42.98711144806672,High Revenue
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,2018.0,8.0,August,1027,441,8,Clothing,Saree,COD,42.94060370009737,High Revenue
+B-25762,,Anudeep,Madhya Pradesh,Indore,,,,1316,527,7,Electronics,Electronic Games,Credit Card,40.045592705167174,High Revenue
+B-25762,,Anudeep,Madhya Pradesh,Indore,,,,98,-5,2,Clothing,Saree,UPI,-5.1020408163265305,Low Revenue
+B-25762,,Anudeep,Madhya Pradesh,Indore,,,,27,4,3,Clothing,Skirt,COD,14.814814814814813,Low Revenue
+B-25995,2018-04-02,Yohann,Delhi,Delhi,2018.0,4.0,April,1314,342,3,Furniture,Bookcases,Credit Card,26.027397260273972,High Revenue
+B-25929,2018-02-01,Girase,Kerala ,Thiruvananthapuram,2018.0,2.0,February,1308,536,3,Furniture,Bookcases,Credit Card,40.97859327217125,High Revenue
+B-25929,2018-02-01,Girase,Kerala ,Thiruvananthapuram,2018.0,2.0,February,216,-135,3,Furniture,Chairs,Credit Card,-62.5,High Revenue
+B-25929,2018-02-01,Girase,Kerala ,Thiruvananthapuram,2018.0,2.0,February,154,-85,3,Furniture,Chairs,EMI,-55.1948051948052,High Revenue
+B-26006,2018-09-02,Arpita,Karnataka,Bangalore,2018.0,9.0,September,1301,573,5,Electronics,Accessories,Credit Card,44.04304381245196,High Revenue
+B-25697,,Vijay,Jammu and Kashmir,Kashmir,,,,1300,-16,8,Electronics,Printers,Credit Card,-1.2307692307692308,High Revenue
+B-25697,,Vijay,Jammu and Kashmir,Kashmir,,,,115,-39,3,Clothing,Trousers,COD,-33.91304347826087,Low Revenue
+B-25697,,Vijay,Jammu and Kashmir,Kashmir,,,,114,8,3,Electronics,Accessories,Debit Card,7.017543859649122,Low Revenue
+B-25697,,Vijay,Jammu and Kashmir,Kashmir,,,,73,-7,1,Electronics,Phones,COD,-9.58904109589041,Low Revenue
+B-25697,,Vijay,Jammu and Kashmir,Kashmir,,,,67,-42,3,Clothing,Stole,COD,-62.68656716417911,Low Revenue
+B-25697,,Vijay,Jammu and Kashmir,Kashmir,,,,322,193,5,Electronics,Printers,COD,59.93788819875776,High Revenue
+B-25697,,Vijay,Jammu and Kashmir,Kashmir,,,,4,-3,1,Clothing,Skirt,Credit Card,-75.0,Low Revenue
+B-25836,,Arti,Maharashtra,Pune,,,,1298,65,9,Electronics,Printers,EMI,5.007704160246533,High Revenue
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,2018.0,1.0,January,80,-56,4,Electronics,Electronic Games,UPI,-70.0,Low Revenue
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,2018.0,1.0,January,66,-12,5,Clothing,Stole,UPI,-18.181818181818183,Low Revenue
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,2018.0,1.0,January,1275,1148,7,Furniture,Bookcases,EMI,90.0392156862745,High Revenue
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,2018.0,1.0,January,8,-2,3,Clothing,Hankerchief,Credit Card,-25.0,Low Revenue
+B-25873,,Divyeta,Madhya Pradesh,Indore,,,,42,12,2,Clothing,Kurti,COD,28.57142857142857,Low Revenue
+B-25873,,Divyeta,Madhya Pradesh,Indore,,,,1275,357,2,Electronics,Phones,UPI,28.000000000000004,High Revenue
+B-25873,,Divyeta,Madhya Pradesh,Indore,,,,66,12,3,Clothing,Stole,COD,18.181818181818183,Low Revenue
+B-25873,,Divyeta,Madhya Pradesh,Indore,,,,367,73,3,Electronics,Electronic Games,UPI,19.891008174386922,High Revenue
+B-25873,,Divyeta,Madhya Pradesh,Indore,,,,7,1,1,Clothing,Hankerchief,COD,14.285714285714285,Low Revenue
+B-26028,,Manju,Andhra Pradesh,Hyderabad,,,,1272,547,2,Electronics,Phones,COD,43.00314465408805,High Revenue
+B-26028,,Manju,Andhra Pradesh,Hyderabad,,,,115,0,1,Electronics,Accessories,Debit Card,0.0,Low Revenue
+B-26028,,Manju,Andhra Pradesh,Hyderabad,,,,77,36,2,Clothing,Shirt,EMI,46.75324675324675,Low Revenue
+B-25964,,Oshin,Maharashtra,Pune,,,,346,108,3,Furniture,Chairs,COD,31.213872832369944,High Revenue
+B-25964,,Oshin,Maharashtra,Pune,,,,199,0,4,Clothing,Stole,EMI,0.0,High Revenue
+B-25964,,Oshin,Maharashtra,Pune,,,,89,6,5,Clothing,Saree,COD,6.741573033707865,Low Revenue
+B-25964,,Oshin,Maharashtra,Pune,,,,1270,546,11,Electronics,Electronic Games,EMI,42.99212598425196,High Revenue
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,2018.0,1.0,January,674,-187,2,Furniture,Tables,COD,-27.74480712166172,High Revenue
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,2018.0,1.0,January,342,-103,4,Electronics,Electronic Games,COD,-30.116959064327485,High Revenue
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,2018.0,1.0,January,79,36,4,Clothing,Shirt,COD,45.56962025316456,Low Revenue
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,2018.0,1.0,January,32,6,3,Clothing,Shirt,COD,18.75,Low Revenue
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,2018.0,1.0,January,1263,-56,5,Clothing,Trousers,EMI,-4.433887569279493,High Revenue
+B-25839,,Pranjali,West Bengal,Kolkata,,,,1250,486,7,Clothing,Saree,EMI,38.879999999999995,High Revenue
+B-25894,2018-04-12,Monu,Punjab,Amritsar,2018.0,4.0,April,1246,62,3,Furniture,Bookcases,EMI,4.975922953451043,High Revenue
+B-25925,,Shruti,Maharashtra,Mumbai,,,,27,12,1,Clothing,Stole,Debit Card,44.44444444444444,Low Revenue
+B-25925,,Shruti,Maharashtra,Mumbai,,,,314,-41,3,Electronics,Electronic Games,Credit Card,-13.05732484076433,High Revenue
+B-25925,,Shruti,Maharashtra,Mumbai,,,,1228,14,3,Furniture,Chairs,UPI,1.1400651465798046,High Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,744,119,6,Electronics,Printers,COD,15.994623655913978,High Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,67,20,4,Clothing,T-shirt,UPI,29.850746268656714,Low Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,81,41,3,Clothing,Stole,Debit Card,50.617283950617285,Low Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,188,-193,2,Electronics,Electronic Games,Credit Card,-102.65957446808511,High Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,116,22,1,Electronics,Accessories,Credit Card,18.96551724137931,Low Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,87,36,5,Clothing,Stole,Credit Card,41.37931034482759,Low Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,44,2,3,Clothing,Hankerchief,COD,4.545454545454546,Low Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,22,-8,4,Clothing,Hankerchief,Credit Card,-36.36363636363637,Low Revenue
+B-25953,,Krutika,Andhra Pradesh,Hyderabad,,,,1218,352,9,Furniture,Bookcases,EMI,28.899835796387517,High Revenue
+B-25772,2018-02-09,Sanjana,Bihar,Patna,2018.0,2.0,February,1183,106,4,Electronics,Printers,EMI,8.960270498732037,High Revenue
+B-25957,,Mahima,Madhya Pradesh,Indore,,,,147,73,3,Clothing,Stole,COD,49.65986394557823,High Revenue
+B-25957,,Mahima,Madhya Pradesh,Indore,,,,1157,-13,9,Furniture,Bookcases,Credit Card,-1.1235955056179776,High Revenue
+B-25957,,Mahima,Madhya Pradesh,Indore,,,,209,2,1,Clothing,Saree,COD,0.9569377990430622,High Revenue
+B-25730,,Rishabh,Rajasthan,Jaipur,,,,1145,-706,3,Electronics,Phones,Credit Card,-61.65938864628821,High Revenue
+B-25730,,Rishabh,Rajasthan,Jaipur,,,,18,8,2,Clothing,Hankerchief,Debit Card,44.44444444444444,Low Revenue
+B-25730,,Rishabh,Rajasthan,Jaipur,,,,473,42,4,Furniture,Chairs,COD,8.879492600422834,High Revenue
+B-25730,,Rishabh,Rajasthan,Jaipur,,,,187,30,4,Electronics,Accessories,Credit Card,16.0427807486631,High Revenue
+B-25730,,Rishabh,Rajasthan,Jaipur,,,,83,-81,3,Furniture,Chairs,COD,-97.59036144578313,Low Revenue
+B-25730,,Rishabh,Rajasthan,Jaipur,,,,96,22,5,Clothing,Stole,Credit Card,22.916666666666664,Low Revenue
+B-25877,,Dashyam,Gujarat,Surat,,,,24,8,2,Clothing,Skirt,Debit Card,33.33333333333333,Low Revenue
+B-25877,,Dashyam,Gujarat,Surat,,,,269,33,5,Furniture,Chairs,Debit Card,12.267657992565056,High Revenue
+B-25877,,Dashyam,Gujarat,Surat,,,,1137,568,2,Clothing,Trousers,EMI,49.95602462620932,High Revenue
+B-26067,,Tulika,Madhya Pradesh,Bhopal,,,,1137,-14,7,Electronics,Printers,EMI,-1.2313104661389622,High Revenue
+B-26067,,Tulika,Madhya Pradesh,Bhopal,,,,1120,199,6,Clothing,Saree,EMI,17.767857142857142,High Revenue
+B-26067,,Tulika,Madhya Pradesh,Bhopal,,,,53,2,4,Clothing,Hankerchief,COD,3.7735849056603774,Low Revenue
+B-26067,,Tulika,Madhya Pradesh,Bhopal,,,,618,27,4,Furniture,Bookcases,Credit Card,4.368932038834951,High Revenue
+B-26067,,Tulika,Madhya Pradesh,Bhopal,,,,67,2,4,Clothing,T-shirt,UPI,2.9850746268656714,Low Revenue
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,2018.0,10.0,October,1120,199,6,Clothing,Saree,EMI,17.767857142857142,High Revenue
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,2018.0,10.0,October,29,8,5,Clothing,Hankerchief,UPI,27.586206896551722,Low Revenue
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,2018.0,10.0,October,307,74,3,Electronics,Accessories,EMI,24.104234527687296,High Revenue
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,2018.0,10.0,October,92,42,2,Clothing,Stole,COD,45.65217391304348,Low Revenue
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,2018.0,10.0,October,45,6,3,Clothing,Shirt,COD,13.333333333333334,Low Revenue
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,2018.0,10.0,October,26,10,4,Clothing,Hankerchief,UPI,38.46153846153847,Low Revenue
+B-25868,,Vikash,Goa,Goa,,,,1118,206,2,Furniture,Tables,Credit Card,18.425760286225405,High Revenue
+B-25868,,Vikash,Goa,Goa,,,,170,73,2,Electronics,Accessories,UPI,42.94117647058823,High Revenue
+B-25868,,Vikash,Goa,Goa,,,,62,-1,1,Electronics,Phones,UPI,-1.6129032258064515,Low Revenue
+B-26023,,Mukesh,Haryana,Chandigarh,,,,66,22,3,Clothing,Stole,UPI,33.33333333333333,Low Revenue
+B-26023,,Mukesh,Haryana,Chandigarh,,,,59,21,2,Clothing,Stole,Debit Card,35.59322033898305,Low Revenue
+B-26023,,Mukesh,Haryana,Chandigarh,,,,29,0,3,Furniture,Furnishings,COD,0.0,Low Revenue
+B-26023,,Mukesh,Haryana,Chandigarh,,,,1117,447,10,Furniture,Bookcases,EMI,40.017905102954344,High Revenue
+B-25626,,Bhishm,Maharashtra,Mumbai,,,,46,-14,1,Electronics,Phones,COD,-30.434782608695656,Low Revenue
+B-25626,,Bhishm,Maharashtra,Mumbai,,,,1103,276,3,Furniture,Chairs,EMI,25.022665457842248,High Revenue
+B-25937,2018-05-01,Ankit,Haryana,Chandigarh,2018.0,5.0,May,1101,352,3,Furniture,Bookcases,UPI,31.970935513169845,High Revenue
+B-25610,2018-09-04,Yogesh,Bihar,Patna,2018.0,9.0,September,43,0,3,Clothing,Saree,Debit Card,0.0,Low Revenue
+B-25610,2018-09-04,Yogesh,Bihar,Patna,2018.0,9.0,September,68,-55,5,Electronics,Accessories,UPI,-80.88235294117648,Low Revenue
+B-25610,2018-09-04,Yogesh,Bihar,Patna,2018.0,9.0,September,107,-54,4,Clothing,Stole,EMI,-50.467289719626166,Low Revenue
+B-25610,2018-09-04,Yogesh,Bihar,Patna,2018.0,9.0,September,30,-5,2,Furniture,Furnishings,COD,-16.666666666666664,Low Revenue
+B-25610,2018-09-04,Yogesh,Bihar,Patna,2018.0,9.0,September,781,594,6,Electronics,Printers,Debit Card,76.05633802816901,High Revenue
+B-25610,2018-09-04,Yogesh,Bihar,Patna,2018.0,9.0,September,1076,-38,4,Electronics,Printers,COD,-3.5315985130111525,High Revenue
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,2018.0,10.0,October,1076,-38,4,Electronics,Printers,Credit Card,-3.5315985130111525,High Revenue
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,2018.0,10.0,October,59,-46,7,Clothing,T-shirt,UPI,-77.96610169491525,Low Revenue
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,2018.0,10.0,October,117,17,6,Clothing,Kurti,COD,14.529914529914532,Low Revenue
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,2018.0,10.0,October,61,-25,4,Electronics,Accessories,UPI,-40.98360655737705,Low Revenue
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,2018.0,10.0,October,69,-67,4,Clothing,Kurti,UPI,-97.10144927536231,Low Revenue
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,2018.0,2.0,February,70,-14,2,Furniture,Furnishings,UPI,-20.0,Low Revenue
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,2018.0,2.0,February,72,-6,3,Clothing,Saree,UPI,-8.333333333333332,Low Revenue
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,2018.0,2.0,February,148,-91,2,Electronics,Phones,COD,-61.48648648648649,High Revenue
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,2018.0,2.0,February,1069,0,6,Clothing,Saree,EMI,0.0,High Revenue
+B-25978,,Parin,Maharashtra,Mumbai,,,,341,160,7,Clothing,Stole,Debit Card,46.9208211143695,High Revenue
+B-25978,,Parin,Maharashtra,Mumbai,,,,1063,-175,4,Electronics,Electronic Games,EMI,-16.462841015992474,High Revenue
+B-25643,,Kirti,Jammu and Kashmir,Kashmir,,,,50,-44,2,Clothing,Hankerchief,UPI,-88.0,Low Revenue
+B-25643,,Kirti,Jammu and Kashmir,Kashmir,,,,1061,-36,8,Furniture,Bookcases,EMI,-3.3930254476908575,High Revenue
+B-25643,,Kirti,Jammu and Kashmir,Kashmir,,,,37,-23,4,Clothing,Shirt,UPI,-62.16216216216216,Low Revenue
+B-25643,,Kirti,Jammu and Kashmir,Kashmir,,,,263,-63,2,Electronics,Electronic Games,Debit Card,-23.954372623574145,High Revenue
+B-25643,,Kirti,Jammu and Kashmir,Kashmir,,,,36,-7,1,Electronics,Electronic Games,COD,-19.444444444444446,Low Revenue
+B-25728,,Ameesha,Maharashtra,Pune,,,,1055,264,4,Electronics,Printers,EMI,25.023696682464454,High Revenue
+B-25728,,Ameesha,Maharashtra,Pune,,,,771,-424,2,Electronics,Phones,Credit Card,-54.99351491569391,High Revenue
+B-25728,,Ameesha,Maharashtra,Pune,,,,322,-113,4,Clothing,Saree,Credit Card,-35.09316770186335,High Revenue
+B-25749,,Ayush,Maharashtra,Mumbai,,,,1052,-82,3,Furniture,Bookcases,UPI,-7.79467680608365,High Revenue
+B-25667,,Anjali,Haryana,Chandigarh,,,,11,-2,4,Clothing,Hankerchief,COD,-18.181818181818183,Low Revenue
+B-25667,,Anjali,Haryana,Chandigarh,,,,344,-34,3,Clothing,Saree,Debit Card,-9.883720930232558,High Revenue
+B-25667,,Anjali,Haryana,Chandigarh,,,,41,6,5,Clothing,Skirt,Credit Card,14.634146341463413,Low Revenue
+B-25667,,Anjali,Haryana,Chandigarh,,,,516,69,4,Furniture,Bookcases,UPI,13.372093023255813,High Revenue
+B-25667,,Anjali,Haryana,Chandigarh,,,,1030,206,8,Electronics,Printers,UPI,20.0,High Revenue
+B-25657,,Tulika,Madhya Pradesh,Bhopal,,,,1021,-48,4,Electronics,Electronic Games,EMI,-4.701273261508325,High Revenue
+B-25657,,Tulika,Madhya Pradesh,Bhopal,,,,32,-22,5,Clothing,Saree,UPI,-68.75,Low Revenue
+B-25657,,Tulika,Madhya Pradesh,Bhopal,,,,288,-180,4,Furniture,Chairs,COD,-62.5,High Revenue
+B-25657,,Tulika,Madhya Pradesh,Bhopal,,,,332,-43,6,Electronics,Phones,UPI,-12.951807228915662,High Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,341,-85,6,Clothing,Trousers,Credit Card,-24.926686217008797,High Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,154,22,7,Clothing,T-shirt,COD,14.285714285714285,High Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,65,-52,3,Electronics,Accessories,COD,-80.0,Low Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,47,-114,5,Furniture,Furnishings,COD,-242.55319148936172,Low Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,62,-56,5,Clothing,Kurti,COD,-90.32258064516128,Low Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,77,-43,8,Clothing,Stole,COD,-55.84415584415584,Low Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,27,-20,2,Clothing,Hankerchief,COD,-74.07407407407408,Low Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,107,31,5,Clothing,T-shirt,COD,28.971962616822427,Low Revenue
+B-25753,,Shivam,Uttar Pradesh,Lucknow,,,,620,82,6,Electronics,Accessories,COD,13.225806451612904,High Revenue
+B-26061,,Anurag,Madhya Pradesh,Indore,,,,965,-68,3,Electronics,Printers,COD,-7.046632124352331,High Revenue
+B-26061,,Anurag,Madhya Pradesh,Indore,,,,27,8,2,Clothing,T-shirt,Debit Card,29.629629629629626,Low Revenue
+B-26061,,Anurag,Madhya Pradesh,Indore,,,,206,12,1,Electronics,Printers,Credit Card,5.825242718446602,High Revenue
+B-26061,,Anurag,Madhya Pradesh,Indore,,,,109,52,2,Clothing,Stole,UPI,47.706422018348626,Low Revenue
+B-26061,,Anurag,Madhya Pradesh,Indore,,,,508,203,2,Electronics,Accessories,Debit Card,39.960629921259844,High Revenue
+B-26061,,Anurag,Madhya Pradesh,Indore,,,,642,180,5,Clothing,Saree,COD,28.037383177570092,High Revenue
+B-25838,,Sanjana,Madhya Pradesh,Indore,,,,161,40,3,Clothing,Stole,COD,24.84472049689441,High Revenue
+B-25838,,Sanjana,Madhya Pradesh,Indore,,,,81,19,7,Clothing,Hankerchief,COD,23.456790123456788,Low Revenue
+B-25838,,Sanjana,Madhya Pradesh,Indore,,,,70,26,5,Clothing,Hankerchief,COD,37.142857142857146,Low Revenue
+B-25838,,Sanjana,Madhya Pradesh,Indore,,,,955,305,3,Electronics,Printers,Debit Card,31.93717277486911,High Revenue
+B-25702,,Shaily,Maharashtra,Mumbai,,,,75,0,3,Clothing,Shirt,EMI,0.0,Low Revenue
+B-25702,,Shaily,Maharashtra,Mumbai,,,,306,-147,3,Clothing,Saree,Debit Card,-48.03921568627451,High Revenue
+B-25702,,Shaily,Maharashtra,Mumbai,,,,424,-17,9,Furniture,Chairs,Debit Card,-4.009433962264151,High Revenue
+B-25702,,Shaily,Maharashtra,Mumbai,,,,31,-3,4,Clothing,Saree,COD,-9.67741935483871,Low Revenue
+B-25702,,Shaily,Maharashtra,Mumbai,,,,941,203,3,Furniture,Tables,UPI,21.572794899043572,High Revenue
+B-25952,,Priyanka,Madhya Pradesh,Indore,,,,14,0,4,Clothing,Hankerchief,UPI,0.0,Low Revenue
+B-25952,,Priyanka,Madhya Pradesh,Indore,,,,173,69,3,Furniture,Chairs,COD,39.884393063583815,High Revenue
+B-25952,,Priyanka,Madhya Pradesh,Indore,,,,147,48,3,Clothing,Saree,COD,32.6530612244898,High Revenue
+B-25952,,Priyanka,Madhya Pradesh,Indore,,,,87,-32,9,Clothing,Skirt,COD,-36.7816091954023,Low Revenue
+B-25952,,Priyanka,Madhya Pradesh,Indore,,,,44,14,3,Clothing,Hankerchief,COD,31.818181818181817,Low Revenue
+B-25952,,Priyanka,Madhya Pradesh,Indore,,,,352,18,5,Clothing,Trousers,Debit Card,5.113636363636364,High Revenue
+B-25952,,Priyanka,Madhya Pradesh,Indore,,,,935,114,4,Electronics,Electronic Games,UPI,12.192513368983956,High Revenue
+B-25666,,Tanvi,Punjab,Chandigarh,,,,934,-916,7,Electronics,Electronic Games,COD,-98.07280513918629,High Revenue
+B-25675,,Shreya,Madhya Pradesh,Bhopal,,,,929,-93,9,Clothing,Saree,COD,-10.010764262648008,High Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,512,-225,5,Clothing,Saree,COD,-43.9453125,High Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,351,-47,8,Electronics,Phones,COD,-13.390313390313391,High Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,238,20,2,Clothing,Saree,COD,8.403361344537815,High Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,269,111,3,Clothing,Trousers,EMI,41.2639405204461,High Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,211,-105,2,Clothing,Saree,Credit Card,-49.763033175355446,High Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,245,-78,2,Electronics,Printers,UPI,-31.83673469387755,High Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,31,-2,2,Clothing,Saree,Credit Card,-6.451612903225806,Low Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,28,-26,2,Clothing,Stole,UPI,-92.85714285714286,Low Revenue
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,2018.0,6.0,June,925,-447,5,Electronics,Electronic Games,COD,-48.32432432432432,High Revenue
+B-25986,,Shweta,Rajasthan,Udaipur,,,,749,-307,7,Furniture,Furnishings,COD,-40.987983978638184,High Revenue
+B-25986,,Shweta,Rajasthan,Udaipur,,,,71,4,5,Clothing,Leggings,Debit Card,5.633802816901409,Low Revenue
+B-25986,,Shweta,Rajasthan,Udaipur,,,,487,-23,3,Electronics,Printers,Debit Card,-4.722792607802875,High Revenue
+B-25986,,Shweta,Rajasthan,Udaipur,,,,918,22,9,Electronics,Electronic Games,COD,2.3965141612200433,High Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,916,192,11,Electronics,Phones,COD,20.96069868995633,High Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,93,-1,2,Clothing,Hankerchief,COD,-1.0752688172043012,Low Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,24,1,4,Clothing,Hankerchief,COD,4.166666666666666,Low Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,485,199,4,Clothing,Saree,EMI,41.03092783505154,High Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,45,1,3,Clothing,T-shirt,Debit Card,2.2222222222222223,Low Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,148,24,3,Clothing,Stole,COD,16.216216216216218,High Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,52,18,5,Clothing,Leggings,Debit Card,34.61538461538461,Low Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,117,36,2,Clothing,Trousers,Debit Card,30.76923076923077,Low Revenue
+B-25850,2018-05-11,Abhishek,Goa,Goa,2018.0,5.0,May,513,215,2,Electronics,Accessories,COD,41.91033138401559,High Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,857,-274,2,Furniture,Tables,COD,-31.971995332555426,High Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,33,13,3,Clothing,Leggings,UPI,39.39393939393939,Low Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,171,2,2,Electronics,Electronic Games,COD,1.1695906432748537,High Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,147,73,3,Clothing,Stole,UPI,49.65986394557823,High Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,53,5,3,Clothing,T-shirt,COD,9.433962264150944,Low Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,499,33,4,Clothing,Saree,COD,6.613226452905812,High Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,191,93,4,Clothing,Shirt,UPI,48.69109947643979,High Revenue
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,2018.0,7.0,July,915,-99,3,Furniture,Tables,Debit Card,-10.819672131147541,High Revenue
+B-25813,2018-10-10,Hrisheekesh,Maharashtra,Mumbai,2018.0,10.0,October,911,202,7,Furniture,Chairs,COD,22.17343578485181,High Revenue
+B-25825,,Kartik,Madhya Pradesh,Indore,,,,140,6,5,Clothing,Saree,COD,4.285714285714286,High Revenue
+B-25825,,Kartik,Madhya Pradesh,Indore,,,,115,25,6,Clothing,Stole,COD,21.73913043478261,Low Revenue
+B-25825,,Kartik,Madhya Pradesh,Indore,,,,911,355,5,Electronics,Phones,Debit Card,38.96816684961581,High Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,27,0,2,Clothing,Leggings,COD,0.0,Low Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,148,9,1,Electronics,Electronic Games,UPI,6.081081081081082,High Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,146,66,1,Electronics,Phones,UPI,45.20547945205479,High Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,891,0,5,Clothing,Saree,COD,0.0,High Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,189,60,4,Furniture,Furnishings,Debit Card,31.746031746031743,High Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,48,11,2,Clothing,Shirt,COD,22.916666666666664,Low Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,44,10,3,Clothing,Stole,COD,22.727272727272727,Low Revenue
+B-25954,,Trupti,Gujarat,Ahmedabad,,,,524,-25,2,Electronics,Electronic Games,Debit Card,-4.770992366412214,High Revenue
+B-25696,,Noopur,Karnataka,Bangalore,,,,275,-275,4,Clothing,Saree,COD,-100.0,High Revenue
+B-25696,,Noopur,Karnataka,Bangalore,,,,44,99,3,Clothing,Kurti,Debit Card,225.0,Low Revenue
+B-25696,,Noopur,Karnataka,Bangalore,,,,117,-6,3,Electronics,Phones,COD,-5.128205128205128,Low Revenue
+B-25696,,Noopur,Karnataka,Bangalore,,,,116,-4,1,Clothing,Saree,COD,-3.4482758620689653,Low Revenue
+B-25696,,Noopur,Karnataka,Bangalore,,,,168,-9,3,Clothing,Saree,COD,-5.357142857142857,High Revenue
+B-25696,,Noopur,Karnataka,Bangalore,,,,887,80,3,Electronics,Printers,UPI,9.019165727170236,High Revenue
+B-25638,,Parth,Maharashtra,Pune,,,,182,-11,3,Furniture,Bookcases,Credit Card,-6.043956043956044,High Revenue
+B-25638,,Parth,Maharashtra,Pune,,,,154,39,3,Clothing,Hankerchief,COD,25.324675324675322,High Revenue
+B-25638,,Parth,Maharashtra,Pune,,,,816,-96,3,Electronics,Printers,Debit Card,-11.76470588235294,High Revenue
+B-25638,,Parth,Maharashtra,Pune,,,,880,97,8,Furniture,Furnishings,Debit Card,11.022727272727273,High Revenue
+B-25747,2018-11-08,Harsh,Madhya Pradesh,Bhopal,2018.0,11.0,November,877,395,2,Furniture,Bookcases,Credit Card,45.03990877993159,High Revenue
+B-25904,2018-10-12,Swapnil,Delhi,Delhi,2018.0,10.0,October,83,12,2,Furniture,Chairs,COD,14.457831325301203,Low Revenue
+B-25904,2018-10-12,Swapnil,Delhi,Delhi,2018.0,10.0,October,871,131,2,Furniture,Bookcases,UPI,15.040183696900113,High Revenue
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018.0,7.0,July,869,67,4,Furniture,Tables,COD,7.710011507479862,High Revenue
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018.0,7.0,July,24,1,2,Clothing,Hankerchief,COD,4.166666666666666,Low Revenue
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018.0,7.0,July,105,-33,5,Clothing,Kurti,COD,-31.428571428571427,Low Revenue
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018.0,7.0,July,97,17,2,Clothing,Stole,Credit Card,17.525773195876287,Low Revenue
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018.0,7.0,July,45,12,4,Clothing,Hankerchief,COD,26.666666666666668,Low Revenue
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018.0,7.0,July,320,144,1,Electronics,Printers,Debit Card,45.0,High Revenue
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,2018.0,7.0,July,50,16,1,Clothing,Stole,EMI,32.0,Low Revenue
+B-25981,,Amruta,Delhi,Delhi,,,,867,251,5,Electronics,Phones,COD,28.95040369088812,High Revenue
+B-25981,,Amruta,Delhi,Delhi,,,,54,12,3,Clothing,Saree,Debit Card,22.22222222222222,Low Revenue
+B-25981,,Amruta,Delhi,Delhi,,,,62,8,2,Clothing,T-shirt,UPI,12.903225806451612,Low Revenue
+B-25981,,Amruta,Delhi,Delhi,,,,48,2,3,Clothing,Stole,COD,4.166666666666666,Low Revenue
+B-25981,,Amruta,Delhi,Delhi,,,,245,91,2,Furniture,Bookcases,UPI,37.142857142857146,High Revenue
+B-25981,,Amruta,Delhi,Delhi,,,,42,13,3,Clothing,Leggings,COD,30.952380952380953,Low Revenue
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Prayagraj,2018.0,8.0,August,22,9,2,Clothing,Leggings,Debit Card,40.909090909090914,Low Revenue
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Prayagraj,2018.0,8.0,August,43,17,1,Clothing,Saree,COD,39.53488372093023,Low Revenue
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Prayagraj,2018.0,8.0,August,28,6,4,Clothing,Skirt,COD,21.428571428571427,Low Revenue
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Prayagraj,2018.0,8.0,August,846,9,2,Furniture,Chairs,Debit Card,1.0638297872340425,High Revenue
+B-25870,,Pranav,Andhra Pradesh,Hyderabad,,,,845,84,7,Clothing,Saree,Credit Card,9.940828402366863,High Revenue
+B-25870,,Pranav,Andhra Pradesh,Hyderabad,,,,10,4,1,Clothing,Kurti,UPI,40.0,Low Revenue
+B-25870,,Pranav,Andhra Pradesh,Hyderabad,,,,57,7,3,Furniture,Furnishings,COD,12.280701754385964,Low Revenue
+B-25870,,Pranav,Andhra Pradesh,Hyderabad,,,,473,-113,9,Clothing,Hankerchief,UPI,-23.890063424947147,High Revenue
+B-26040,,Sahil,Punjab,Chandigarh,,,,38,9,2,Clothing,Stole,COD,23.684210526315788,Low Revenue
+B-26040,,Sahil,Punjab,Chandigarh,,,,113,24,4,Clothing,Hankerchief,Debit Card,21.238938053097346,Low Revenue
+B-26040,,Sahil,Punjab,Chandigarh,,,,833,93,3,Clothing,Trousers,UPI,11.164465786314526,High Revenue
+B-25671,,Mitali,Nagaland,Kohima,,,,832,0,3,Clothing,Trousers,UPI,0.0,High Revenue
+B-26100,,Hitika,Madhya Pradesh,Indore,,,,828,230,2,Furniture,Chairs,COD,27.77777777777778,High Revenue
+B-26100,,Hitika,Madhya Pradesh,Indore,,,,34,10,2,Clothing,T-shirt,Debit Card,29.411764705882355,Low Revenue
+B-26100,,Hitika,Madhya Pradesh,Indore,,,,72,16,2,Clothing,Shirt,COD,22.22222222222222,Low Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,823,-18,7,Furniture,Chairs,COD,-2.187120291616039,High Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,457,-41,4,Clothing,Saree,COD,-8.971553610503284,High Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,7,0,1,Clothing,Leggings,COD,0.0,Low Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,159,4,1,Clothing,Saree,COD,2.515723270440252,High Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,172,-103,3,Furniture,Chairs,EMI,-59.883720930232556,High Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,44,-8,3,Clothing,Stole,UPI,-18.181818181818183,Low Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,200,-60,4,Furniture,Bookcases,UPI,-30.0,High Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,49,3,1,Clothing,Shirt,COD,6.122448979591836,Low Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,16,-10,2,Clothing,T-shirt,COD,-62.5,Low Revenue
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,2018.0,7.0,July,11,-4,2,Clothing,Skirt,COD,-36.36363636363637,Low Revenue
+B-25968,,Paromita,Punjab,Amritsar,,,,811,154,7,Electronics,Accessories,UPI,18.988902589395806,High Revenue
+B-26019,,Jitesh,Uttar Pradesh,Lucknow,,,,585,175,13,Clothing,T-shirt,COD,29.914529914529915,High Revenue
+B-25664,,Pratyusmita,Bihar,Patna,,,,444,-200,4,Electronics,Phones,EMI,-45.04504504504504,High Revenue
+B-25664,,Pratyusmita,Bihar,Patna,,,,83,-48,1,Furniture,Bookcases,UPI,-57.831325301204814,Low Revenue
+B-25664,,Pratyusmita,Bihar,Patna,,,,258,-27,2,Electronics,Phones,Debit Card,-10.465116279069768,High Revenue
+B-25664,,Pratyusmita,Bihar,Patna,,,,785,52,2,Electronics,Phones,Debit Card,6.624203821656051,High Revenue
+B-26033,,Atharv,West Bengal,Kolkata,,,,774,170,3,Electronics,Accessories,COD,21.963824289405682,High Revenue
+B-26033,,Atharv,West Bengal,Kolkata,,,,143,32,1,Furniture,Bookcases,COD,22.377622377622377,High Revenue
+B-26033,,Atharv,West Bengal,Kolkata,,,,111,35,5,Clothing,Shirt,COD,31.53153153153153,Low Revenue
+B-26052,2018-08-03,Ajay,Karnataka,Bangalore,2018.0,8.0,August,774,170,3,Electronics,Accessories,COD,21.963824289405682,High Revenue
+B-26052,2018-08-03,Ajay,Karnataka,Bangalore,2018.0,8.0,August,78,-28,6,Clothing,Kurti,UPI,-35.8974358974359,Low Revenue
+B-26052,2018-08-03,Ajay,Karnataka,Bangalore,2018.0,8.0,August,145,0,3,Clothing,Saree,UPI,0.0,High Revenue
+B-26052,2018-08-03,Ajay,Karnataka,Bangalore,2018.0,8.0,August,101,16,4,Clothing,T-shirt,COD,15.841584158415841,Low Revenue
+B-26052,2018-08-03,Ajay,Karnataka,Bangalore,2018.0,8.0,August,148,23,4,Clothing,Kurti,EMI,15.54054054054054,High Revenue
+B-26052,2018-08-03,Ajay,Karnataka,Bangalore,2018.0,8.0,August,25,7,2,Clothing,Stole,COD,28.000000000000004,Low Revenue
+B-26052,2018-08-03,Ajay,Karnataka,Bangalore,2018.0,8.0,August,15,1,1,Clothing,Shirt,COD,6.666666666666667,Low Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,223,62,7,Clothing,Shirt,COD,27.802690582959645,High Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,215,-30,2,Clothing,Saree,COD,-13.953488372093023,High Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,93,-65,4,Clothing,Stole,UPI,-69.89247311827957,Low Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,109,40,1,Furniture,Furnishings,COD,36.69724770642202,Low Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,152,-3,5,Clothing,Saree,COD,-1.9736842105263157,High Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,26,-17,1,Clothing,Stole,COD,-65.38461538461539,Low Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,51,-49,2,Electronics,Electronic Games,COD,-96.07843137254902,Low Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,129,11,2,Electronics,Phones,UPI,8.527131782945736,High Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,222,74,5,Clothing,Hankerchief,COD,33.33333333333333,High Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,352,74,8,Clothing,Stole,Debit Card,21.022727272727273,High Revenue
+B-25999,2018-05-02,Diwakar,Delhi,Delhi,2018.0,5.0,May,770,323,3,Electronics,Accessories,COD,41.94805194805195,High Revenue
+B-25781,,Rutuja,Gujarat,Ahmedabad,,,,45,-28,2,Clothing,Stole,Debit Card,-62.22222222222222,Low Revenue
+B-25781,,Rutuja,Gujarat,Ahmedabad,,,,25,-1,4,Clothing,Kurti,COD,-4.0,Low Revenue
+B-25781,,Rutuja,Gujarat,Ahmedabad,,,,60,-49,8,Clothing,Hankerchief,COD,-81.66666666666667,Low Revenue
+B-25781,,Rutuja,Gujarat,Ahmedabad,,,,30,-25,2,Clothing,T-shirt,COD,-83.33333333333334,Low Revenue
+B-25781,,Rutuja,Gujarat,Ahmedabad,,,,584,-444,7,Electronics,Printers,UPI,-76.02739726027397,High Revenue
+B-25781,,Rutuja,Gujarat,Ahmedabad,,,,767,-353,5,Clothing,Trousers,COD,-46.023468057366365,High Revenue
+B-25764,,Sanjova,Maharashtra,Pune,,,,26,0,2,Clothing,Kurti,COD,0.0,Low Revenue
+B-25764,,Sanjova,Maharashtra,Pune,,,,349,-24,2,Clothing,Saree,Debit Card,-6.876790830945559,High Revenue
+B-25764,,Sanjova,Maharashtra,Pune,,,,765,-153,2,Electronics,Phones,Debit Card,-20.0,High Revenue
+B-25764,,Sanjova,Maharashtra,Pune,,,,119,43,5,Clothing,T-shirt,COD,36.134453781512605,Low Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,765,8,6,Clothing,Saree,EMI,1.045751633986928,High Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,757,371,2,Electronics,Printers,Credit Card,49.00924702774108,High Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,536,91,1,Clothing,Trousers,COD,16.977611940298505,High Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,269,91,1,Electronics,Electronic Games,COD,33.82899628252788,High Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,137,5,5,Clothing,Shirt,COD,3.64963503649635,High Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,185,48,4,Clothing,Stole,Credit Card,25.945945945945947,High Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,106,12,3,Clothing,Trousers,Credit Card,11.320754716981133,Low Revenue
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,2018.0,5.0,May,511,194,3,Furniture,Chairs,UPI,37.96477495107632,High Revenue
+B-25945,2018-11-01,Mhatre,Madhya Pradesh,Indore,2018.0,11.0,November,765,-36,3,Electronics,Electronic Games,COD,-4.705882352941177,High Revenue
+B-25945,2018-11-01,Mhatre,Madhya Pradesh,Indore,2018.0,11.0,November,63,14,2,Clothing,Shirt,COD,22.22222222222222,Low Revenue
+B-25945,2018-11-01,Mhatre,Madhya Pradesh,Indore,2018.0,11.0,November,60,3,3,Clothing,Saree,UPI,5.0,Low Revenue
+B-25945,2018-11-01,Mhatre,Madhya Pradesh,Indore,2018.0,11.0,November,245,10,2,Furniture,Bookcases,COD,4.081632653061225,High Revenue
+B-26086,,Mukesh,Haryana,Chandigarh,,,,762,101,6,Electronics,Printers,COD,13.254593175853019,High Revenue
+B-26086,,Mukesh,Haryana,Chandigarh,,,,25,2,2,Clothing,Hankerchief,Debit Card,8.0,Low Revenue
+B-26086,,Mukesh,Haryana,Chandigarh,,,,43,17,2,Clothing,T-shirt,UPI,39.53488372093023,Low Revenue
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,2018.0,3.0,March,82,-33,4,Clothing,Kurti,COD,-40.243902439024396,Low Revenue
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,2018.0,3.0,March,757,371,2,Electronics,Printers,Credit Card,49.00924702774108,High Revenue
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,2018.0,3.0,March,274,-7,4,Electronics,Phones,COD,-2.5547445255474455,High Revenue
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,2018.0,3.0,March,132,54,5,Clothing,Stole,COD,40.909090909090914,High Revenue
+B-25817,,Praneet,Maharashtra,Mumbai,,,,743,89,5,Electronics,Printers,UPI,11.978465679676985,High Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,742,198,2,Furniture,Bookcases,Credit Card,26.68463611859838,High Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,250,100,3,Clothing,Trousers,COD,40.0,High Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,89,29,2,Clothing,Stole,UPI,32.58426966292135,Low Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,120,23,5,Clothing,Stole,COD,19.166666666666668,Low Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,111,11,9,Clothing,Hankerchief,Credit Card,9.90990990990991,Low Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,102,13,2,Clothing,Stole,Credit Card,12.745098039215685,Low Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,248,105,2,Electronics,Phones,Debit Card,42.33870967741936,High Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,50,14,1,Electronics,Electronic Games,COD,28.000000000000004,Low Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,40,18,1,Electronics,Accessories,Credit Card,45.0,Low Revenue
+B-25951,,Jesal,West Bengal,Kolkata,,,,30,5,2,Clothing,Kurti,UPI,16.666666666666664,Low Revenue
+B-25970,,Rhea,Maharashtra,Mumbai,,,,742,198,2,Furniture,Bookcases,COD,26.68463611859838,High Revenue
+B-25970,,Rhea,Maharashtra,Mumbai,,,,365,107,3,Electronics,Phones,COD,29.315068493150687,High Revenue
+B-25970,,Rhea,Maharashtra,Mumbai,,,,111,9,4,Clothing,Stole,COD,8.108108108108109,Low Revenue
+B-25970,,Rhea,Maharashtra,Mumbai,,,,203,84,2,Electronics,Printers,UPI,41.37931034482759,High Revenue
+B-25878,,Mrinal,Maharashtra,Mumbai,,,,741,267,5,Furniture,Bookcases,COD,36.032388663967616,High Revenue
+B-25878,,Mrinal,Maharashtra,Mumbai,,,,719,303,6,Furniture,Chairs,COD,42.14186369958276,High Revenue
+B-25878,,Mrinal,Maharashtra,Mumbai,,,,165,46,3,Furniture,Furnishings,COD,27.878787878787882,High Revenue
+B-25878,,Mrinal,Maharashtra,Mumbai,,,,46,0,4,Clothing,Leggings,COD,0.0,Low Revenue
+B-25878,,Mrinal,Maharashtra,Mumbai,,,,140,15,5,Clothing,Stole,UPI,10.714285714285714,High Revenue
+B-25878,,Mrinal,Maharashtra,Mumbai,,,,84,41,3,Clothing,T-shirt,Credit Card,48.80952380952381,Low Revenue
+B-26057,2018-10-03,Sharda,Kerala ,Thiruvananthapuram,2018.0,10.0,October,659,-37,2,Furniture,Bookcases,Credit Card,-5.614567526555387,High Revenue
+B-26057,2018-10-03,Sharda,Kerala ,Thiruvananthapuram,2018.0,10.0,October,54,8,4,Clothing,T-shirt,Debit Card,14.814814814814813,Low Revenue
+B-26057,2018-10-03,Sharda,Kerala ,Thiruvananthapuram,2018.0,10.0,October,224,87,3,Clothing,Trousers,COD,38.839285714285715,High Revenue
+B-26057,2018-10-03,Sharda,Kerala ,Thiruvananthapuram,2018.0,10.0,October,736,346,5,Electronics,Printers,COD,47.01086956521739,High Revenue
+B-25885,,Shatayu,Madhya Pradesh,Indore,,,,734,248,2,Furniture,Chairs,COD,33.787465940054496,High Revenue
+B-25885,,Shatayu,Madhya Pradesh,Indore,,,,349,0,7,Clothing,Stole,Credit Card,0.0,High Revenue
+B-25885,,Shatayu,Madhya Pradesh,Indore,,,,94,27,2,Clothing,Shirt,Credit Card,28.723404255319153,Low Revenue
+B-25885,,Shatayu,Madhya Pradesh,Indore,,,,394,146,2,Furniture,Bookcases,UPI,37.055837563451774,High Revenue
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,2018.0,6.0,June,734,213,6,Electronics,Electronic Games,Credit Card,29.01907356948229,High Revenue
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,2018.0,6.0,June,24,11,5,Clothing,Hankerchief,Debit Card,45.83333333333333,Low Revenue
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,2018.0,6.0,June,43,5,3,Clothing,Stole,COD,11.627906976744185,Low Revenue
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,2018.0,6.0,June,33,10,3,Clothing,Hankerchief,COD,30.303030303030305,Low Revenue
+B-25756,,Mohan,Maharashtra,Mumbai,,,,729,-492,5,Furniture,Bookcases,UPI,-67.48971193415639,High Revenue
+B-25756,,Mohan,Maharashtra,Mumbai,,,,465,-33,4,Electronics,Phones,EMI,-7.096774193548387,High Revenue
+B-25756,,Mohan,Maharashtra,Mumbai,,,,204,276,3,Furniture,Bookcases,COD,135.29411764705884,High Revenue
+B-25756,,Mohan,Maharashtra,Mumbai,,,,29,-24,4,Clothing,Leggings,COD,-82.75862068965517,Low Revenue
+B-25756,,Mohan,Maharashtra,Mumbai,,,,643,-45,2,Electronics,Printers,Debit Card,-6.998444790046657,High Revenue
+B-25859,,Chikku,Madhya Pradesh,Indore,,,,724,253,2,Furniture,Bookcases,UPI,34.944751381215475,High Revenue
+B-25691,,Akancha,Maharashtra,Mumbai,,,,714,56,4,Clothing,Saree,COD,7.8431372549019605,High Revenue
+B-25691,,Akancha,Maharashtra,Mumbai,,,,75,-25,3,Clothing,Stole,UPI,-33.33333333333333,Low Revenue
+B-25691,,Akancha,Maharashtra,Mumbai,,,,17,-9,3,Clothing,Stole,COD,-52.94117647058824,Low Revenue
+B-25633,,Amit,Sikkim,Gangtok,,,,496,-79,2,Clothing,Trousers,COD,-15.92741935483871,High Revenue
+B-25633,,Amit,Sikkim,Gangtok,,,,711,-8,4,Clothing,Saree,Debit Card,-1.1251758087201125,High Revenue
+B-25633,,Amit,Sikkim,Gangtok,,,,249,-130,4,Electronics,Phones,UPI,-52.208835341365464,High Revenue
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,2018.0,1.0,January,709,-100,5,Electronics,Phones,COD,-14.104372355430183,High Revenue
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,2018.0,1.0,January,191,13,8,Furniture,Furnishings,COD,6.806282722513089,High Revenue
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,2018.0,1.0,January,32,-8,2,Clothing,Stole,COD,-25.0,Low Revenue
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,2018.0,1.0,January,81,-51,7,Clothing,Stole,EMI,-62.96296296296296,Low Revenue
+B-25831,,Mahima,Sikkim,Gangtok,,,,693,254,6,Clothing,Saree,COD,36.65223665223665,High Revenue
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,2018.0,10.0,October,257,3,2,Clothing,Saree,COD,1.1673151750972763,High Revenue
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,2018.0,10.0,October,10,2,2,Clothing,Skirt,COD,20.0,Low Revenue
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,2018.0,10.0,October,48,6,1,Clothing,Saree,COD,12.5,Low Revenue
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,2018.0,10.0,October,74,29,3,Clothing,Stole,EMI,39.189189189189186,Low Revenue
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,2018.0,10.0,October,689,90,5,Clothing,Saree,COD,13.062409288824384,High Revenue
+B-25893,2018-04-12,Vrinda,Uttar Pradesh,Mathura,2018.0,4.0,April,61,11,3,Clothing,Kurti,COD,18.0327868852459,Low Revenue
+B-25893,2018-04-12,Vrinda,Uttar Pradesh,Mathura,2018.0,4.0,April,355,-114,7,Clothing,Stole,Credit Card,-32.11267605633803,High Revenue
+B-25893,2018-04-12,Vrinda,Uttar Pradesh,Mathura,2018.0,4.0,April,83,12,3,Clothing,Stole,UPI,14.457831325301203,Low Revenue
+B-25893,2018-04-12,Vrinda,Uttar Pradesh,Mathura,2018.0,4.0,April,149,15,3,Clothing,Saree,EMI,10.06711409395973,High Revenue
+B-25893,2018-04-12,Vrinda,Uttar Pradesh,Mathura,2018.0,4.0,April,372,59,3,Electronics,Printers,UPI,15.86021505376344,High Revenue
+B-25893,2018-04-12,Vrinda,Uttar Pradesh,Mathura,2018.0,4.0,April,223,62,7,Clothing,Shirt,COD,27.802690582959645,High Revenue
+B-25893,2018-04-12,Vrinda,Uttar Pradesh,Mathura,2018.0,4.0,April,688,-103,6,Electronics,Accessories,Debit Card,-14.970930232558139,High Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,681,259,4,Furniture,Chairs,COD,38.032305433186494,High Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,23,8,2,Clothing,Hankerchief,Debit Card,34.78260869565217,Low Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,32,2,2,Clothing,Kurti,UPI,6.25,Low Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,132,49,3,Clothing,Shirt,COD,37.121212121212125,High Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,252,56,2,Electronics,Phones,UPI,22.22222222222222,High Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,82,24,6,Clothing,Hankerchief,EMI,29.268292682926827,Low Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,429,17,3,Furniture,Chairs,UPI,3.9627039627039626,High Revenue
+B-25959,,Muskan,Madhya Pradesh,Indore,,,,637,212,8,Electronics,Phones,Debit Card,33.28100470957614,High Revenue
+B-26000,2018-06-02,Shubham,Delhi,Delhi,2018.0,6.0,June,676,151,3,Electronics,Printers,Credit Card,22.337278106508876,High Revenue
+B-26000,2018-06-02,Shubham,Delhi,Delhi,2018.0,6.0,June,43,-10,4,Clothing,Skirt,COD,-23.25581395348837,Low Revenue
+B-26000,2018-06-02,Shubham,Delhi,Delhi,2018.0,6.0,June,597,93,4,Furniture,Chairs,Debit Card,15.577889447236181,High Revenue
+B-26097,,Vini,Karnataka,Bangalore,,,,663,-212,5,Electronics,Printers,UPI,-31.975867269984914,High Revenue
+B-26097,,Vini,Karnataka,Bangalore,,,,671,-309,5,Electronics,Electronic Games,COD,-46.050670640834575,High Revenue
+B-26097,,Vini,Karnataka,Bangalore,,,,185,-26,6,Furniture,Chairs,COD,-14.054054054054054,High Revenue
+B-26097,,Vini,Karnataka,Bangalore,,,,97,12,2,Clothing,Hankerchief,UPI,12.371134020618557,Low Revenue
+B-26097,,Vini,Karnataka,Bangalore,,,,39,-18,2,Clothing,Leggings,Credit Card,-46.15384615384615,Low Revenue
+B-26097,,Vini,Karnataka,Bangalore,,,,19,8,2,Clothing,Hankerchief,Credit Card,42.10526315789473,Low Revenue
+B-26097,,Vini,Karnataka,Bangalore,,,,14,5,1,Clothing,Hankerchief,UPI,35.714285714285715,Low Revenue
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,2018.0,9.0,September,296,225,11,Clothing,Saree,COD,76.01351351351352,High Revenue
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,2018.0,9.0,September,132,-79,5,Furniture,Furnishings,COD,-59.84848484848485,High Revenue
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,2018.0,9.0,September,44,-8,3,Clothing,Stole,Credit Card,-18.181818181818183,Low Revenue
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,2018.0,9.0,September,670,15,5,Furniture,Bookcases,Debit Card,2.2388059701492535,High Revenue
+B-25974,,Manisha,Rajasthan,Udaipur,,,,662,240,2,Furniture,Bookcases,COD,36.25377643504532,High Revenue
+B-25670,,Charika,Goa,Goa,,,,24,1,2,Clothing,Hankerchief,UPI,4.166666666666666,Low Revenue
+B-25670,,Charika,Goa,Goa,,,,656,-36,2,Furniture,Bookcases,Credit Card,-5.487804878048781,High Revenue
+B-25670,,Charika,Goa,Goa,,,,74,29,3,Clothing,Stole,COD,39.189189189189186,Low Revenue
+B-25670,,Charika,Goa,Goa,,,,14,2,1,Clothing,Hankerchief,COD,14.285714285714285,Low Revenue
+B-25848,2018-03-11,Rohan,Himachal Pradesh,Simla,2018.0,3.0,March,648,50,6,Electronics,Electronic Games,Credit Card,7.716049382716049,High Revenue
+B-25848,2018-03-11,Rohan,Himachal Pradesh,Simla,2018.0,3.0,March,147,21,3,Furniture,Furnishings,Debit Card,14.285714285714285,High Revenue
+B-25848,2018-03-11,Rohan,Himachal Pradesh,Simla,2018.0,3.0,March,16,8,2,Clothing,Hankerchief,COD,50.0,Low Revenue
+B-25888,2018-02-12,Rohan,Punjab,Amritsar,2018.0,2.0,February,646,-213,3,Electronics,Electronic Games,COD,-32.972136222910216,High Revenue
+B-25888,2018-02-12,Rohan,Punjab,Amritsar,2018.0,2.0,February,223,4,3,Electronics,Phones,COD,1.7937219730941705,High Revenue
+B-25888,2018-02-12,Rohan,Punjab,Amritsar,2018.0,2.0,February,18,2,3,Clothing,Hankerchief,Credit Card,11.11111111111111,Low Revenue
+B-25942,2018-08-01,Ankur,Andhra Pradesh,Hyderabad,2018.0,8.0,August,646,-23,2,Electronics,Printers,Credit Card,-3.560371517027864,High Revenue
+B-25847,2018-03-11,Aniket,Haryana,Chandigarh,2018.0,3.0,March,643,225,2,Electronics,Printers,COD,34.99222395023328,High Revenue
+B-25847,2018-03-11,Aniket,Haryana,Chandigarh,2018.0,3.0,March,264,71,10,Furniture,Furnishings,Debit Card,26.89393939393939,High Revenue
+B-25636,,Nishi,Maharashtra,Mumbai,,,,637,113,5,Clothing,Saree,UPI,17.739403453689167,High Revenue
+B-25826,,Tanushree,Maharashtra,Mumbai,,,,637,261,2,Electronics,Printers,COD,40.97331240188383,High Revenue
+B-26081,,Aarushi,Tamil Nadu,Chennai,,,,24,11,3,Clothing,Hankerchief,Debit Card,45.83333333333333,Low Revenue
+B-26081,,Aarushi,Tamil Nadu,Chennai,,,,169,0,3,Electronics,Accessories,COD,0.0,High Revenue
+B-26081,,Aarushi,Tamil Nadu,Chennai,,,,359,-338,5,Furniture,Bookcases,COD,-94.15041782729804,High Revenue
+B-26081,,Aarushi,Tamil Nadu,Chennai,,,,93,-84,3,Clothing,Saree,UPI,-90.32258064516128,Low Revenue
+B-26081,,Aarushi,Tamil Nadu,Chennai,,,,79,33,4,Clothing,Stole,UPI,41.77215189873418,Low Revenue
+B-26081,,Aarushi,Tamil Nadu,Chennai,,,,637,50,5,Clothing,Saree,COD,7.849293563579278,High Revenue
+B-25625,,Pinky,Jammu and Kashmir,Kashmir,,,,59,-30,3,Clothing,Leggings,Debit Card,-50.847457627118644,Low Revenue
+B-25625,,Pinky,Jammu and Kashmir,Kashmir,,,,97,29,2,Clothing,Hankerchief,UPI,29.896907216494846,Low Revenue
+B-25625,,Pinky,Jammu and Kashmir,Kashmir,,,,635,-349,5,Clothing,Saree,Debit Card,-54.96062992125984,High Revenue
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,2018.0,5.0,May,25,-7,5,Clothing,Saree,UPI,-28.000000000000004,Low Revenue
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,2018.0,5.0,May,95,5,2,Clothing,Stole,COD,5.263157894736842,Low Revenue
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,2018.0,5.0,May,633,-633,11,Electronics,Accessories,UPI,-100.0,High Revenue
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,2018.0,5.0,May,23,-3,1,Clothing,Shirt,COD,-13.043478260869565,Low Revenue
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,2018.0,5.0,May,13,-9,2,Clothing,Skirt,COD,-69.23076923076923,Low Revenue
+B-25693,,Parna,Madhya Pradesh,Bhopal,,,,76,-72,9,Clothing,Hankerchief,COD,-94.73684210526315,Low Revenue
+B-25693,,Parna,Madhya Pradesh,Bhopal,,,,632,316,6,Clothing,Saree,COD,50.0,High Revenue
+B-25693,,Parna,Madhya Pradesh,Bhopal,,,,32,-16,6,Clothing,Saree,UPI,-50.0,Low Revenue
+B-25693,,Parna,Madhya Pradesh,Bhopal,,,,68,-30,1,Electronics,Phones,UPI,-44.11764705882353,Low Revenue
+B-25693,,Parna,Madhya Pradesh,Bhopal,,,,72,-49,1,Electronics,Phones,COD,-68.05555555555556,Low Revenue
+B-25693,,Parna,Madhya Pradesh,Bhopal,,,,82,-39,5,Clothing,T-shirt,EMI,-47.5609756097561,Low Revenue
+B-25693,,Parna,Madhya Pradesh,Bhopal,,,,13,-13,2,Clothing,Skirt,COD,-100.0,Low Revenue
+B-25796,,Sukrith,Maharashtra,Mumbai,,,,632,-316,6,Clothing,Saree,COD,-50.0,High Revenue
+B-25796,,Sukrith,Maharashtra,Mumbai,,,,239,-162,5,Furniture,Chairs,COD,-67.78242677824268,High Revenue
+B-25796,,Sukrith,Maharashtra,Mumbai,,,,148,0,3,Clothing,Saree,COD,0.0,High Revenue
+B-25796,,Sukrith,Maharashtra,Mumbai,,,,37,-6,1,Clothing,Saree,UPI,-16.216216216216218,Low Revenue
+B-25796,,Sukrith,Maharashtra,Mumbai,,,,78,-64,7,Clothing,Stole,EMI,-82.05128205128204,Low Revenue
+B-25796,,Sukrith,Maharashtra,Mumbai,,,,559,-19,2,Clothing,Trousers,Debit Card,-3.3989266547406083,High Revenue
+B-25796,,Sukrith,Maharashtra,Mumbai,,,,28,1,1,Electronics,Accessories,UPI,3.571428571428571,Low Revenue
+B-25806,2018-06-10,Dhanraj,Madhya Pradesh,Indore,2018.0,6.0,June,632,-114,4,Furniture,Tables,UPI,-18.037974683544302,High Revenue
+B-25710,2018-05-07,Megha,Maharashtra,Pune,2018.0,5.0,May,10,-1,1,Clothing,Leggings,UPI,-10.0,Low Revenue
+B-25710,2018-05-07,Megha,Maharashtra,Pune,2018.0,5.0,May,216,-38,6,Furniture,Furnishings,UPI,-17.59259259259259,High Revenue
+B-25710,2018-05-07,Megha,Maharashtra,Pune,2018.0,5.0,May,25,0,4,Clothing,Skirt,UPI,0.0,Low Revenue
+B-25710,2018-05-07,Megha,Maharashtra,Pune,2018.0,5.0,May,53,-18,4,Clothing,T-shirt,UPI,-33.9622641509434,Low Revenue
+B-25710,2018-05-07,Megha,Maharashtra,Pune,2018.0,5.0,May,616,-69,7,Furniture,Furnishings,Debit Card,-11.2012987012987,High Revenue
+B-25710,2018-05-07,Megha,Maharashtra,Pune,2018.0,5.0,May,13,-8,1,Clothing,T-shirt,COD,-61.53846153846154,Low Revenue
+B-25669,,Piyali,Sikkim,Gangtok,,,,610,-66,2,Furniture,Tables,COD,-10.819672131147541,High Revenue
+B-25857,2018-10-11,Anand,Madhya Pradesh,Indore,2018.0,10.0,October,324,39,8,Electronics,Accessories,Credit Card,12.037037037037036,High Revenue
+B-25857,2018-10-11,Anand,Madhya Pradesh,Indore,2018.0,10.0,October,227,59,2,Furniture,Furnishings,UPI,25.991189427312776,High Revenue
+B-25857,2018-10-11,Anand,Madhya Pradesh,Indore,2018.0,10.0,October,598,166,4,Furniture,Bookcases,UPI,27.759197324414714,High Revenue
+B-25785,,Ayush,West Bengal,Kolkata,,,,595,292,3,Clothing,Saree,COD,49.07563025210084,High Revenue
+B-25785,,Ayush,West Bengal,Kolkata,,,,192,-146,3,Clothing,Saree,COD,-76.04166666666666,High Revenue
+B-25785,,Ayush,West Bengal,Kolkata,,,,268,-25,3,Clothing,Saree,COD,-9.328358208955224,High Revenue
+B-25785,,Ayush,West Bengal,Kolkata,,,,45,0,2,Clothing,T-shirt,COD,0.0,Low Revenue
+B-25930,2018-03-01,Monica,Punjab,Chandigarh,2018.0,3.0,March,595,119,4,Furniture,Bookcases,COD,20.0,High Revenue
+B-25930,2018-03-01,Monica,Punjab,Chandigarh,2018.0,3.0,March,151,29,5,Clothing,Hankerchief,EMI,19.205298013245034,High Revenue
+B-25930,2018-03-01,Monica,Punjab,Chandigarh,2018.0,3.0,March,202,89,9,Clothing,T-shirt,EMI,44.05940594059406,High Revenue
+B-25930,2018-03-01,Monica,Punjab,Chandigarh,2018.0,3.0,March,58,17,2,Clothing,Hankerchief,COD,29.310344827586203,Low Revenue
+B-25930,2018-03-01,Monica,Punjab,Chandigarh,2018.0,3.0,March,40,13,3,Clothing,T-shirt,COD,32.5,Low Revenue
+B-25930,2018-03-01,Monica,Punjab,Chandigarh,2018.0,3.0,March,351,-94,5,Electronics,Electronic Games,COD,-26.780626780626783,High Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,594,89,3,Furniture,Bookcases,COD,14.983164983164984,High Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,85,2,6,Clothing,Stole,COD,2.3529411764705883,Low Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,246,61,2,Furniture,Bookcases,COD,24.796747967479675,High Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,27,6,3,Clothing,Skirt,COD,22.22222222222222,Low Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,162,55,3,Clothing,Stole,COD,33.95061728395062,High Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,120,1,1,Furniture,Chairs,COD,0.8333333333333334,Low Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,93,31,3,Electronics,Accessories,UPI,33.33333333333333,Low Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,425,208,7,Clothing,Saree,Debit Card,48.94117647058824,High Revenue
+B-26053,2018-09-03,Kirti,Jammu and Kashmir,Kashmir,2018.0,9.0,September,17,1,2,Clothing,Skirt,Credit Card,5.88235294117647,Low Revenue
+B-26070,,Shruti,Karnataka,Bangalore,,,,582,262,5,Furniture,Furnishings,COD,45.017182130584196,High Revenue
+B-26070,,Shruti,Karnataka,Bangalore,,,,75,29,1,Clothing,Trousers,UPI,38.666666666666664,Low Revenue
+B-26070,,Shruti,Karnataka,Bangalore,,,,54,12,4,Clothing,Shirt,COD,22.22222222222222,Low Revenue
+B-26070,,Shruti,Karnataka,Bangalore,,,,14,7,2,Clothing,Hankerchief,UPI,50.0,Low Revenue
+B-25791,,Avish,Kerala ,Thiruvananthapuram,,,,565,66,7,Clothing,Saree,Credit Card,11.68141592920354,High Revenue
+B-25791,,Avish,Kerala ,Thiruvananthapuram,,,,253,-63,2,Clothing,Saree,UPI,-24.90118577075099,High Revenue
+B-25791,,Avish,Kerala ,Thiruvananthapuram,,,,175,77,3,Clothing,Saree,COD,44.0,High Revenue
+B-25983,,Atul,Delhi,Delhi,,,,561,118,5,Furniture,Bookcases,Credit Card,21.03386809269162,High Revenue
+B-25983,,Atul,Delhi,Delhi,,,,161,-229,8,Furniture,Furnishings,COD,-142.23602484472048,High Revenue
+B-25983,,Atul,Delhi,Delhi,,,,230,5,2,Clothing,Saree,UPI,2.1739130434782608,High Revenue
+B-25983,,Atul,Delhi,Delhi,,,,50,-4,6,Clothing,T-shirt,EMI,-8.0,Low Revenue
+B-25983,,Atul,Delhi,Delhi,,,,32,-12,1,Furniture,Chairs,Credit Card,-37.5,Low Revenue
+B-25979,,Shivangi,Madhya Pradesh,Indore,,,,284,45,2,Furniture,Bookcases,EMI,15.845070422535212,High Revenue
+B-25979,,Shivangi,Madhya Pradesh,Indore,,,,82,-27,3,Clothing,Kurti,EMI,-32.926829268292686,Low Revenue
+B-25979,,Shivangi,Madhya Pradesh,Indore,,,,57,27,2,Clothing,Shirt,UPI,47.368421052631575,Low Revenue
+B-25979,,Shivangi,Madhya Pradesh,Indore,,,,560,44,3,Clothing,Saree,Debit Card,7.857142857142857,High Revenue
+B-25979,,Shivangi,Madhya Pradesh,Indore,,,,12,1,2,Clothing,Hankerchief,COD,8.333333333333332,Low Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,246,98,5,Clothing,Hankerchief,COD,39.83739837398374,High Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,156,23,3,Clothing,Stole,COD,14.743589743589745,High Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,88,19,2,Clothing,Shirt,Debit Card,21.59090909090909,Low Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,139,21,3,Electronics,Accessories,COD,15.107913669064748,High Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,88,20,2,Clothing,Saree,COD,22.727272727272727,Low Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,138,11,5,Clothing,Stole,UPI,7.971014492753622,High Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,139,36,3,Clothing,Stole,COD,25.899280575539567,High Revenue
+B-26054,2018-10-03,Mayank,Maharashtra,Mumbai,2018.0,10.0,October,559,-174,2,Electronics,Electronic Games,Debit Card,-31.12701252236136,High Revenue
+B-26078,,Kasheen,West Bengal,Kolkata,,,,557,-111,2,Electronics,Electronic Games,COD,-19.92818671454219,High Revenue
+B-26078,,Kasheen,West Bengal,Kolkata,,,,44,20,2,Clothing,T-shirt,UPI,45.45454545454545,Low Revenue
+B-26078,,Kasheen,West Bengal,Kolkata,,,,137,63,3,Clothing,Stole,COD,45.98540145985402,High Revenue
+B-26078,,Kasheen,West Bengal,Kolkata,,,,17,8,2,Clothing,Skirt,COD,47.05882352941176,Low Revenue
+B-25787,,Asish,Jammu and Kashmir,Kashmir,,,,556,-209,7,Clothing,Saree,COD,-37.589928057553955,High Revenue
+B-25787,,Asish,Jammu and Kashmir,Kashmir,,,,40,-12,3,Clothing,Shirt,COD,-30.0,Low Revenue
+B-25787,,Asish,Jammu and Kashmir,Kashmir,,,,140,-58,4,Furniture,Furnishings,COD,-41.42857142857143,High Revenue
+B-25787,,Asish,Jammu and Kashmir,Kashmir,,,,229,-41,8,Electronics,Accessories,COD,-17.903930131004365,High Revenue
+B-25682,2018-07-06,Krutika,Bihar,Patna,2018.0,7.0,July,545,-73,11,Electronics,Phones,COD,-13.394495412844037,High Revenue
+B-25962,,Tejeswini,Maharashtra,Pune,,,,544,-152,3,Furniture,Bookcases,COD,-27.941176470588236,High Revenue
+B-25962,,Tejeswini,Maharashtra,Pune,,,,312,62,1,Electronics,Electronic Games,COD,19.871794871794872,High Revenue
+B-25962,,Tejeswini,Maharashtra,Pune,,,,260,68,2,Electronics,Printers,COD,26.153846153846157,High Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,19,-1,1,Clothing,Shirt,Debit Card,-5.263157894736842,Low Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,208,-25,2,Clothing,Saree,COD,-12.01923076923077,High Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,212,-24,2,Furniture,Chairs,COD,-11.320754716981133,High Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,199,-18,2,Clothing,Saree,COD,-9.045226130653267,High Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,78,-6,2,Furniture,Furnishings,UPI,-7.6923076923076925,Low Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,73,-31,1,Furniture,Bookcases,COD,-42.465753424657535,Low Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,42,-15,12,Clothing,Skirt,UPI,-35.714285714285715,Low Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,22,-12,3,Clothing,Stole,COD,-54.54545454545454,Low Revenue
+B-25750,,Priyanshu,Madhya Pradesh,Indore,,,,539,-146,7,Furniture,Furnishings,Debit Card,-27.087198515769945,High Revenue
+B-25828,,Nikita,Punjab,Chandigarh,,,,537,107,3,Clothing,Saree,COD,19.925512104283055,High Revenue
+B-25828,,Nikita,Punjab,Chandigarh,,,,222,35,5,Clothing,Saree,Credit Card,15.765765765765765,High Revenue
+B-25828,,Nikita,Punjab,Chandigarh,,,,128,-3,3,Clothing,Saree,Debit Card,-2.34375,High Revenue
+B-25828,,Nikita,Punjab,Chandigarh,,,,15,2,1,Clothing,Leggings,COD,13.333333333333334,Low Revenue
+B-25622,,Monisha,Rajasthan,Jaipur,,,,534,0,3,Clothing,Saree,Debit Card,0.0,High Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,32,7,3,Clothing,Hankerchief,COD,21.875,Low Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,221,-15,2,Electronics,Electronic Games,COD,-6.787330316742081,High Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,10,-8,1,Clothing,Kurti,UPI,-80.0,Low Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,106,0,2,Electronics,Phones,EMI,0.0,Low Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,65,-4,6,Clothing,Hankerchief,COD,-6.153846153846154,Low Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,43,-5,2,Clothing,Saree,COD,-11.627906976744185,Low Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,43,21,3,Clothing,Shirt,COD,48.837209302325576,Low Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,534,5,2,Electronics,Electronic Games,Debit Card,0.9363295880149813,High Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,68,-56,2,Electronics,Phones,COD,-82.35294117647058,Low Revenue
+B-25751,,Nishant,Maharashtra,Mumbai,,,,14,-3,2,Clothing,Leggings,COD,-21.428571428571427,Low Revenue
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,2018.0,10.0,October,264,-30,3,Furniture,Furnishings,Debit Card,-11.363636363636363,High Revenue
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,2018.0,10.0,October,45,-2,4,Clothing,Shirt,COD,-4.444444444444445,Low Revenue
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,2018.0,10.0,October,51,7,2,Furniture,Furnishings,UPI,13.725490196078432,Low Revenue
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,2018.0,10.0,October,529,137,3,Electronics,Phones,Debit Card,25.89792060491493,High Revenue
+B-26010,2018-11-02,Kartikay,Bihar,Patna,2018.0,11.0,November,55,3,3,Clothing,T-shirt,COD,5.454545454545454,Low Revenue
+B-26010,2018-11-02,Kartikay,Bihar,Patna,2018.0,11.0,November,176,-13,5,Furniture,Furnishings,COD,-7.386363636363637,High Revenue
+B-26010,2018-11-02,Kartikay,Bihar,Patna,2018.0,11.0,November,85,13,2,Clothing,Shirt,UPI,15.294117647058824,Low Revenue
+B-26010,2018-11-02,Kartikay,Bihar,Patna,2018.0,11.0,November,527,26,3,Electronics,Electronic Games,COD,4.933586337760911,High Revenue
+B-26010,2018-11-02,Kartikay,Bihar,Patna,2018.0,11.0,November,29,3,2,Clothing,Stole,COD,10.344827586206897,Low Revenue
+B-26010,2018-11-02,Kartikay,Bihar,Patna,2018.0,11.0,November,18,2,3,Clothing,Hankerchief,COD,11.11111111111111,Low Revenue
+B-26035,,Pinky,Jammu and Kashmir,Kashmir,,,,520,151,3,Electronics,Phones,Credit Card,29.03846153846154,High Revenue
+B-26035,,Pinky,Jammu and Kashmir,Kashmir,,,,291,119,11,Clothing,Saree,COD,40.893470790378004,High Revenue
+B-26035,,Pinky,Jammu and Kashmir,Kashmir,,,,369,15,3,Electronics,Electronic Games,Debit Card,4.0650406504065035,High Revenue
+B-25698,,Amisha,Tamil Nadu,Chennai,,,,516,392,8,Furniture,Chairs,COD,75.96899224806202,High Revenue
+B-25698,,Amisha,Tamil Nadu,Chennai,,,,65,-16,2,Electronics,Phones,Debit Card,-24.615384615384617,Low Revenue
+B-25698,,Amisha,Tamil Nadu,Chennai,,,,207,153,3,Clothing,Saree,Credit Card,73.91304347826086,High Revenue
+B-25698,,Amisha,Tamil Nadu,Chennai,,,,87,-83,5,Clothing,Kurti,COD,-95.40229885057471,Low Revenue
+B-25698,,Amisha,Tamil Nadu,Chennai,,,,27,-6,4,Clothing,Hankerchief,COD,-22.22222222222222,Low Revenue
+B-25698,,Amisha,Tamil Nadu,Chennai,,,,7,-2,1,Clothing,Hankerchief,COD,-28.57142857142857,Low Revenue
+B-25966,,Soumya,Rajasthan,Udaipur,,,,510,234,6,Electronics,Electronic Games,EMI,45.88235294117647,High Revenue
+B-25832,,Harshita,Maharashtra,Mumbai,,,,504,116,3,Furniture,Bookcases,COD,23.015873015873016,High Revenue
+B-25743,2018-07-08,Aman,Nagaland,Kohima,2018.0,7.0,July,503,-56,2,Clothing,Trousers,COD,-11.133200795228628,High Revenue
+B-25743,2018-07-08,Aman,Nagaland,Kohima,2018.0,7.0,July,99,-5,1,Clothing,Saree,UPI,-5.05050505050505,Low Revenue
+B-25743,2018-07-08,Aman,Nagaland,Kohima,2018.0,7.0,July,143,-124,5,Clothing,Saree,UPI,-86.7132867132867,High Revenue
+B-25743,2018-07-08,Aman,Nagaland,Kohima,2018.0,7.0,July,56,0,4,Clothing,Hankerchief,COD,0.0,Low Revenue
+B-25743,2018-07-08,Aman,Nagaland,Kohima,2018.0,7.0,July,74,-51,3,Clothing,Stole,UPI,-68.91891891891892,Low Revenue
+B-25886,,Brijesh,Rajasthan,Udaipur,,,,502,84,4,Electronics,Phones,COD,16.733067729083665,High Revenue
+B-25886,,Brijesh,Rajasthan,Udaipur,,,,89,17,2,Clothing,Stole,UPI,19.101123595505616,Low Revenue
+B-25886,,Brijesh,Rajasthan,Udaipur,,,,107,37,3,Clothing,Shirt,COD,34.57943925233645,Low Revenue
+B-25886,,Brijesh,Rajasthan,Udaipur,,,,63,1,4,Clothing,T-shirt,COD,1.5873015873015872,Low Revenue
+B-25975,,Priyanka,Uttar Pradesh,Prayagraj,,,,29,2,3,Clothing,Skirt,COD,6.896551724137931,Low Revenue
+B-26098,,Pinky,Jammu and Kashmir,Kashmir,,,,96,-48,5,Clothing,Leggings,UPI,-50.0,Low Revenue
+B-26098,,Pinky,Jammu and Kashmir,Kashmir,,,,409,86,3,Clothing,Saree,COD,21.026894865525673,High Revenue
+B-26098,,Pinky,Jammu and Kashmir,Kashmir,,,,46,14,5,Clothing,Skirt,COD,30.434782608695656,Low Revenue
+B-26098,,Pinky,Jammu and Kashmir,Kashmir,,,,59,15,2,Clothing,T-shirt,UPI,25.423728813559322,Low Revenue
+B-26098,,Pinky,Jammu and Kashmir,Kashmir,,,,82,8,3,Electronics,Accessories,EMI,9.75609756097561,Low Revenue
+B-26098,,Pinky,Jammu and Kashmir,Kashmir,,,,497,179,3,Furniture,Chairs,Debit Card,36.016096579476866,High Revenue
+B-25614,,Vandana,Himachal Pradesh,Simla,,,,98,-12,2,Electronics,Electronic Games,Credit Card,-12.244897959183673,Low Revenue
+B-25614,,Vandana,Himachal Pradesh,Simla,,,,494,54,4,Furniture,Bookcases,COD,10.931174089068826,High Revenue
+B-25726,,Kiran,Maharashtra,Mumbai,,,,490,-128,8,Furniture,Bookcases,UPI,-26.122448979591837,High Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,32,6,3,Clothing,Shirt,UPI,18.75,Low Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,487,143,4,Electronics,Phones,EMI,29.36344969199179,High Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,325,32,7,Clothing,T-shirt,COD,9.846153846153847,High Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,79,32,3,Clothing,Saree,Debit Card,40.50632911392405,Low Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,166,27,2,Electronics,Accessories,EMI,16.265060240963855,High Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,169,55,4,Clothing,Saree,Debit Card,32.544378698224854,High Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,284,44,6,Clothing,Hankerchief,COD,15.492957746478872,High Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,38,9,2,Clothing,Stole,COD,23.684210526315788,Low Revenue
+B-26050,2018-06-03,Paridhi,Rajasthan,Jaipur,2018.0,6.0,June,382,92,2,Electronics,Printers,COD,24.083769633507853,High Revenue
+B-25609,2018-09-04,Jitesh,Uttar Pradesh,Lucknow,2018.0,9.0,September,485,29,4,Electronics,Electronic Games,COD,5.979381443298969,High Revenue
+B-25609,2018-09-04,Jitesh,Uttar Pradesh,Lucknow,2018.0,9.0,September,249,-5,4,Clothing,Saree,COD,-2.0080321285140563,High Revenue
+B-25741,2018-03-08,Navdeep,Madhya Pradesh,Indore,2018.0,3.0,March,482,-6,7,Electronics,Electronic Games,EMI,-1.2448132780082988,High Revenue
+B-25956,,Shreya,Maharashtra,Mumbai,,,,89,-37,4,Clothing,Shirt,COD,-41.57303370786517,Low Revenue
+B-25956,,Shreya,Maharashtra,Mumbai,,,,59,10,2,Clothing,Hankerchief,COD,16.94915254237288,Low Revenue
+B-25956,,Shreya,Maharashtra,Mumbai,,,,140,28,2,Electronics,Phones,COD,20.0,High Revenue
+B-25956,,Shreya,Maharashtra,Mumbai,,,,474,56,4,Electronics,Phones,Debit Card,11.814345991561181,High Revenue
+B-25956,,Shreya,Maharashtra,Mumbai,,,,33,10,3,Clothing,Hankerchief,COD,30.303030303030305,Low Revenue
+B-25689,,Bhaggyasree,Maharashtra,Mumbai,,,,469,-459,3,Electronics,Electronic Games,COD,-97.86780383795309,High Revenue
+B-25689,,Bhaggyasree,Maharashtra,Mumbai,,,,97,17,2,Clothing,Stole,Credit Card,17.525773195876287,Low Revenue
+B-25689,,Bhaggyasree,Maharashtra,Mumbai,,,,149,136,3,Clothing,Stole,UPI,91.2751677852349,High Revenue
+B-25939,2018-05-01,Vineet,Sikkim,Gangtok,2018.0,5.0,May,136,41,3,Electronics,Accessories,UPI,30.14705882352941,High Revenue
+B-25939,2018-05-01,Vineet,Sikkim,Gangtok,2018.0,5.0,May,61,18,2,Electronics,Accessories,COD,29.508196721311474,Low Revenue
+B-25939,2018-05-01,Vineet,Sikkim,Gangtok,2018.0,5.0,May,469,33,4,Electronics,Electronic Games,Debit Card,7.036247334754798,High Revenue
+B-25890,2018-04-12,Divyansha,Maharashtra,Mumbai,2018.0,4.0,April,465,207,9,Clothing,Saree,COD,44.516129032258064,High Revenue
+B-25814,2018-10-10,Swapnil,Madhya Pradesh,Indore,2018.0,10.0,October,118,35,7,Clothing,T-shirt,EMI,29.66101694915254,Low Revenue
+B-25814,2018-10-10,Swapnil,Madhya Pradesh,Indore,2018.0,10.0,October,462,169,4,Clothing,Saree,COD,36.58008658008658,High Revenue
+B-25718,2018-12-07,Anjali,Maharashtra,Mumbai,2018.0,12.0,December,371,115,1,Furniture,Bookcases,Debit Card,30.997304582210244,High Revenue
+B-25718,2018-12-07,Anjali,Maharashtra,Mumbai,2018.0,12.0,December,460,31,3,Furniture,Bookcases,Debit Card,6.739130434782608,High Revenue
+B-25914,,Kajal,Delhi,Delhi,,,,125,22,3,Clothing,Stole,EMI,17.599999999999998,High Revenue
+B-25914,,Kajal,Delhi,Delhi,,,,460,-143,3,Furniture,Chairs,Debit Card,-31.08695652173913,High Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,19,8,2,Clothing,Hankerchief,Debit Card,42.10526315789473,Low Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,25,11,3,Clothing,Leggings,Debit Card,44.0,Low Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,455,77,8,Electronics,Accessories,COD,16.923076923076923,High Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,336,57,2,Electronics,Phones,COD,16.964285714285715,High Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,37,17,3,Clothing,Hankerchief,Debit Card,45.94594594594595,Low Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,74,33,2,Clothing,Shirt,Debit Card,44.5945945945946,Low Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,60,-10,2,Furniture,Furnishings,COD,-16.666666666666664,Low Revenue
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,2018.0,10.0,October,204,-94,4,Clothing,Hankerchief,EMI,-46.07843137254902,High Revenue
+B-26096,,Atharv,West Bengal,Kolkata,,,,451,25,3,Electronics,Phones,EMI,5.543237250554324,High Revenue
+B-26096,,Atharv,West Bengal,Kolkata,,,,264,-26,3,Clothing,Trousers,COD,-9.848484848484848,High Revenue
+B-26096,,Atharv,West Bengal,Kolkata,,,,45,9,3,Clothing,Leggings,UPI,20.0,Low Revenue
+B-26096,,Atharv,West Bengal,Kolkata,,,,88,11,3,Electronics,Accessories,COD,12.5,Low Revenue
+B-26096,,Atharv,West Bengal,Kolkata,,,,140,56,4,Clothing,Shirt,UPI,40.0,High Revenue
+B-26096,,Atharv,West Bengal,Kolkata,,,,103,46,2,Clothing,Saree,Credit Card,44.66019417475729,Low Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,450,-90,3,Electronics,Printers,COD,-20.0,High Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,269,-86,2,Electronics,Electronic Games,EMI,-31.970260223048324,High Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,229,-23,2,Clothing,Saree,UPI,-10.043668122270741,High Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,122,-21,3,Furniture,Furnishings,UPI,-17.21311475409836,Low Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,105,46,2,Clothing,Stole,UPI,43.80952380952381,Low Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,121,-17,3,Furniture,Furnishings,Credit Card,-14.049586776859504,Low Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,54,-3,3,Clothing,Saree,COD,-5.555555555555555,Low Revenue
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,2018.0,10.0,October,34,12,3,Clothing,Hankerchief,Credit Card,35.294117647058826,Low Revenue
+B-26076,,Jahan,Madhya Pradesh,Bhopal,,,,219,4,2,Clothing,Saree,COD,1.82648401826484,High Revenue
+B-26076,,Jahan,Madhya Pradesh,Bhopal,,,,91,22,2,Clothing,Stole,UPI,24.175824175824175,Low Revenue
+B-26076,,Jahan,Madhya Pradesh,Bhopal,,,,133,46,5,Clothing,Shirt,EMI,34.58646616541353,High Revenue
+B-26076,,Jahan,Madhya Pradesh,Bhopal,,,,60,13,2,Clothing,T-shirt,COD,21.666666666666668,Low Revenue
+B-26076,,Jahan,Madhya Pradesh,Bhopal,,,,450,-190,4,Furniture,Bookcases,COD,-42.22222222222222,High Revenue
+B-25961,,Surbhi,Gujarat,Ahmedabad,,,,446,53,3,Electronics,Printers,COD,11.883408071748878,High Revenue
+B-25961,,Surbhi,Gujarat,Ahmedabad,,,,366,84,3,Furniture,Bookcases,COD,22.950819672131146,High Revenue
+B-25961,,Surbhi,Gujarat,Ahmedabad,,,,48,16,3,Clothing,Shirt,COD,33.33333333333333,Low Revenue
+B-25961,,Surbhi,Gujarat,Ahmedabad,,,,34,-10,3,Clothing,Skirt,COD,-29.411764705882355,Low Revenue
+B-25961,,Surbhi,Gujarat,Ahmedabad,,,,34,-12,5,Clothing,Leggings,COD,-35.294117647058826,Low Revenue
+B-25961,,Surbhi,Gujarat,Ahmedabad,,,,26,3,3,Clothing,Skirt,UPI,11.538461538461538,Low Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,381,144,2,Clothing,Saree,COD,37.79527559055118,High Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,53,-2,3,Clothing,Saree,Debit Card,-3.7735849056603774,Low Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,149,48,6,Clothing,Stole,COD,32.21476510067114,High Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,76,19,3,Clothing,Hankerchief,COD,25.0,Low Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,88,16,4,Clothing,Stole,Credit Card,18.181818181818183,Low Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,342,-154,7,Furniture,Furnishings,Debit Card,-45.02923976608187,High Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,40,16,3,Clothing,Hankerchief,COD,40.0,Low Revenue
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,2018.0,8.0,August,436,131,9,Clothing,Hankerchief,UPI,30.045871559633024,High Revenue
+B-25642,,Ajay,Karnataka,Bangalore,,,,434,26,11,Clothing,Shirt,Credit Card,5.990783410138248,High Revenue
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,2018.0,8.0,August,86,-55,6,Clothing,Saree,COD,-63.95348837209303,Low Revenue
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,2018.0,8.0,August,155,56,3,Furniture,Furnishings,EMI,36.12903225806451,High Revenue
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,2018.0,8.0,August,245,-3,4,Electronics,Phones,UPI,-1.2244897959183674,High Revenue
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,2018.0,8.0,August,433,26,3,Electronics,Printers,Debit Card,6.0046189376443415,High Revenue
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,2018.0,8.0,August,148,52,5,Clothing,Stole,UPI,35.13513513513514,High Revenue
+B-26016,,Hazel,Karnataka,Bangalore,,,,202,4,4,Clothing,Hankerchief,COD,1.9801980198019802,High Revenue
+B-26016,,Hazel,Karnataka,Bangalore,,,,429,61,3,Electronics,Electronic Games,Credit Card,14.219114219114218,High Revenue
+B-26016,,Hazel,Karnataka,Bangalore,,,,134,-13,3,Electronics,Electronic Games,UPI,-9.701492537313433,High Revenue
+B-26016,,Hazel,Karnataka,Bangalore,,,,74,9,3,Clothing,Shirt,UPI,12.162162162162163,Low Revenue
+B-26034,,Vini,Karnataka,Bangalore,,,,425,183,5,Electronics,Accessories,UPI,43.05882352941177,High Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,424,161,2,Clothing,Saree,COD,37.971698113207545,High Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,15,6,2,Clothing,Hankerchief,COD,40.0,Low Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,101,11,2,Clothing,Hankerchief,UPI,10.891089108910892,Low Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,47,20,7,Clothing,Hankerchief,UPI,42.5531914893617,Low Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,70,24,3,Clothing,Stole,UPI,34.285714285714285,Low Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,206,18,4,Clothing,Hankerchief,Debit Card,8.737864077669903,High Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,213,-145,3,Furniture,Bookcases,Debit Card,-68.07511737089203,High Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,220,40,2,Electronics,Accessories,COD,18.181818181818183,High Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,391,90,6,Electronics,Phones,Debit Card,23.017902813299234,High Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,33,9,2,Clothing,Hankerchief,COD,27.27272727272727,Low Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,31,9,2,Clothing,Hankerchief,COD,29.03225806451613,Low Revenue
+B-26056,2018-10-03,Sonal,Bihar,Patna,2018.0,10.0,October,19,-18,4,Clothing,Kurti,COD,-94.73684210526315,Low Revenue
+B-25819,,Ankur,Madhya Pradesh,Bhopal,,,,417,49,3,Electronics,Electronic Games,COD,11.750599520383693,High Revenue
+B-25715,2018-10-07,Srishti,Jammu and Kashmir,Kashmir,2018.0,10.0,October,416,137,3,Electronics,Phones,Debit Card,32.93269230769231,High Revenue
+B-25933,2018-04-01,Shikhar,Maharashtra,Mumbai,2018.0,4.0,April,412,412,6,Clothing,Saree,COD,100.0,High Revenue
+B-25933,2018-04-01,Shikhar,Maharashtra,Mumbai,2018.0,4.0,April,207,-100,2,Clothing,Saree,UPI,-48.309178743961354,High Revenue
+B-25933,2018-04-01,Shikhar,Maharashtra,Mumbai,2018.0,4.0,April,81,-44,3,Clothing,Stole,COD,-54.32098765432099,Low Revenue
+B-26014,,Divsha,Rajasthan,Jaipur,,,,406,97,7,Furniture,Chairs,Credit Card,23.891625615763548,High Revenue
+B-26014,,Divsha,Rajasthan,Jaipur,,,,278,39,5,Furniture,Chairs,Debit Card,14.028776978417264,High Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,6,-3,1,Clothing,Hankerchief,UPI,-50.0,Low Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,74,-123,8,Clothing,Skirt,UPI,-166.2162162162162,Low Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,312,-312,7,Furniture,Chairs,COD,-100.0,High Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,44,-26,3,Clothing,Hankerchief,Debit Card,-59.09090909090909,Low Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,396,-31,9,Clothing,Saree,COD,-7.828282828282829,High Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,110,-68,4,Clothing,Saree,EMI,-61.81818181818181,Low Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,97,-62,2,Clothing,Trousers,COD,-63.91752577319587,Low Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,9,-6,2,Clothing,Skirt,Credit Card,-66.66666666666666,Low Revenue
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,2018.0,11.0,November,7,-4,3,Clothing,Hankerchief,COD,-57.14285714285714,Low Revenue
+B-25816,2018-12-10,Mane,Andhra Pradesh,Hyderabad,2018.0,12.0,December,391,113,8,Clothing,Stole,COD,28.9002557544757,High Revenue
+B-25634,,Sanjay,Goa,Goa,,,,389,-83,3,Furniture,Chairs,UPI,-21.336760925449873,High Revenue
+B-25895,2018-04-12,Sathya,Gujarat,Surat,2018.0,4.0,April,388,93,2,Furniture,Bookcases,COD,23.969072164948454,High Revenue
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,2018.0,11.0,November,387,-213,5,Clothing,Saree,UPI,-55.03875968992248,High Revenue
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,2018.0,11.0,November,17,6,1,Clothing,Stole,UPI,35.294117647058826,Low Revenue
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,2018.0,11.0,November,357,139,2,Clothing,Saree,Debit Card,38.93557422969188,High Revenue
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,2018.0,11.0,November,51,21,3,Clothing,T-shirt,COD,41.17647058823529,Low Revenue
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,2018.0,11.0,November,14,-1,4,Clothing,Kurti,COD,-7.142857142857142,Low Revenue
+B-25662,,Sweta,Maharashtra,Mumbai,,,,24,-2,2,Clothing,T-shirt,COD,-8.333333333333332,Low Revenue
+B-25662,,Sweta,Maharashtra,Mumbai,,,,385,-77,11,Furniture,Furnishings,UPI,-20.0,High Revenue
+B-25662,,Sweta,Maharashtra,Mumbai,,,,86,-21,1,Electronics,Electronic Games,UPI,-24.418604651162788,Low Revenue
+B-25635,,Nidhi,Nagaland,Kohima,,,,40,16,3,Clothing,Hankerchief,Debit Card,40.0,Low Revenue
+B-25635,,Nidhi,Nagaland,Kohima,,,,382,30,3,Clothing,Saree,Credit Card,7.853403141361256,High Revenue
+B-25635,,Nidhi,Nagaland,Kohima,,,,23,2,2,Clothing,Skirt,UPI,8.695652173913043,Low Revenue
+B-26060,,Chirag,Maharashtra,Mumbai,,,,382,68,3,Clothing,Saree,COD,17.801047120418847,High Revenue
+B-26045,2018-03-03,Nidhi,Nagaland,Kohima,2018.0,3.0,March,376,0,7,Clothing,Stole,Credit Card,0.0,High Revenue
+B-26045,2018-03-03,Nidhi,Nagaland,Kohima,2018.0,3.0,March,302,75,6,Furniture,Furnishings,Debit Card,24.834437086092713,High Revenue
+B-26045,2018-03-03,Nidhi,Nagaland,Kohima,2018.0,3.0,March,179,77,1,Clothing,Saree,UPI,43.01675977653631,High Revenue
+B-26045,2018-03-03,Nidhi,Nagaland,Kohima,2018.0,3.0,March,27,5,1,Clothing,Stole,UPI,18.51851851851852,Low Revenue
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,2018.0,2.0,February,299,113,2,Furniture,Bookcases,COD,37.79264214046823,High Revenue
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,2018.0,2.0,February,375,180,3,Furniture,Bookcases,Credit Card,48.0,High Revenue
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,2018.0,2.0,February,110,35,1,Furniture,Furnishings,COD,31.818181818181817,Low Revenue
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,2018.0,2.0,February,287,-280,12,Furniture,Chairs,UPI,-97.5609756097561,High Revenue
+B-25744,2018-08-08,Devendra,Andhra Pradesh,Hyderabad,2018.0,8.0,August,373,254,6,Electronics,Printers,UPI,68.09651474530831,High Revenue
+B-25618,,Manju,Andhra Pradesh,Hyderabad,,,,12,0,2,Clothing,Hankerchief,UPI,0.0,Low Revenue
+B-25618,,Manju,Andhra Pradesh,Hyderabad,,,,362,127,1,Furniture,Bookcases,COD,35.0828729281768,High Revenue
+B-25958,,Aparajita,West Bengal,Kolkata,,,,105,25,2,Clothing,Hankerchief,EMI,23.809523809523807,Low Revenue
+B-25958,,Aparajita,West Bengal,Kolkata,,,,360,32,3,Clothing,Saree,UPI,8.88888888888889,High Revenue
+B-25769,2018-02-09,Surbhi,Maharashtra,Mumbai,2018.0,2.0,February,355,-4,2,Clothing,Saree,Debit Card,-1.1267605633802817,High Revenue
+B-25619,,Ramesh,Gujarat,Ahmedabad,,,,353,90,8,Clothing,Saree,COD,25.495750708215297,High Revenue
+B-25688,2018-11-06,Swetha,Madhya Pradesh,Indore,2018.0,11.0,November,352,-345,5,Clothing,Saree,Credit Card,-98.01136363636364,High Revenue
+B-25829,,Apoorva,Haryana,Chandigarh,,,,345,38,7,Clothing,Hankerchief,Debit Card,11.014492753623188,High Revenue
+B-26036,,Bhishm,Maharashtra,Mumbai,,,,341,44,7,Furniture,Furnishings,UPI,12.903225806451612,High Revenue
+B-25714,2018-09-07,Stuti,Karnataka,Bangalore,2018.0,9.0,September,11,-5,2,Clothing,Hankerchief,COD,-45.45454545454545,Low Revenue
+B-25714,2018-09-07,Stuti,Karnataka,Bangalore,2018.0,9.0,September,340,20,7,Clothing,Shirt,Credit Card,5.88235294117647,High Revenue
+B-25989,2018-01-02,Anjali,Delhi,Delhi,2018.0,1.0,January,42,15,1,Electronics,Accessories,UPI,35.714285714285715,Low Revenue
+B-25989,2018-01-02,Anjali,Delhi,Delhi,2018.0,1.0,January,330,81,1,Furniture,Bookcases,Credit Card,24.545454545454547,High Revenue
+B-25989,2018-01-02,Anjali,Delhi,Delhi,2018.0,1.0,January,338,41,7,Clothing,Hankerchief,UPI,12.1301775147929,High Revenue
+B-25989,2018-01-02,Anjali,Delhi,Delhi,2018.0,1.0,January,44,14,3,Clothing,Hankerchief,Credit Card,31.818181818181817,Low Revenue
+B-25989,2018-01-02,Anjali,Delhi,Delhi,2018.0,1.0,January,10,5,1,Clothing,Stole,COD,50.0,Low Revenue
+B-25849,2018-04-11,K,Sikkim,Gangtok,2018.0,4.0,April,336,123,3,Electronics,Phones,UPI,36.607142857142854,High Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,135,-54,5,Clothing,Kurti,COD,-40.0,High Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,336,71,3,Furniture,Bookcases,COD,21.13095238095238,High Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,90,29,5,Clothing,T-shirt,COD,32.22222222222222,Low Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,62,1,3,Clothing,Saree,COD,1.6129032258064515,Low Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,57,27,2,Clothing,T-shirt,COD,47.368421052631575,Low Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,237,47,9,Clothing,T-shirt,UPI,19.831223628691983,High Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,300,42,2,Electronics,Printers,COD,14.000000000000002,High Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,53,24,6,Clothing,Hankerchief,EMI,45.28301886792453,Low Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,103,46,2,Clothing,Saree,UPI,44.66019417475729,Low Revenue
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,2018.0,6.0,June,10,2,2,Clothing,Hankerchief,COD,20.0,Low Revenue
+B-25782,,Aayushi,Maharashtra,Mumbai,,,,335,-22,7,Furniture,Chairs,UPI,-6.567164179104477,High Revenue
+B-25621,,Deepak,Madhya Pradesh,Bhopal,,,,333,-15,3,Electronics,Phones,COD,-4.504504504504505,High Revenue
+B-25621,,Deepak,Madhya Pradesh,Bhopal,,,,233,-10,5,Electronics,Electronic Games,COD,-4.291845493562231,High Revenue
+B-25621,,Deepak,Madhya Pradesh,Bhopal,,,,228,63,3,Electronics,Electronic Games,Credit Card,27.631578947368425,High Revenue
+B-25996,2018-04-02,Prashant,Delhi,Delhi,2018.0,4.0,April,31,2,2,Clothing,Hankerchief,COD,6.451612903225806,Low Revenue
+B-25996,2018-04-02,Prashant,Delhi,Delhi,2018.0,4.0,April,333,50,2,Electronics,Phones,COD,15.015015015015015,High Revenue
+B-25996,2018-04-02,Prashant,Delhi,Delhi,2018.0,4.0,April,62,6,6,Clothing,Skirt,COD,9.67741935483871,Low Revenue
+B-25996,2018-04-02,Prashant,Delhi,Delhi,2018.0,4.0,April,189,4,1,Clothing,Saree,UPI,2.1164021164021163,High Revenue
+B-25996,2018-04-02,Prashant,Delhi,Delhi,2018.0,4.0,April,47,1,2,Clothing,Stole,COD,2.127659574468085,Low Revenue
+B-25996,2018-04-02,Prashant,Delhi,Delhi,2018.0,4.0,April,286,140,6,Clothing,Shirt,Debit Card,48.95104895104895,High Revenue
+B-25996,2018-04-02,Prashant,Delhi,Delhi,2018.0,4.0,April,217,72,2,Furniture,Furnishings,COD,33.17972350230415,High Revenue
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,2018.0,3.0,March,27,-25,2,Clothing,Shirt,Debit Card,-92.5925925925926,Low Revenue
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,2018.0,3.0,March,327,-39,1,Electronics,Phones,COD,-11.926605504587156,High Revenue
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,2018.0,3.0,March,64,-7,3,Clothing,Saree,COD,-10.9375,Low Revenue
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,2018.0,3.0,March,7,-3,2,Clothing,Skirt,UPI,-42.857142857142854,Low Revenue
+B-25727,,Turumella,Madhya Pradesh,Indore,,,,327,114,4,Clothing,Trousers,COD,34.862385321100916,High Revenue
+B-25727,,Turumella,Madhya Pradesh,Indore,,,,57,-48,6,Clothing,Leggings,Debit Card,-84.21052631578947,Low Revenue
+B-26018,,Aarushi,Tamil Nadu,Chennai,,,,61,8,4,Clothing,Hankerchief,Debit Card,13.114754098360656,Low Revenue
+B-26018,,Aarushi,Tamil Nadu,Chennai,,,,326,107,3,Furniture,Furnishings,UPI,32.82208588957055,High Revenue
+B-25760,,Pooja,Goa,Goa,,,,322,-193,5,Electronics,Printers,UPI,-59.93788819875776,High Revenue
+B-25804,2018-05-10,Sudheer,Karnataka,Bangalore,2018.0,5.0,May,156,36,5,Clothing,T-shirt,EMI,23.076923076923077,High Revenue
+B-25804,2018-05-10,Sudheer,Karnataka,Bangalore,2018.0,5.0,May,321,26,3,Electronics,Printers,Debit Card,8.09968847352025,High Revenue
+B-25754,,Akshay,Bihar,Patna,,,,9,-1,3,Clothing,Skirt,UPI,-11.11111111111111,Low Revenue
+B-25754,,Akshay,Bihar,Patna,,,,72,-46,7,Clothing,Kurti,Debit Card,-63.888888888888886,Low Revenue
+B-25754,,Akshay,Bihar,Patna,,,,19,0,3,Clothing,Skirt,UPI,0.0,Low Revenue
+B-25754,,Akshay,Bihar,Patna,,,,41,-14,5,Clothing,Leggings,UPI,-34.146341463414636,Low Revenue
+B-25754,,Akshay,Bihar,Patna,,,,93,-65,4,Clothing,Stole,Credit Card,-69.89247311827957,Low Revenue
+B-25754,,Akshay,Bihar,Patna,,,,262,215,2,Electronics,Printers,Debit Card,82.06106870229007,High Revenue
+B-25754,,Akshay,Bihar,Patna,,,,319,312,5,Clothing,Saree,Debit Card,97.80564263322884,High Revenue
+B-25754,,Akshay,Bihar,Patna,,,,30,-23,2,Clothing,Saree,UPI,-76.66666666666667,Low Revenue
+B-26020,,Yogesh,Bihar,Patna,,,,319,102,6,Electronics,Accessories,Credit Card,31.974921630094045,High Revenue
+B-25640,,Paridhi,Rajasthan,Jaipur,,,,1499,239,13,Clothing,Saree,Credit Card,15.943962641761175,High Revenue
+B-25640,,Paridhi,Rajasthan,Jaipur,,,,68,-62,2,Clothing,Trousers,Debit Card,-91.17647058823529,Low Revenue
+B-25640,,Paridhi,Rajasthan,Jaipur,,,,122,-47,4,Clothing,Saree,EMI,-38.52459016393443,Low Revenue
+B-25789,,Akshay,Uttar Pradesh,Lucknow,,,,67,-86,9,Furniture,Furnishings,COD,-128.3582089552239,Low Revenue
+B-25789,,Akshay,Uttar Pradesh,Lucknow,,,,313,-13,5,Furniture,Bookcases,UPI,-4.15335463258786,High Revenue
+B-25789,,Akshay,Uttar Pradesh,Lucknow,,,,30,0,1,Clothing,Kurti,COD,0.0,Low Revenue
+B-26072,,Sweta,Maharashtra,Mumbai,,,,313,44,3,Electronics,Electronic Games,COD,14.057507987220447,High Revenue
+B-26007,2018-09-02,Shubham,Jammu and Kashmir,Kashmir,2018.0,9.0,September,311,72,2,Furniture,Bookcases,COD,23.15112540192926,High Revenue
+B-26087,,Vandana,Himachal Pradesh,Simla,,,,180,0,8,Clothing,Stole,COD,0.0,High Revenue
+B-26087,,Vandana,Himachal Pradesh,Simla,,,,311,40,1,Electronics,Electronic Games,EMI,12.861736334405144,High Revenue
+B-26087,,Vandana,Himachal Pradesh,Simla,,,,119,56,7,Clothing,Saree,EMI,47.05882352941176,Low Revenue
+B-26087,,Vandana,Himachal Pradesh,Simla,,,,46,13,3,Clothing,Hankerchief,COD,28.26086956521739,Low Revenue
+B-26087,,Vandana,Himachal Pradesh,Simla,,,,40,10,2,Clothing,Stole,COD,25.0,Low Revenue
+B-25617,,Sagar,Nagaland,Kohima,,,,305,-270,5,Electronics,Electronic Games,Debit Card,-88.52459016393442,High Revenue
+B-25984,,Kajal,Delhi,Delhi,,,,304,97,6,Clothing,Stole,UPI,31.907894736842106,High Revenue
+B-25767,,Ashmeet,West Bengal,Kolkata,,,,299,-28,3,Electronics,Electronic Games,UPI,-9.364548494983277,High Revenue
+B-25767,,Ashmeet,West Bengal,Kolkata,,,,74,-59,2,Electronics,Accessories,Debit Card,-79.72972972972973,Low Revenue
+B-25767,,Ashmeet,West Bengal,Kolkata,,,,48,-22,2,Clothing,Saree,EMI,-45.83333333333333,Low Revenue
+B-25767,,Ashmeet,West Bengal,Kolkata,,,,29,-3,3,Clothing,Saree,COD,-10.344827586206897,Low Revenue
+B-25767,,Ashmeet,West Bengal,Kolkata,,,,9,-9,2,Clothing,Kurti,COD,-100.0,Low Revenue
+B-25987,,Manjiri,Delhi,Delhi,,,,299,0,6,Clothing,Stole,COD,0.0,High Revenue
+B-25987,,Manjiri,Delhi,Delhi,,,,88,11,7,Clothing,Hankerchief,UPI,12.5,Low Revenue
+B-25840,,Sneha,Karnataka,Bangalore,,,,298,74,2,Furniture,Bookcases,COD,24.832214765100673,High Revenue
+B-25840,,Sneha,Karnataka,Bangalore,,,,262,64,6,Clothing,Saree,EMI,24.427480916030532,High Revenue
+B-25840,,Sneha,Karnataka,Bangalore,,,,246,61,2,Furniture,Bookcases,Credit Card,24.796747967479675,High Revenue
+B-25663,,Pournamasi,Madhya Pradesh,Indore,,,,294,138,2,Electronics,Printers,Debit Card,46.93877551020408,High Revenue
+B-26030,,Sarita,Maharashtra,Pune,,,,291,93,2,Electronics,Printers,COD,31.958762886597935,High Revenue
+B-26030,,Sarita,Maharashtra,Pune,,,,11,5,1,Clothing,Skirt,COD,45.45454545454545,Low Revenue
+B-26030,,Sarita,Maharashtra,Pune,,,,50,25,5,Clothing,Stole,COD,50.0,Low Revenue
+B-26030,,Sarita,Maharashtra,Pune,,,,89,36,3,Clothing,Shirt,UPI,40.44943820224719,Low Revenue
+B-26030,,Sarita,Maharashtra,Pune,,,,92,5,6,Clothing,Hankerchief,Credit Card,5.434782608695652,Low Revenue
+B-26030,,Sarita,Maharashtra,Pune,,,,221,35,4,Electronics,Accessories,Debit Card,15.837104072398189,High Revenue
+B-25947,,Chetan,Gujarat,Ahmedabad,,,,290,35,6,Clothing,Hankerchief,COD,12.068965517241379,High Revenue
+B-25947,,Chetan,Gujarat,Ahmedabad,,,,207,33,2,Electronics,Accessories,UPI,15.942028985507244,High Revenue
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018.0,5.0,May,31,-11,3,Clothing,Skirt,UPI,-35.483870967741936,Low Revenue
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018.0,5.0,May,287,-66,6,Clothing,Kurti,COD,-22.99651567944251,High Revenue
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018.0,5.0,May,190,68,8,Clothing,T-shirt,Credit Card,35.78947368421053,High Revenue
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018.0,5.0,May,103,36,2,Clothing,Hankerchief,COD,34.95145631067961,Low Revenue
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018.0,5.0,May,79,-2,2,Furniture,Furnishings,EMI,-2.5316455696202533,Low Revenue
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018.0,5.0,May,42,7,2,Clothing,Kurti,COD,16.666666666666664,Low Revenue
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,2018.0,5.0,May,23,4,2,Clothing,Skirt,COD,17.391304347826086,Low Revenue
+B-26009,2018-10-02,Komal,Uttar Pradesh,Lucknow,2018.0,10.0,October,285,128,2,Electronics,Printers,COD,44.91228070175438,High Revenue
+B-26009,2018-10-02,Komal,Uttar Pradesh,Lucknow,2018.0,10.0,October,195,12,9,Clothing,Shirt,Credit Card,6.153846153846154,High Revenue
+B-25876,,Bhosale,Punjab,Amritsar,,,,282,14,4,Clothing,Trousers,Debit Card,4.964539007092199,High Revenue
+B-25915,,Sukruta,Punjab,Amritsar,,,,277,3,1,Electronics,Electronic Games,COD,1.083032490974729,High Revenue
+B-25795,,Sukant,Sikkim,Gangtok,,,,276,-21,2,Electronics,Phones,EMI,-7.608695652173914,High Revenue
+B-26002,2018-08-02,Harsh,Delhi,Delhi,2018.0,8.0,August,276,52,5,Clothing,Saree,EMI,18.84057971014493,High Revenue
+B-26002,2018-08-02,Harsh,Delhi,Delhi,2018.0,8.0,August,71,19,3,Clothing,T-shirt,COD,26.76056338028169,Low Revenue
+B-26002,2018-08-02,Harsh,Delhi,Delhi,2018.0,8.0,August,80,22,3,Clothing,Stole,Debit Card,27.500000000000004,Low Revenue
+B-26002,2018-08-02,Harsh,Delhi,Delhi,2018.0,8.0,August,141,7,7,Clothing,Saree,COD,4.964539007092199,High Revenue
+B-26002,2018-08-02,Harsh,Delhi,Delhi,2018.0,8.0,August,113,28,2,Clothing,Saree,UPI,24.778761061946902,Low Revenue
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,2018.0,1.0,January,273,-87,4,Electronics,Phones,COD,-31.868131868131865,High Revenue
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,2018.0,1.0,January,86,0,4,Clothing,T-shirt,Debit Card,0.0,Low Revenue
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,2018.0,1.0,January,133,-42,1,Electronics,Printers,UPI,-31.57894736842105,High Revenue
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,2018.0,1.0,January,183,-66,5,Electronics,Phones,UPI,-36.0655737704918,High Revenue
+B-25837,,Palak,Maharashtra,Mumbai,,,,263,50,5,Clothing,Stole,COD,19.011406844106464,High Revenue
+B-25612,2018-12-04,Shrichand,Punjab,Chandigarh,2018.0,12.0,December,259,-55,2,Furniture,Chairs,COD,-21.235521235521233,High Revenue
+B-25812,2018-10-10,Kshitij,Madhya Pradesh,Indore,2018.0,10.0,October,259,47,5,Clothing,Hankerchief,UPI,18.146718146718147,High Revenue
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,2018.0,3.0,March,18,6,3,Clothing,Hankerchief,UPI,33.33333333333333,Low Revenue
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,2018.0,3.0,March,45,0,2,Clothing,Stole,UPI,0.0,Low Revenue
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,2018.0,3.0,March,214,30,3,Electronics,Accessories,COD,14.018691588785046,High Revenue
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,2018.0,3.0,March,50,7,6,Clothing,Skirt,COD,14.000000000000002,Low Revenue
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,2018.0,3.0,March,255,74,5,Clothing,Hankerchief,COD,29.01960784313726,High Revenue
+B-26026,,Kanak,Goa,Goa,,,,255,76,9,Clothing,Hankerchief,COD,29.80392156862745,High Revenue
+B-26026,,Kanak,Goa,Goa,,,,25,2,3,Clothing,Kurti,Credit Card,8.0,Low Revenue
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,2018.0,6.0,June,224,-143,3,Furniture,Chairs,COD,-63.83928571428571,High Revenue
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,2018.0,6.0,June,248,-70,3,Furniture,Chairs,Credit Card,-28.225806451612907,High Revenue
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,2018.0,6.0,June,437,-14,2,Clothing,Saree,UPI,-3.203661327231121,High Revenue
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,2018.0,6.0,June,85,-9,4,Clothing,Saree,COD,-10.588235294117647,Low Revenue
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,2018.0,6.0,June,209,-21,2,Electronics,Electronic Games,UPI,-10.047846889952153,High Revenue
+B-25875,,Divyeshkumar,Uttar Pradesh,Prayagraj,,,,248,8,2,Clothing,Saree,Credit Card,3.225806451612903,High Revenue
+B-25660,,Shruti,Karnataka,Bangalore,,,,245,-78,3,Clothing,Saree,COD,-31.83673469387755,High Revenue
+B-25918,,Karandeep,Madhya Pradesh,Indore,,,,244,-122,5,Furniture,Furnishings,COD,-50.0,High Revenue
+B-25971,,Mitali,Madhya Pradesh,Indore,,,,244,83,2,Furniture,Bookcases,COD,34.01639344262295,High Revenue
+B-26063,,Farah,Nagaland,Kohima,,,,241,-77,4,Electronics,Electronic Games,COD,-31.950207468879665,High Revenue
+B-25867,,Ankit,Sikkim,Gangtok,,,,240,12,6,Clothing,Kurti,UPI,5.0,High Revenue
+B-25867,,Ankit,Sikkim,Gangtok,,,,31,14,3,Clothing,Stole,UPI,45.16129032258064,Low Revenue
+B-25867,,Ankit,Sikkim,Gangtok,,,,163,26,4,Clothing,Shirt,COD,15.950920245398773,High Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,231,-190,9,Clothing,Hankerchief,COD,-82.25108225108225,High Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,97,-45,4,Clothing,Saree,COD,-46.391752577319586,Low Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,32,-5,5,Clothing,Hankerchief,UPI,-15.625,Low Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,47,-27,4,Clothing,Saree,COD,-57.446808510638306,Low Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,42,-23,2,Furniture,Furnishings,UPI,-54.761904761904766,Low Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,186,241,9,Clothing,Shirt,Credit Card,129.56989247311827,High Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,17,-3,2,Clothing,Stole,UPI,-17.647058823529413,Low Revenue
+B-25703,,Ekta,Madhya Pradesh,Indore,,,,22,-15,4,Clothing,Kurti,COD,-68.18181818181817,Low Revenue
+B-25661,,Subhashree,Jammu and Kashmir,Kashmir,,,,55,-33,2,Furniture,Chairs,Debit Card,-60.0,Low Revenue
+B-25661,,Subhashree,Jammu and Kashmir,Kashmir,,,,58,-42,2,Furniture,Chairs,Debit Card,-72.41379310344827,Low Revenue
+B-25661,,Subhashree,Jammu and Kashmir,Kashmir,,,,145,-104,5,Furniture,Chairs,UPI,-71.72413793103448,High Revenue
+B-25661,,Subhashree,Jammu and Kashmir,Kashmir,,,,224,-81,3,Furniture,Chairs,COD,-36.160714285714285,High Revenue
+B-25661,,Subhashree,Jammu and Kashmir,Kashmir,,,,19,-15,3,Clothing,Hankerchief,Credit Card,-78.94736842105263,Low Revenue
+B-25661,,Subhashree,Jammu and Kashmir,Kashmir,,,,7,-1,2,Clothing,Hankerchief,Credit Card,-14.285714285714285,Low Revenue
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,2018.0,12.0,December,47,-21,2,Electronics,Electronic Games,COD,-44.680851063829785,Low Revenue
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,2018.0,12.0,December,224,58,3,Electronics,Phones,UPI,25.892857142857146,High Revenue
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,2018.0,12.0,December,141,10,4,Clothing,Shirt,UPI,7.092198581560284,High Revenue
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,2018.0,12.0,December,8,-1,2,Clothing,Leggings,COD,-12.5,Low Revenue
+B-25766,,Surabhi,Rajasthan,Jaipur,,,,220,-19,2,Clothing,Saree,Debit Card,-8.636363636363637,High Revenue
+B-25861,,Aayush,Uttar Pradesh,Lucknow,,,,44,14,3,Clothing,Hankerchief,Debit Card,31.818181818181817,Low Revenue
+B-25861,,Aayush,Uttar Pradesh,Lucknow,,,,216,-83,3,Electronics,Electronic Games,COD,-38.425925925925924,High Revenue
+B-25861,,Aayush,Uttar Pradesh,Lucknow,,,,56,18,2,Clothing,Hankerchief,UPI,32.142857142857146,Low Revenue
+B-25861,,Aayush,Uttar Pradesh,Lucknow,,,,62,6,5,Clothing,Hankerchief,COD,9.67741935483871,Low Revenue
+B-25861,,Aayush,Uttar Pradesh,Lucknow,,,,128,4,3,Clothing,Saree,COD,3.125,High Revenue
+B-25861,,Aayush,Uttar Pradesh,Lucknow,,,,50,3,2,Clothing,Stole,EMI,6.0,Low Revenue
+B-26058,2018-11-03,Aditya,Punjab,Chandigarh,2018.0,11.0,November,212,97,7,Clothing,Hankerchief,COD,45.75471698113208,High Revenue
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,2018.0,8.0,August,63,-17,6,Clothing,Leggings,COD,-26.984126984126984,Low Revenue
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,2018.0,8.0,August,210,-50,4,Clothing,Hankerchief,Credit Card,-23.809523809523807,High Revenue
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,2018.0,8.0,August,146,-63,3,Electronics,Electronic Games,Debit Card,-43.15068493150685,High Revenue
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,2018.0,8.0,August,59,21,2,Clothing,Stole,UPI,35.59322033898305,Low Revenue
+B-25900,2018-09-12,Anand,Punjab,Amritsar,2018.0,9.0,September,15,2,1,Clothing,Leggings,Debit Card,13.333333333333334,Low Revenue
+B-25900,2018-09-12,Anand,Punjab,Amritsar,2018.0,9.0,September,210,62,2,Electronics,Phones,COD,29.523809523809526,High Revenue
+B-25900,2018-09-12,Anand,Punjab,Amritsar,2018.0,9.0,September,140,68,5,Clothing,T-shirt,COD,48.57142857142857,High Revenue
+B-26084,,Anita,Kerala ,Thiruvananthapuram,,,,209,-63,4,Electronics,Electronic Games,COD,-30.14354066985646,High Revenue
+B-25652,2018-08-05,Tushina,Goa,Goa,2018.0,8.0,August,206,-206,3,Clothing,Saree,COD,-100.0,High Revenue
+B-25652,2018-08-05,Tushina,Goa,Goa,2018.0,8.0,August,174,-70,3,Electronics,Accessories,COD,-40.229885057471265,High Revenue
+B-25652,2018-08-05,Tushina,Goa,Goa,2018.0,8.0,August,34,-6,4,Clothing,Leggings,COD,-17.647058823529413,Low Revenue
+B-25652,2018-08-05,Tushina,Goa,Goa,2018.0,8.0,August,21,-13,3,Clothing,Leggings,UPI,-61.904761904761905,Low Revenue
+B-25652,2018-08-05,Tushina,Goa,Goa,2018.0,8.0,August,24,-21,7,Clothing,Skirt,COD,-87.5,Low Revenue
+B-25652,2018-08-05,Tushina,Goa,Goa,2018.0,8.0,August,25,-2,5,Clothing,Hankerchief,UPI,-8.0,Low Revenue
+B-25652,2018-08-05,Tushina,Goa,Goa,2018.0,8.0,August,9,-6,2,Clothing,Hankerchief,COD,-66.66666666666666,Low Revenue
+B-26008,2018-09-02,Kalyani,Tamil Nadu,Chennai,2018.0,9.0,September,206,51,4,Clothing,Hankerchief,Credit Card,24.75728155339806,High Revenue
+B-26008,2018-09-02,Kalyani,Tamil Nadu,Chennai,2018.0,9.0,September,199,-1,1,Clothing,Saree,Credit Card,-0.5025125628140703,High Revenue
+B-26008,2018-09-02,Kalyani,Tamil Nadu,Chennai,2018.0,9.0,September,57,24,5,Clothing,Leggings,COD,42.10526315789473,Low Revenue
+B-26008,2018-09-02,Kalyani,Tamil Nadu,Chennai,2018.0,9.0,September,22,4,1,Clothing,Stole,COD,18.181818181818183,Low Revenue
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,2018.0,1.0,January,45,-15,2,Furniture,Chairs,COD,-33.33333333333333,Low Revenue
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,2018.0,1.0,January,205,-119,3,Clothing,Saree,Debit Card,-58.048780487804876,High Revenue
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,2018.0,1.0,January,70,-64,5,Clothing,Stole,UPI,-91.42857142857143,Low Revenue
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,2018.0,1.0,January,47,-27,4,Clothing,Saree,EMI,-57.446808510638306,Low Revenue
+B-25927,,Shreya,Uttar Pradesh,Lucknow,,,,200,7,4,Electronics,Electronic Games,Credit Card,3.5000000000000004,High Revenue
+B-25985,,Ginny,Madhya Pradesh,Indore,,,,32,8,5,Clothing,Hankerchief,UPI,25.0,Low Revenue
+B-25985,,Ginny,Madhya Pradesh,Indore,,,,197,20,4,Clothing,Kurti,Credit Card,10.152284263959391,High Revenue
+B-25985,,Ginny,Madhya Pradesh,Indore,,,,108,26,4,Clothing,Shirt,UPI,24.074074074074073,Low Revenue
+B-25985,,Ginny,Madhya Pradesh,Indore,,,,44,11,4,Clothing,Stole,COD,25.0,Low Revenue
+B-25994,2018-03-02,Omkar,Delhi,Delhi,2018.0,3.0,March,196,-7,5,Electronics,Phones,COD,-3.571428571428571,High Revenue
+B-25620,,Sarita,Maharashtra,Pune,,,,193,46,1,Electronics,Printers,Credit Card,23.83419689119171,High Revenue
+B-25712,2018-07-07,Adhvaita,Rajasthan,Jaipur,2018.0,7.0,July,193,-275,3,Electronics,Phones,Credit Card,-142.48704663212436,High Revenue
+B-25976,,Piyam,Punjab,Amritsar,,,,193,8,4,Clothing,T-shirt,UPI,4.145077720207254,High Revenue
+B-26068,,Shefali,Rajasthan,Jaipur,,,,193,33,5,Electronics,Accessories,COD,17.098445595854923,High Revenue
+B-25721,,Anchal,Haryana,Chandigarh,,,,149,-40,2,Electronics,Phones,COD,-26.845637583892618,High Revenue
+B-25721,,Anchal,Haryana,Chandigarh,,,,29,-18,7,Clothing,Skirt,UPI,-62.06896551724138,Low Revenue
+B-25721,,Anchal,Haryana,Chandigarh,,,,191,51,5,Clothing,Shirt,UPI,26.701570680628272,High Revenue
+B-25863,,Manibalan,Kerala ,Thiruvananthapuram,,,,189,87,7,Clothing,Stole,COD,46.03174603174603,High Revenue
+B-25991,2018-03-02,Mansi,Madhya Pradesh,Indore,2018.0,3.0,March,13,5,2,Clothing,Hankerchief,UPI,38.46153846153847,Low Revenue
+B-25991,2018-03-02,Mansi,Madhya Pradesh,Indore,2018.0,3.0,March,188,13,7,Clothing,Shirt,COD,6.914893617021277,High Revenue
+B-25991,2018-03-02,Mansi,Madhya Pradesh,Indore,2018.0,3.0,March,90,30,2,Furniture,Chairs,UPI,33.33333333333333,Low Revenue
+B-25737,2018-01-08,Shubham,Madhya Pradesh,Indore,2018.0,1.0,January,187,-15,3,Clothing,Trousers,COD,-8.02139037433155,High Revenue
+B-26043,2018-01-03,Amit,Sikkim,Gangtok,2018.0,1.0,January,79,5,6,Clothing,Hankerchief,Debit Card,6.329113924050633,Low Revenue
+B-26043,2018-01-03,Amit,Sikkim,Gangtok,2018.0,1.0,January,30,12,3,Clothing,Skirt,UPI,40.0,Low Revenue
+B-26043,2018-01-03,Amit,Sikkim,Gangtok,2018.0,1.0,January,185,48,4,Clothing,Stole,UPI,25.945945945945947,High Revenue
+B-26043,2018-01-03,Amit,Sikkim,Gangtok,2018.0,1.0,January,122,50,7,Clothing,Stole,UPI,40.98360655737705,Low Revenue
+B-26043,2018-01-03,Amit,Sikkim,Gangtok,2018.0,1.0,January,62,28,5,Clothing,Hankerchief,UPI,45.16129032258064,Low Revenue
+B-25977,,Aayushi,Gujarat,Surat,,,,27,1,1,Clothing,Stole,UPI,3.7037037037037033,Low Revenue
+B-25977,,Aayushi,Gujarat,Surat,,,,74,29,3,Clothing,Stole,COD,39.189189189189186,Low Revenue
+B-25977,,Aayushi,Gujarat,Surat,,,,180,54,4,Clothing,T-shirt,Credit Card,30.0,High Revenue
+B-25908,2018-12-12,Pradeep,Delhi,Delhi,2018.0,12.0,December,179,-25,5,Clothing,Kurti,COD,-13.966480446927374,High Revenue
+B-25941,2018-07-01,Jaideep,Nagaland,Kohima,2018.0,7.0,July,177,41,4,Clothing,Shirt,Debit Card,23.163841807909606,High Revenue
+B-25794,,Aditya,Himachal Pradesh,Simla,,,,176,37,6,Electronics,Accessories,COD,21.022727272727273,High Revenue
+B-26041,,Ritu,Haryana,Chandigarh,,,,176,-28,5,Furniture,Furnishings,COD,-15.909090909090908,High Revenue
+B-25695,,Suhani,West Bengal,Kolkata,,,,171,14,9,Clothing,Shirt,Debit Card,8.187134502923977,High Revenue
+B-25960,,Shreya,Andhra Pradesh,Hyderabad,,,,171,-140,2,Furniture,Bookcases,EMI,-81.87134502923976,High Revenue
+B-26037,,Hitika,Madhya Pradesh,Indore,,,,171,68,7,Clothing,Stole,EMI,39.76608187134503,High Revenue
+B-25921,,Sandra,Punjab,Amritsar,,,,84,-42,2,Electronics,Accessories,COD,-50.0,Low Revenue
+B-25921,,Sandra,Punjab,Amritsar,,,,170,19,5,Clothing,T-shirt,UPI,11.176470588235295,High Revenue
+B-25921,,Sandra,Punjab,Amritsar,,,,71,-44,5,Electronics,Accessories,UPI,-61.97183098591549,Low Revenue
+B-25944,2018-10-01,Syed,Maharashtra,Pune,2018.0,10.0,October,169,38,3,Clothing,Saree,Debit Card,22.485207100591715,High Revenue
+B-25724,,Sheetal,Madhya Pradesh,Indore,,,,168,-51,2,Furniture,Bookcases,COD,-30.357142857142854,High Revenue
+B-26024,,Vandana,Himachal Pradesh,Simla,,,,168,18,6,Clothing,Stole,Debit Card,10.714285714285714,High Revenue
+B-25694,,Subhasmita,Rajasthan,Jaipur,,,,167,43,7,Clothing,T-shirt,EMI,25.748502994011975,High Revenue
+B-25665,,Chayanika,Kerala ,Thiruvananthapuram,,,,166,-113,4,Electronics,Accessories,EMI,-68.07228915662651,High Revenue
+B-26004,2018-08-02,Nandita,Rajasthan,Jaipur,2018.0,8.0,August,162,73,2,Electronics,Electronic Games,COD,45.06172839506173,High Revenue
+B-26004,2018-08-02,Nandita,Rajasthan,Jaipur,2018.0,8.0,August,147,44,3,Clothing,Saree,COD,29.931972789115648,High Revenue
+B-25611,2018-11-04,Anita,Kerala ,Thiruvananthapuram,2018.0,11.0,November,160,-59,2,Clothing,Saree,EMI,-36.875,High Revenue
+B-25901,2018-10-12,Suraj,Gujarat,Surat,2018.0,10.0,October,159,2,3,Furniture,Furnishings,EMI,1.257861635220126,High Revenue
+B-25901,2018-10-12,Suraj,Gujarat,Surat,2018.0,10.0,October,90,27,2,Clothing,T-shirt,COD,30.0,Low Revenue
+B-25901,2018-10-12,Suraj,Gujarat,Surat,2018.0,10.0,October,61,28,2,Clothing,Hankerchief,UPI,45.90163934426229,Low Revenue
+B-25901,2018-10-12,Suraj,Gujarat,Surat,2018.0,10.0,October,158,38,3,Clothing,Hankerchief,UPI,24.050632911392405,High Revenue
+B-25623,,Atharv,West Bengal,Kolkata,,,,149,-87,4,Clothing,Saree,COD,-58.38926174496645,High Revenue
+B-25623,,Atharv,West Bengal,Kolkata,,,,105,20,2,Clothing,Stole,Debit Card,19.047619047619047,Low Revenue
+B-25623,,Atharv,West Bengal,Kolkata,,,,158,69,3,Clothing,Stole,EMI,43.67088607594937,High Revenue
+B-25623,,Atharv,West Bengal,Kolkata,,,,53,1,4,Clothing,Stole,COD,1.8867924528301887,Low Revenue
+B-25713,2018-08-07,Raksha,West Bengal,Kolkata,2018.0,8.0,August,158,-63,4,Furniture,Chairs,UPI,-39.87341772151899,High Revenue
+B-26091,,Manju,Andhra Pradesh,Hyderabad,,,,29,10,4,Clothing,Hankerchief,UPI,34.48275862068966,Low Revenue
+B-26091,,Manju,Andhra Pradesh,Hyderabad,,,,158,69,3,Clothing,Stole,EMI,43.67088607594937,High Revenue
+B-26091,,Manju,Andhra Pradesh,Hyderabad,,,,59,10,4,Clothing,Leggings,COD,16.94915254237288,Low Revenue
+B-25604,2018-03-04,Divsha,Rajasthan,Jaipur,2018.0,3.0,March,65,17,2,Clothing,T-shirt,UPI,26.153846153846157,Low Revenue
+B-25604,2018-03-04,Divsha,Rajasthan,Jaipur,2018.0,3.0,March,157,5,9,Clothing,Saree,UPI,3.1847133757961785,High Revenue
+B-25827,,Sheetal,Madhya Pradesh,Indore,,,,156,21,3,Furniture,Chairs,COD,13.461538461538462,High Revenue
+B-25835,,Moumita,Gujarat,Ahmedabad,,,,52,11,5,Clothing,Leggings,COD,21.153846153846153,Low Revenue
+B-25835,,Moumita,Gujarat,Ahmedabad,,,,27,2,2,Clothing,Leggings,UPI,7.4074074074074066,Low Revenue
+B-25835,,Moumita,Gujarat,Ahmedabad,,,,155,26,3,Clothing,Stole,EMI,16.7741935483871,High Revenue
+B-26025,,Bhavna,Sikkim,Gangtok,,,,41,19,5,Clothing,Hankerchief,Debit Card,46.34146341463415,Low Revenue
+B-26025,,Bhavna,Sikkim,Gangtok,,,,32,1,2,Clothing,Stole,COD,3.125,Low Revenue
+B-26025,,Bhavna,Sikkim,Gangtok,,,,155,5,3,Clothing,Stole,EMI,3.225806451612903,High Revenue
+B-25809,2018-09-10,Suman,Kerala ,Thiruvananthapuram,2018.0,9.0,September,53,24,1,Clothing,Hankerchief,Debit Card,45.28301886792453,Low Revenue
+B-25809,2018-09-10,Suman,Kerala ,Thiruvananthapuram,2018.0,9.0,September,154,54,3,Clothing,Hankerchief,COD,35.064935064935064,High Revenue
+B-25905,2018-11-12,Bhargav,Delhi,Delhi,2018.0,11.0,November,152,50,6,Clothing,Stole,UPI,32.89473684210527,High Revenue
+B-25948,,Mukund,Maharashtra,Pune,,,,152,23,3,Furniture,Furnishings,COD,15.131578947368421,High Revenue
+B-26094,,Deepak,Madhya Pradesh,Bhopal,,,,152,50,6,Clothing,Stole,COD,32.89473684210527,High Revenue
+B-25949,,Shantanu,Maharashtra,Mumbai,,,,151,9,3,Clothing,Hankerchief,EMI,5.960264900662252,High Revenue
+B-25949,,Shantanu,Maharashtra,Mumbai,,,,140,57,2,Clothing,Trousers,Debit Card,40.714285714285715,High Revenue
+B-25949,,Shantanu,Maharashtra,Mumbai,,,,24,11,3,Clothing,Hankerchief,COD,45.83333333333333,Low Revenue
+B-26001,2018-07-02,Patil,Delhi,Delhi,2018.0,7.0,July,8,2,2,Clothing,Skirt,UPI,25.0,Low Revenue
+B-26001,2018-07-02,Patil,Delhi,Delhi,2018.0,7.0,July,50,-10,6,Clothing,Skirt,Debit Card,-20.0,Low Revenue
+B-26001,2018-07-02,Patil,Delhi,Delhi,2018.0,7.0,July,149,17,4,Furniture,Furnishings,COD,11.409395973154362,High Revenue
+B-26001,2018-07-02,Patil,Delhi,Delhi,2018.0,7.0,July,13,0,2,Clothing,Hankerchief,COD,0.0,Low Revenue
+B-25771,2018-02-09,Vaibhavi,Uttar Pradesh,Lucknow,2018.0,2.0,February,148,59,3,Clothing,Hankerchief,COD,39.86486486486486,High Revenue
+B-25659,,Sanskriti,West Bengal,Kolkata,,,,148,72,7,Clothing,T-shirt,Debit Card,48.64864864864865,High Revenue
+B-25924,,Prajakta,Karnataka,Bangalore,,,,148,54,2,Furniture,Chairs,UPI,36.486486486486484,High Revenue
+B-25883,,Saptadeep,Gujarat,Surat,,,,16,-15,4,Clothing,Hankerchief,UPI,-93.75,Low Revenue
+B-25883,,Saptadeep,Gujarat,Surat,,,,127,29,3,Furniture,Furnishings,COD,22.83464566929134,High Revenue
+B-25883,,Saptadeep,Gujarat,Surat,,,,105,-26,8,Clothing,Leggings,Credit Card,-24.761904761904763,Low Revenue
+B-25883,,Saptadeep,Gujarat,Surat,,,,146,42,5,Clothing,Hankerchief,UPI,28.767123287671232,High Revenue
+B-25883,,Saptadeep,Gujarat,Surat,,,,10,-2,2,Clothing,Leggings,COD,-20.0,Low Revenue
+B-25946,2018-12-01,Saurabh,Andhra Pradesh,Hyderabad,2018.0,12.0,December,146,7,2,Electronics,Phones,Debit Card,4.794520547945205,High Revenue
+B-26065,,Nida,Madhya Pradesh,Indore,,,,146,19,5,Clothing,Stole,COD,13.013698630136986,High Revenue
+B-26083,,Yogesh,Bihar,Patna,,,,43,8,3,Clothing,Leggings,COD,18.6046511627907,Low Revenue
+B-26083,,Yogesh,Bihar,Patna,,,,45,17,1,Electronics,Accessories,COD,37.77777777777778,Low Revenue
+B-26083,,Yogesh,Bihar,Patna,,,,143,6,2,Electronics,Accessories,UPI,4.195804195804196,High Revenue
+B-26083,,Yogesh,Bihar,Patna,,,,145,16,3,Clothing,T-shirt,Debit Card,11.03448275862069,High Revenue
+B-26083,,Yogesh,Bihar,Patna,,,,34,3,3,Clothing,Saree,COD,8.823529411764707,Low Revenue
+B-25725,,Anisha,Nagaland,Kohima,,,,144,-7,4,Electronics,Electronic Games,COD,-4.861111111111112,High Revenue
+B-25725,,Anisha,Nagaland,Kohima,,,,26,-5,2,Clothing,Stole,UPI,-19.230769230769234,Low Revenue
+B-25725,,Anisha,Nagaland,Kohima,,,,23,-5,7,Clothing,Hankerchief,Credit Card,-21.73913043478261,Low Revenue
+B-25630,,Sahil,Punjab,Chandigarh,,,,34,-22,4,Clothing,T-shirt,COD,-64.70588235294117,Low Revenue
+B-25630,,Sahil,Punjab,Chandigarh,,,,133,12,5,Clothing,Stole,Debit Card,9.022556390977442,High Revenue
+B-25630,,Sahil,Punjab,Chandigarh,,,,114,-39,5,Clothing,Kurti,COD,-34.21052631578947,Low Revenue
+B-25630,,Sahil,Punjab,Chandigarh,,,,42,-26,2,Clothing,Kurti,COD,-61.904761904761905,Low Revenue
+B-25630,,Sahil,Punjab,Chandigarh,,,,40,-7,3,Clothing,Stole,COD,-17.5,Low Revenue
+B-25630,,Sahil,Punjab,Chandigarh,,,,143,-129,2,Electronics,Phones,COD,-90.20979020979021,High Revenue
+B-25673,,Arsheen,Gujarat,Ahmedabad,,,,143,-124,5,Clothing,Saree,UPI,-86.7132867132867,High Revenue
+B-25673,,Arsheen,Gujarat,Ahmedabad,,,,37,-5,3,Clothing,T-shirt,Debit Card,-13.513513513513514,Low Revenue
+B-25673,,Arsheen,Gujarat,Ahmedabad,,,,45,-2,4,Clothing,Shirt,COD,-4.444444444444445,Low Revenue
+B-25673,,Arsheen,Gujarat,Ahmedabad,,,,149,-1,1,Clothing,Saree,COD,-0.6711409395973155,High Revenue
+B-25673,,Arsheen,Gujarat,Ahmedabad,,,,44,-17,5,Clothing,Saree,UPI,-38.63636363636363,Low Revenue
+B-25692,,Rashmi,Madhya Pradesh,Indore,,,,141,28,7,Furniture,Furnishings,UPI,19.858156028368796,High Revenue
+B-25992,2018-03-02,Gaurav,Rajasthan,Udaipur,2018.0,3.0,March,141,41,3,Clothing,Shirt,UPI,29.078014184397162,High Revenue
+B-25765,,Meghana,Madhya Pradesh,Bhopal,,,,139,14,3,Clothing,Stole,COD,10.071942446043165,High Revenue
+B-25892,2018-04-12,Aditi,Rajasthan,Udaipur,2018.0,4.0,April,139,30,3,Clothing,Shirt,UPI,21.58273381294964,High Revenue
+B-26089,,Kanak,Goa,Goa,,,,27,4,1,Clothing,Hankerchief,COD,14.814814814814813,Low Revenue
+B-26089,,Kanak,Goa,Goa,,,,59,24,6,Clothing,Kurti,Debit Card,40.67796610169492,Low Revenue
+B-26089,,Kanak,Goa,Goa,,,,139,14,3,Clothing,Kurti,COD,10.071942446043165,High Revenue
+B-25780,,Teena,Andhra Pradesh,Hyderabad,,,,137,-41,3,Electronics,Phones,Debit Card,-29.927007299270077,High Revenue
+B-25684,2018-09-06,Samiksha,Maharashtra,Mumbai,2018.0,9.0,September,134,42,2,Furniture,Chairs,COD,31.343283582089555,High Revenue
+B-25739,2018-03-08,Daksh,Haryana,Chandigarh,2018.0,3.0,March,133,-56,2,Furniture,Chairs,COD,-42.10526315789473,High Revenue
+B-25731,,Akash,West Bengal,Kolkata,,,,131,-154,8,Furniture,Furnishings,COD,-117.55725190839695,High Revenue
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,2018.0,4.0,April,30,13,1,Clothing,T-shirt,UPI,43.333333333333336,Low Revenue
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,2018.0,4.0,April,100,-23,1,Electronics,Phones,COD,-23.0,Low Revenue
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,2018.0,4.0,April,130,-41,4,Clothing,Saree,EMI,-31.538461538461537,High Revenue
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,2018.0,4.0,April,55,-26,4,Clothing,Saree,UPI,-47.27272727272727,Low Revenue
+B-26038,,Pooja,Bihar,Patna,,,,41,19,2,Clothing,T-shirt,Debit Card,46.34146341463415,Low Revenue
+B-26038,,Pooja,Bihar,Patna,,,,52,14,2,Clothing,Stole,COD,26.923076923076923,Low Revenue
+B-26038,,Pooja,Bihar,Patna,,,,130,61,3,Clothing,Shirt,Debit Card,46.92307692307692,High Revenue
+B-26038,,Pooja,Bihar,Patna,,,,30,6,1,Clothing,T-shirt,COD,20.0,Low Revenue
+B-25700,,Shubhi,Maharashtra,Mumbai,,,,44,-32,3,Clothing,Stole,Debit Card,-72.72727272727273,Low Revenue
+B-25700,,Shubhi,Maharashtra,Mumbai,,,,129,-75,5,Clothing,Shirt,Debit Card,-58.139534883720934,High Revenue
+B-25700,,Shubhi,Maharashtra,Mumbai,,,,7,-3,2,Clothing,Hankerchief,COD,-42.857142857142854,Low Revenue
+B-26015,,Kasheen,West Bengal,Kolkata,,,,128,55,1,Clothing,Saree,COD,42.96875,High Revenue
+B-25704,,Riya,Maharashtra,Mumbai,,,,126,-63,3,Electronics,Accessories,UPI,-50.0,High Revenue
+B-25704,,Riya,Maharashtra,Mumbai,,,,102,0,3,Electronics,Phones,COD,0.0,Low Revenue
+B-25811,2018-10-10,Utsav,Maharashtra,Mumbai,2018.0,10.0,October,126,52,4,Clothing,Hankerchief,UPI,41.269841269841265,High Revenue
+B-25821,,Ajay,West Bengal,Kolkata,,,,17,0,1,Clothing,Hankerchief,COD,0.0,Low Revenue
+B-25821,,Ajay,West Bengal,Kolkata,,,,125,0,3,Electronics,Accessories,COD,0.0,High Revenue
+B-25821,,Ajay,West Bengal,Kolkata,,,,60,21,4,Clothing,Stole,COD,35.0,Low Revenue
+B-25874,,Megha,Rajasthan,Udaipur,,,,124,54,5,Clothing,T-shirt,COD,43.54838709677419,High Revenue
+B-25668,,Rhea,Himachal Pradesh,Simla,,,,123,17,3,Furniture,Furnishings,COD,13.821138211382115,High Revenue
+B-25800,2018-01-10,Ishit,Maharashtra,Pune,2018.0,1.0,January,45,12,7,Clothing,Hankerchief,UPI,26.666666666666668,Low Revenue
+B-25800,2018-01-10,Ishit,Maharashtra,Pune,2018.0,1.0,January,122,-66,9,Electronics,Accessories,COD,-54.09836065573771,Low Revenue
+B-25800,2018-01-10,Ishit,Maharashtra,Pune,2018.0,1.0,January,21,-6,3,Clothing,Leggings,COD,-28.57142857142857,Low Revenue
+B-25928,2018-01-01,Smriti,Bihar,Patna,2018.0,1.0,January,122,15,3,Electronics,Accessories,EMI,12.295081967213115,Low Revenue
+B-25928,2018-01-01,Smriti,Bihar,Patna,2018.0,1.0,January,25,10,1,Furniture,Furnishings,UPI,40.0,Low Revenue
+B-26021,,Anita,Kerala ,Thiruvananthapuram,,,,21,-12,3,Clothing,Hankerchief,Debit Card,-57.14285714285714,Low Revenue
+B-26021,,Anita,Kerala ,Thiruvananthapuram,,,,49,21,1,Clothing,Stole,UPI,42.857142857142854,Low Revenue
+B-26021,,Anita,Kerala ,Thiruvananthapuram,,,,122,59,7,Furniture,Furnishings,COD,48.36065573770492,Low Revenue
+B-26064,,Ankita,Maharashtra,Mumbai,,,,61,3,4,Clothing,Hankerchief,COD,4.918032786885246,Low Revenue
+B-26064,,Ankita,Maharashtra,Mumbai,,,,75,2,5,Clothing,Leggings,Debit Card,2.666666666666667,Low Revenue
+B-26064,,Ankita,Maharashtra,Mumbai,,,,122,38,6,Clothing,T-shirt,Credit Card,31.147540983606557,Low Revenue
+B-26064,,Ankita,Maharashtra,Mumbai,,,,179,0,2,Clothing,Saree,Debit Card,0.0,High Revenue
+B-25882,,Masurkar,Punjab,Amritsar,,,,121,19,4,Clothing,Stole,COD,15.702479338842975,Low Revenue
+B-25891,2018-04-12,Shivani,Madhya Pradesh,Indore,2018.0,4.0,April,121,41,4,Clothing,Stole,UPI,33.88429752066116,Low Revenue
+B-25891,2018-04-12,Shivani,Madhya Pradesh,Indore,2018.0,4.0,April,97,36,7,Clothing,Hankerchief,UPI,37.11340206185567,Low Revenue
+B-25891,2018-04-12,Shivani,Madhya Pradesh,Indore,2018.0,4.0,April,25,2,2,Clothing,Hankerchief,UPI,8.0,Low Revenue
+B-25820,,Dheeraj,Rajasthan,Jaipur,,,,119,1,1,Furniture,Chairs,COD,0.8403361344537815,Low Revenue
+B-25889,2018-03-12,Abhishek,Gujarat,Surat,2018.0,3.0,March,114,11,4,Clothing,T-shirt,Debit Card,9.649122807017543,Low Revenue
+B-25889,2018-03-12,Abhishek,Gujarat,Surat,2018.0,3.0,March,119,-43,7,Clothing,Kurti,Credit Card,-36.134453781512605,Low Revenue
+B-25889,2018-03-12,Abhishek,Gujarat,Surat,2018.0,3.0,March,31,10,1,Clothing,Kurti,COD,32.25806451612903,Low Revenue
+B-25871,,Gunjal,Gujarat,Surat,,,,118,25,4,Clothing,Hankerchief,Credit Card,21.1864406779661,Low Revenue
+B-25637,,Ashmi,Madhya Pradesh,Indore,,,,117,14,3,Clothing,Shirt,UPI,11.965811965811966,Low Revenue
+B-25616,,Kanak,Goa,Goa,,,,14,-2,3,Clothing,Hankerchief,UPI,-14.285714285714285,Low Revenue
+B-25616,,Kanak,Goa,Goa,,,,116,-56,5,Clothing,Stole,Credit Card,-48.275862068965516,Low Revenue
+B-25616,,Kanak,Goa,Goa,,,,42,12,5,Clothing,Hankerchief,COD,28.57142857142857,Low Revenue
+B-25616,,Kanak,Goa,Goa,,,,22,-2,3,Clothing,Hankerchief,COD,-9.090909090909092,Low Revenue
+B-25972,,Jesslyn,Rajasthan,Udaipur,,,,115,47,2,Electronics,Accessories,COD,40.869565217391305,Low Revenue
+B-25805,2018-05-10,Ankit,Maharashtra,Mumbai,2018.0,5.0,May,112,15,2,Furniture,Chairs,COD,13.392857142857142,Low Revenue
+B-25860,,Akshay,Tamil Nadu,Chennai,,,,112,24,3,Clothing,Kurti,COD,21.428571428571427,Low Revenue
+B-26080,,Sonakshi,Jammu and Kashmir,Kashmir,,,,109,35,6,Clothing,T-shirt,COD,32.11009174311927,Low Revenue
+B-25807,2018-07-10,Vipul,Uttar Pradesh,Lucknow,2018.0,7.0,July,16,6,1,Clothing,Stole,COD,37.5,Low Revenue
+B-25734,,Pranav,Madhya Pradesh,Indore,,,,108,-19,3,Electronics,Electronic Games,UPI,-17.59259259259259,Low Revenue
+B-25880,,Apoorv,Rajasthan,Udaipur,,,,108,37,2,Clothing,Stole,Credit Card,34.25925925925926,Low Revenue
+B-25934,2018-04-01,Rahul,Madhya Pradesh,Indore,2018.0,4.0,April,105,33,6,Clothing,Saree,EMI,31.428571428571427,Low Revenue
+B-25913,,Geetanjali,Delhi,Delhi,,,,103,21,7,Clothing,Stole,UPI,20.388349514563107,Low Revenue
+B-25912,,Preksha,Delhi,Delhi,,,,102,11,6,Clothing,T-shirt,COD,10.784313725490197,Low Revenue
+B-25824,,Shyam,Madhya Pradesh,Indore,,,,101,38,2,Furniture,Furnishings,COD,37.62376237623762,Low Revenue
+B-25711,2018-06-07,Sakshi,Madhya Pradesh,Bhopal,2018.0,6.0,June,100,-58,4,Clothing,Hankerchief,COD,-57.99999999999999,Low Revenue
+B-25864,,Aromal,Maharashtra,Mumbai,,,,100,6,4,Clothing,Stole,COD,6.0,Low Revenue
+B-25864,,Aromal,Maharashtra,Mumbai,,,,27,9,2,Clothing,Hankerchief,COD,33.33333333333333,Low Revenue
+B-25864,,Aromal,Maharashtra,Mumbai,,,,22,8,2,Clothing,Leggings,COD,36.36363636363637,Low Revenue
+B-25864,,Aromal,Maharashtra,Mumbai,,,,17,5,1,Clothing,Hankerchief,UPI,29.411764705882355,Low Revenue
+B-25917,,Sanjay,Maharashtra,Mumbai,,,,100,12,2,Clothing,T-shirt,UPI,12.0,Low Revenue
+B-26049,2018-05-03,Lisha,Madhya Pradesh,Bhopal,2018.0,5.0,May,100,28,2,Clothing,Hankerchief,UPI,28.000000000000004,Low Revenue
+B-25920,,Jayanti,Uttar Pradesh,Prayagraj,,,,100,7,2,Clothing,T-shirt,UPI,7.000000000000001,Low Revenue
+B-25699,,Kritika,Uttar Pradesh,Lucknow,,,,49,-31,2,Clothing,Stole,UPI,-63.26530612244898,Low Revenue
+B-25699,,Kritika,Uttar Pradesh,Lucknow,,,,20,-22,1,Furniture,Furnishings,UPI,-110.00000000000001,Low Revenue
+B-25699,,Kritika,Uttar Pradesh,Lucknow,,,,34,-13,5,Clothing,Leggings,COD,-38.23529411764706,Low Revenue
+B-25699,,Kritika,Uttar Pradesh,Lucknow,,,,21,-5,1,Electronics,Accessories,COD,-23.809523809523807,Low Revenue
+B-25735,,Arindam,Uttar Pradesh,Lucknow,,,,7,-1,2,Clothing,Skirt,UPI,-14.285714285714285,Low Revenue
+B-25735,,Arindam,Uttar Pradesh,Lucknow,,,,12,-2,3,Clothing,Hankerchief,COD,-16.666666666666664,Low Revenue
+B-25735,,Arindam,Uttar Pradesh,Lucknow,,,,15,-7,1,Clothing,Hankerchief,UPI,-46.666666666666664,Low Revenue
+B-25701,,Maithilee,Madhya Pradesh,Indore,,,,98,-45,2,Furniture,Chairs,UPI,-45.91836734693878,Low Revenue
+B-25701,,Maithilee,Madhya Pradesh,Indore,,,,33,-29,3,Clothing,Shirt,UPI,-87.87878787878788,Low Revenue
+B-25701,,Maithilee,Madhya Pradesh,Indore,,,,10,-8,2,Clothing,Skirt,COD,-80.0,Low Revenue
+B-25701,,Maithilee,Madhya Pradesh,Indore,,,,33,-12,5,Clothing,Hankerchief,COD,-36.36363636363637,Low Revenue
+B-26092,,Ramesh,Gujarat,Ahmedabad,,,,97,14,2,Clothing,T-shirt,Credit Card,14.432989690721648,Low Revenue
+B-26082,,Jitesh,Uttar Pradesh,Lucknow,,,,95,5,2,Clothing,Stole,UPI,5.263157894736842,Low Revenue
+B-25818,,Sandeep,Madhya Pradesh,Indore,,,,32,11,2,Clothing,Leggings,UPI,34.375,Low Revenue
+B-25818,,Sandeep,Madhya Pradesh,Indore,,,,36,0,4,Clothing,Kurti,COD,0.0,Low Revenue
+B-25818,,Sandeep,Madhya Pradesh,Indore,,,,28,14,4,Clothing,Hankerchief,COD,50.0,Low Revenue
+B-25818,,Sandeep,Madhya Pradesh,Indore,,,,75,28,9,Clothing,Hankerchief,UPI,37.333333333333336,Low Revenue
+B-25818,,Sandeep,Madhya Pradesh,Indore,,,,94,20,2,Furniture,Furnishings,UPI,21.27659574468085,Low Revenue
+B-25846,2018-03-11,Soodesh,Punjab,Chandigarh,2018.0,3.0,March,94,7,7,Clothing,Leggings,UPI,7.446808510638298,Low Revenue
+B-26011,2018-12-02,Bharat,Gujarat,Ahmedabad,2018.0,12.0,December,93,44,2,Clothing,Stole,Credit Card,47.31182795698925,Low Revenue
+B-25631,,Ritu,Haryana,Chandigarh,,,,89,-89,2,Furniture,Furnishings,COD,-100.0,Low Revenue
+B-25606,2018-06-04,Hazel,Karnataka,Bangalore,2018.0,6.0,June,87,4,2,Clothing,Shirt,COD,4.597701149425287,Low Revenue
+B-25746,2018-10-08,Shivam,Maharashtra,Pune,2018.0,10.0,October,87,16,2,Clothing,Saree,UPI,18.39080459770115,Low Revenue
+B-26005,2018-08-02,Parnavi,West Bengal,Kolkata,2018.0,8.0,August,87,10,3,Clothing,Stole,COD,11.494252873563218,Low Revenue
+B-25844,2018-03-11,Swati,Madhya Pradesh,Indore,2018.0,3.0,March,86,8,2,Clothing,Saree,Debit Card,9.30232558139535,Low Revenue
+B-25869,,Parakh,Nagaland,Kohima,,,,86,9,3,Clothing,Saree,COD,10.465116279069768,Low Revenue
+B-26066,,Priyanka,Maharashtra,Pune,,,,86,22,2,Clothing,Saree,Debit Card,25.581395348837212,Low Revenue
+B-25865,,Arun,Madhya Pradesh,Indore,,,,85,-1,3,Clothing,Saree,Credit Card,-1.1764705882352942,Low Revenue
+B-26039,,Hemant,Kerala ,Thiruvananthapuram,,,,83,34,5,Clothing,Shirt,Debit Card,40.963855421686745,Low Revenue
+B-25916,,Utkarsh,Gujarat,Surat,,,,80,-26,9,Clothing,Skirt,EMI,-32.5,Low Revenue
+B-26090,,Sagar,Nagaland,Kohima,,,,80,22,3,Clothing,Stole,EMI,27.500000000000004,Low Revenue
+B-25988,,Nirja,Delhi,Delhi,,,,79,-124,9,Clothing,Skirt,COD,-156.96202531645568,Low Revenue
+B-25906,2018-11-12,Abhijit,Delhi,Delhi,2018.0,11.0,November,78,27,3,Clothing,Stole,COD,34.61538461538461,Low Revenue
+B-26017,,Sonakshi,Jammu and Kashmir,Kashmir,,,,78,7,1,Furniture,Chairs,COD,8.974358974358974,Low Revenue
+B-25644,,Mayank,Maharashtra,Mumbai,,,,76,-92,8,Furniture,Furnishings,COD,-121.05263157894737,Low Revenue
+B-25679,2018-04-06,Avni,Maharashtra,Mumbai,2018.0,4.0,April,76,-50,1,Clothing,Saree,COD,-65.78947368421053,Low Revenue
+B-25723,,Wale,Maharashtra,Mumbai,,,,12,-7,2,Clothing,Leggings,UPI,-58.333333333333336,Low Revenue
+B-25723,,Wale,Maharashtra,Mumbai,,,,76,-54,3,Electronics,Electronic Games,COD,-71.05263157894737,Low Revenue
+B-25723,,Wale,Maharashtra,Mumbai,,,,26,-24,1,Clothing,Stole,COD,-92.3076923076923,Low Revenue
+B-25723,,Wale,Maharashtra,Mumbai,,,,16,-12,2,Clothing,Stole,UPI,-75.0,Low Revenue
+B-25605,2018-05-04,Kasheen,West Bengal,Kolkata,2018.0,5.0,May,75,0,7,Clothing,Saree,EMI,0.0,Low Revenue
+B-25792,,Abhishek,Maharashtra,Mumbai,,,,74,-25,3,Clothing,Stole,COD,-33.78378378378378,Low Revenue
+B-25680,2018-04-06,Aayushi,Madhya Pradesh,Indore,2018.0,4.0,April,73,-25,3,Clothing,Saree,COD,-34.24657534246575,Low Revenue
+B-25931,2018-04-01,Sidharth,Maharashtra,Mumbai,2018.0,4.0,April,73,-36,3,Furniture,Chairs,UPI,-49.31506849315068,Low Revenue
+B-25932,2018-04-01,Bhutekar,Madhya Pradesh,Indore,2018.0,4.0,April,71,-14,4,Furniture,Furnishings,COD,-19.718309859154928,Low Revenue
+B-25990,2018-02-02,Mugdha,Delhi,Delhi,2018.0,2.0,February,71,32,3,Clothing,Saree,Debit Card,45.07042253521127,Low Revenue
+B-25615,,Bhavna,Sikkim,Gangtok,,,,68,20,5,Clothing,Hankerchief,Debit Card,29.411764705882355,Low Revenue
+B-26031,,Deepak,Madhya Pradesh,Bhopal,,,,67,9,4,Clothing,Leggings,Debit Card,13.432835820895523,Low Revenue
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,2018.0,1.0,January,15,-2,1,Clothing,T-shirt,Debit Card,-13.333333333333334,Low Revenue
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,2018.0,1.0,January,21,-10,4,Clothing,Leggings,COD,-47.61904761904761,Low Revenue
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,2018.0,1.0,January,64,6,4,Clothing,Saree,COD,9.375,Low Revenue
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,2018.0,1.0,January,49,-31,2,Clothing,Stole,COD,-63.26530612244898,Low Revenue
+B-25833,,Krishna,Madhya Pradesh,Indore,,,,64,27,5,Clothing,Hankerchief,UPI,42.1875,Low Revenue
+B-25833,,Krishna,Madhya Pradesh,Indore,,,,45,16,3,Clothing,Stole,COD,35.55555555555556,Low Revenue
+B-25833,,Krishna,Madhya Pradesh,Indore,,,,36,4,9,Clothing,Hankerchief,COD,11.11111111111111,Low Revenue
+B-26077,,Divsha,Rajasthan,Jaipur,,,,62,11,7,Clothing,Hankerchief,UPI,17.741935483870968,Low Revenue
+B-25936,2018-05-01,Nikhil,Punjab,Chandigarh,2018.0,5.0,May,61,25,4,Clothing,Saree,UPI,40.98360655737705,Low Revenue
+B-25938,2018-05-01,Shikhar,Himachal Pradesh,Simla,2018.0,5.0,May,61,1,2,Furniture,Furnishings,COD,1.639344262295082,Low Revenue
+B-25938,2018-05-01,Shikhar,Himachal Pradesh,Simla,2018.0,5.0,May,59,25,3,Clothing,Stole,COD,42.3728813559322,Low Revenue
+B-25716,2018-11-07,Surabhi,Tamil Nadu,Chennai,2018.0,11.0,November,58,0,4,Clothing,Saree,UPI,0.0,Low Revenue
+B-25740,2018-03-08,Rane,Maharashtra,Mumbai,2018.0,3.0,March,58,-8,2,Clothing,Saree,COD,-13.793103448275861,Low Revenue
+B-25740,2018-03-08,Rane,Maharashtra,Mumbai,2018.0,3.0,March,40,-37,3,Clothing,Stole,COD,-92.5,Low Revenue
+B-25740,2018-03-08,Rane,Maharashtra,Mumbai,2018.0,3.0,March,7,0,2,Clothing,Skirt,COD,0.0,Low Revenue
+B-25763,,Noshiba,Gujarat,Ahmedabad,,,,58,-52,3,Furniture,Chairs,COD,-89.65517241379311,Low Revenue
+B-25872,,Saurabh,Maharashtra,Mumbai,,,,57,27,2,Clothing,Shirt,COD,47.368421052631575,Low Revenue
+B-25879,,Siddharth,Madhya Pradesh,Indore,,,,57,-28,2,Clothing,Kurti,COD,-49.122807017543856,Low Revenue
+B-25926,,Dipali,Madhya Pradesh,Indore,,,,57,6,5,Clothing,Leggings,Debit Card,10.526315789473683,Low Revenue
+B-26074,,Bharat,Gujarat,Ahmedabad,,,,57,21,4,Clothing,Leggings,COD,36.84210526315789,Low Revenue
+B-25627,,Hitika,Madhya Pradesh,Indore,,,,55,-39,4,Clothing,Stole,COD,-70.9090909090909,Low Revenue
+B-25940,2018-06-01,Vivek,Goa,Goa,2018.0,6.0,June,13,3,2,Clothing,Hankerchief,COD,23.076923076923077,Low Revenue
+B-25940,2018-06-01,Vivek,Goa,Goa,2018.0,6.0,June,55,4,2,Clothing,Stole,COD,7.2727272727272725,Low Revenue
+B-25940,2018-06-01,Vivek,Goa,Goa,2018.0,6.0,June,46,0,4,Clothing,Leggings,COD,0.0,Low Revenue
+B-26047,2018-04-03,Ashmi,Madhya Pradesh,Indore,2018.0,4.0,April,55,12,5,Clothing,Skirt,COD,21.818181818181817,Low Revenue
+B-26069,,Sanskriti,West Bengal,Kolkata,,,,55,18,2,Clothing,Kurti,COD,32.72727272727273,Low Revenue
+B-26027,,Sagar,Nagaland,Kohima,,,,54,8,4,Clothing,T-shirt,COD,14.814814814814813,Low Revenue
+B-25963,,Pratiksha,Maharashtra,Mumbai,,,,53,8,3,Furniture,Furnishings,UPI,15.09433962264151,Low Revenue
+B-25922,,Akshata,Gujarat,Surat,,,,52,18,2,Clothing,Stole,COD,34.61538461538461,Low Revenue
+B-25866,,Komal,Himachal Pradesh,Simla,,,,51,14,2,Clothing,Stole,COD,27.450980392156865,Low Revenue
+B-25607,2018-06-04,Sonakshi,Jammu and Kashmir,Kashmir,2018.0,6.0,June,50,-15,4,Clothing,Leggings,COD,-30.0,Low Revenue
+B-25775,2018-08-09,Duhita,Haryana,Chandigarh,2018.0,8.0,August,50,-17,2,Clothing,Stole,COD,-34.0,Low Revenue
+B-25998,2018-04-02,Anmol,Rajasthan,Udaipur,2018.0,4.0,April,50,-28,5,Furniture,Furnishings,COD,-56.00000000000001,Low Revenue
+B-26062,,Tushina,Goa,Goa,,,,44,-40,3,Clothing,Stole,COD,-90.9090909090909,Low Revenue
+B-26062,,Tushina,Goa,Goa,,,,50,-17,2,Clothing,Stole,COD,-34.0,Low Revenue
+B-26062,,Tushina,Goa,Goa,,,,13,-2,1,Clothing,Stole,COD,-15.384615384615385,Low Revenue
+B-25722,,Inderpreet,Himachal Pradesh,Simla,,,,48,-8,8,Clothing,Stole,COD,-16.666666666666664,Low Revenue
+B-25776,2018-09-09,Mousam,Maharashtra,Mumbai,2018.0,9.0,September,47,-20,2,Clothing,Kurti,Debit Card,-42.5531914893617,Low Revenue
+B-26032,,Monisha,Rajasthan,Jaipur,,,,47,15,5,Clothing,Saree,Debit Card,31.914893617021278,Low Revenue
+B-25705,,Shweta,Madhya Pradesh,Indore,,,,46,0,2,Electronics,Electronic Games,COD,0.0,Low Revenue
+B-25628,,Pooja,Bihar,Patna,,,,35,-8,2,Furniture,Furnishings,Debit Card,-22.857142857142858,Low Revenue
+B-25628,,Pooja,Bihar,Patna,,,,219,-9,4,Clothing,Saree,Credit Card,-4.10958904109589,High Revenue
+B-25628,,Pooja,Bihar,Patna,,,,45,13,4,Clothing,Skirt,COD,28.888888888888886,Low Revenue
+B-25733,,Dhirajendu,Maharashtra,Mumbai,,,,43,-43,7,Clothing,Stole,Debit Card,-100.0,Low Revenue
+B-25733,,Dhirajendu,Maharashtra,Mumbai,,,,30,-10,2,Clothing,Stole,COD,-33.33333333333333,Low Revenue
+B-25733,,Dhirajendu,Maharashtra,Mumbai,,,,23,-6,4,Clothing,Hankerchief,COD,-26.08695652173913,Low Revenue
+B-25647,2018-03-05,Sharda,Kerala ,Thiruvananthapuram,2018.0,3.0,March,42,-6,4,Clothing,Saree,UPI,-14.285714285714285,Low Revenue
+B-25790,,Sajal,Bihar,Patna,,,,42,-3,1,Electronics,Electronic Games,COD,-7.142857142857142,Low Revenue
+B-25709,2018-01-07,Aakanksha,Madhya Pradesh,Indore,2018.0,1.0,January,33,-12,7,Clothing,Saree,UPI,-36.36363636363637,Low Revenue
+B-25709,2018-01-07,Aakanksha,Madhya Pradesh,Indore,2018.0,1.0,January,41,-6,1,Furniture,Chairs,Credit Card,-14.634146341463413,Low Revenue
+B-25911,,Phalguni,Madhya Pradesh,Bhopal,,,,40,15,1,Clothing,Kurti,COD,37.5,Low Revenue
+B-25774,2018-07-09,Snehal,Punjab,Chandigarh,2018.0,7.0,July,38,-6,2,Furniture,Furnishings,UPI,-15.789473684210526,Low Revenue
+B-26042,,Manish,Himachal Pradesh,Simla,,,,36,15,3,Clothing,Stole,UPI,41.66666666666667,Low Revenue
+B-25815,2018-10-10,Harsh,Nagaland,Kohima,2018.0,10.0,October,35,14,2,Clothing,Stole,Credit Card,40.0,Low Revenue
+B-25822,,Tejas,Karnataka,Bangalore,,,,34,13,2,Clothing,Saree,COD,38.23529411764706,Low Revenue
+B-26075,,Pearl,Maharashtra,Pune,,,,34,12,2,Clothing,Stole,COD,35.294117647058826,Low Revenue
+B-25783,,Shivangi,Madhya Pradesh,Indore,,,,33,-10,6,Clothing,Leggings,UPI,-30.303030303030305,Low Revenue
+B-25783,,Shivangi,Madhya Pradesh,Indore,,,,25,-11,1,Clothing,Stole,UPI,-44.0,Low Revenue
+B-25783,,Shivangi,Madhya Pradesh,Indore,,,,26,2,2,Clothing,Hankerchief,COD,7.6923076923076925,Low Revenue
+B-25783,,Shivangi,Madhya Pradesh,Indore,,,,30,-6,2,Clothing,Hankerchief,UPI,-20.0,Low Revenue
+B-25783,,Shivangi,Madhya Pradesh,Indore,,,,21,-17,3,Clothing,Shirt,COD,-80.95238095238095,Low Revenue
+B-26046,2018-04-03,Nishi,Maharashtra,Mumbai,2018.0,4.0,April,32,3,8,Clothing,Hankerchief,COD,9.375,Low Revenue
+B-25690,,Gunjan,Madhya Pradesh,Indore,,,,31,-10,3,Clothing,Skirt,COD,-32.25806451612903,Low Revenue
+B-25706,2018-01-07,Swetlana,Goa,Goa,2018.0,1.0,January,31,-11,4,Clothing,Stole,COD,-35.483870967741936,Low Revenue
+B-25736,,Akshat,Maharashtra,Mumbai,,,,31,-7,5,Clothing,Skirt,UPI,-22.58064516129032,Low Revenue
+B-25720,,Namrata,Punjab,Chandigarh,,,,30,-35,1,Furniture,Chairs,COD,-116.66666666666667,Low Revenue
+B-25907,2018-11-12,Jaydeep,Madhya Pradesh,Bhopal,2018.0,11.0,November,30,11,5,Clothing,Hankerchief,COD,36.666666666666664,Low Revenue
+B-25719,2018-12-07,Rashmi,Madhya Pradesh,Indore,2018.0,12.0,December,29,10,2,Clothing,Stole,COD,34.48275862068966,Low Revenue
+B-26013,,Jahan,Madhya Pradesh,Bhopal,,,,29,-10,3,Clothing,Skirt,COD,-34.48275862068966,Low Revenue
+B-26044,2018-02-03,Sanjay,Goa,Goa,2018.0,2.0,February,28,-10,3,Clothing,Skirt,COD,-35.714285714285715,Low Revenue
+B-25649,2018-05-05,Rachna,Haryana,Chandigarh,2018.0,5.0,May,27,-25,2,Clothing,Stole,COD,-92.5925925925926,Low Revenue
+B-25658,,Shefali,Rajasthan,Jaipur,,,,27,9,2,Clothing,T-shirt,UPI,33.33333333333333,Low Revenue
+B-25672,,Akanksha,Andhra Pradesh,Hyderabad,,,,27,-15,1,Clothing,Stole,UPI,-55.55555555555556,Low Revenue
+B-25624,,Vini,Karnataka,Bangalore,,,,26,12,3,Clothing,Hankerchief,COD,46.15384615384615,Low Revenue
+B-25884,,Sumeet,Maharashtra,Mumbai,,,,24,2,4,Clothing,Hankerchief,COD,8.333333333333332,Low Revenue
+B-25641,,Parishi,West Bengal,Kolkata,,,,22,-6,1,Furniture,Furnishings,COD,-27.27272727272727,Low Revenue
+B-25841,2018-01-11,Ashvini,Maharashtra,Mumbai,2018.0,1.0,January,22,11,2,Clothing,Skirt,Credit Card,50.0,Low Revenue
+B-25980,,Shweta,Rajasthan,Udaipur,,,,22,11,3,Clothing,Kurti,COD,50.0,Low Revenue
+B-26012,,Pearl,Maharashtra,Pune,,,,199,8,2,Clothing,Saree,COD,4.0201005025125625,High Revenue
+B-26029,,Ramesh,Gujarat,Ahmedabad,,,,21,10,1,Clothing,T-shirt,Debit Card,47.61904761904761,Low Revenue
+B-26071,,Subhashree,Jammu and Kashmir,Kashmir,,,,21,4,3,Clothing,Hankerchief,Credit Card,19.047619047619047,Low Revenue
+B-25646,2018-01-05,Sonal,Bihar,Patna,2018.0,1.0,January,299,-8,2,Clothing,Saree,COD,-2.6755852842809364,High Revenue
+B-25677,2018-02-06,Ekta,West Bengal,Kolkata,2018.0,2.0,February,20,-2,1,Electronics,Accessories,UPI,-10.0,Low Revenue
+B-25759,,Soumya,Sikkim,Gangtok,,,,20,-9,6,Clothing,Hankerchief,Debit Card,-45.0,Low Revenue
+B-26059,2018-12-03,Rachna,Haryana,Chandigarh,2018.0,12.0,December,20,6,1,Clothing,T-shirt,COD,30.0,Low Revenue
+B-25632,,Manish,Himachal Pradesh,Simla,,,,19,-2,2,Clothing,Leggings,Debit Card,-10.526315789473683,Low Revenue
+B-26079,,Hazel,Karnataka,Bangalore,,,,18,3,2,Clothing,Hankerchief,Debit Card,16.666666666666664,Low Revenue
+B-25674,,Mahima,Maharashtra,Pune,,,,17,-12,5,Clothing,Skirt,Debit Card,-70.58823529411765,Low Revenue
+B-25965,,Saloni,West Bengal,Kolkata,,,,17,7,3,Clothing,Hankerchief,Debit Card,41.17647058823529,Low Revenue
+B-25732,,Anubhaw,Karnataka,Bangalore,,,,16,-5,2,Clothing,Stole,UPI,-31.25,Low Revenue
+B-25834,,Ananya,Andhra Pradesh,Hyderabad,,,,16,5,1,Clothing,Stole,UPI,31.25,Low Revenue
+B-25784,,Rohit,Rajasthan,Jaipur,,,,15,4,1,Clothing,Hankerchief,Debit Card,26.666666666666668,Low Revenue
+B-25982,,Hemangi,Delhi,Delhi,,,,13,3,1,Clothing,Leggings,COD,23.076923076923077,Low Revenue
+B-25788,,Dinesh,Tamil Nadu,Chennai,,,,12,3,1,Clothing,Stole,UPI,25.0,Low Revenue
+B-25742,2018-03-08,Ashwin,Goa,Goa,2018.0,3.0,March,11,-8,2,Clothing,Skirt,UPI,-72.72727272727273,Low Revenue
+B-26088,,Bhavna,Sikkim,Gangtok,,,,11,5,2,Clothing,Hankerchief,UPI,45.45454545454545,Low Revenue
+B-25707,2018-01-07,Shivani,Maharashtra,Mumbai,2018.0,1.0,January,8,-6,1,Clothing,Stole,COD,-75.0,Low Revenue
+B-25758,,Shubham,Himachal Pradesh,Simla,,,,8,-2,1,Clothing,Stole,COD,-25.0,Low Revenue
+B-26095,,Monisha,Rajasthan,Jaipur,,,,6,1,1,Clothing,Kurti,UPI,16.666666666666664,Low Revenue
